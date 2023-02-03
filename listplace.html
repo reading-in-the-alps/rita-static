@@ -1,0 +1,877 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="Ortsregister" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title>Ortsregister</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-lg navbar-light">
+               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" title="Lesen im Alpental" alt="Lesen im Alpental" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="Lesen im Alpental" itemprop="url">Lesen im Alpental</a><span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                     <ul id="main-menu" class="navbar-nav">
+                        <li class="nav-item dropdown"><a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item dropdown"><a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Personen" href="listperson.html" class="nav-link">Personen</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listplace.html" class="nav-link">Orte</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listorg.html" class="nav-link">Institutionen</a></li>
+                              <div class="dropdown-divider"></div>
+                              <li class="nav-item dropdown-submenu"><a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
+                     </ul>
+                     <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search"><input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" /><button type="submit" class="navbar-search-icon"><i data-feather="search"></i></button></form>
+                  </div>
+               </div>
+            </nav>
+         </div>
+         <div class="container-fluid">
+            <div class="card">
+               <div class="card-header">
+                  <h1>Ortsregister</h1>
+               </div>
+               <div class="card-body">
+                  <table class="table table-striped display" id="tocTable" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th scope="col">Ortsname</th>
+                           <th scope="col">Lat/Lng</th>
+                           <th scope="col">ID</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Unterschönberg</td>
+                           <td></td>
+                           <td><a href="untersch%C3%B6nberg.html">unterschönberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Johann im Ahrntal</td>
+                           <td></td>
+                           <td><a href="ahrn.html">ahrn</a></td>
+                        </tr>
+                        <tr>
+                           <td>auf der Scheibe (Neustift)</td>
+                           <td></td>
+                           <td><a href="auf-der-scheibe-neustift.html">auf-der-scheibe-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rain (Neustift)</td>
+                           <td></td>
+                           <td><a href="rain-neustift.html">rain-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kampl (Neder, Neustift)</td>
+                           <td></td>
+                           <td><a href="kampl-neder-neustift.html">kampl-neder-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mieders</td>
+                           <td></td>
+                           <td><a href="mieders.html">mieders</a></td>
+                        </tr>
+                        <tr>
+                           <td>Milders (Neustift)</td>
+                           <td></td>
+                           <td><a href="milders-neustift.html">milders-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Starkenhof (Kreith?)</td>
+                           <td></td>
+                           <td><a href="starkenhof-kreith.html">starkenhof-kreith</a></td>
+                        </tr>
+                        <tr>
+                           <td>Starkenhof (Kreit?)</td>
+                           <td></td>
+                           <td><a href="starkenhof-kreit.html">starkenhof-kreit</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kirchbrücke (Telfes)</td>
+                           <td></td>
+                           <td><a href="kirchbr%C3%BCcke-telfes.html">kirchbrücke-telfes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Fulpmes</td>
+                           <td></td>
+                           <td><a href="fulpmes.html">fulpmes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gröben (Fulpmes)</td>
+                           <td></td>
+                           <td><a href="gr%C3%B6ben-fulpmes.html">gröben-fulpmes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schochen (Neustift)</td>
+                           <td></td>
+                           <td><a href="schochen-neustift.html">schochen-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gagers (Telfes)</td>
+                           <td></td>
+                           <td><a href="gagers-telfes.html">gagers-telfes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Obere Gasse (Neder, Neustift)</td>
+                           <td></td>
+                           <td><a href="obere-gasse-neder-neustift.html">obere-gasse-neder-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Volderau (Neustift)</td>
+                           <td></td>
+                           <td><a href="volderau-neustift.html">volderau-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Scheibe (Neustift)</td>
+                           <td></td>
+                           <td><a href="scheibe-neustift.html">scheibe-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Medraz (Fulpmes)</td>
+                           <td></td>
+                           <td><a href="medraz-fulpmes.html">medraz-fulpmes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neder (Neustift)</td>
+                           <td></td>
+                           <td><a href="neder-neustift.html">neder-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neder (Neustift) / Neustift</td>
+                           <td></td>
+                           <td><a href="neder-neustift-neustift.html">neder-neustift-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schönberg</td>
+                           <td></td>
+                           <td><a href="sch%C3%B6nberg.html">schönberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mühltal (Mieders)</td>
+                           <td></td>
+                           <td><a href="m%C3%BChltal-mieders.html">mühltal-mieders</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neder(Neustift)</td>
+                           <td></td>
+                           <td><a href="nederneustift.html">nederneustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Erlach (Neustift?)</td>
+                           <td></td>
+                           <td><a href="erlach-neustift.html">erlach-neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kreith</td>
+                           <td></td>
+                           <td><a href="kreith.html">kreith</a></td>
+                        </tr>
+                        <tr>
+                           <td>Dietenheim</td>
+                           <td>46.80345 11.95237</td>
+                           <td><a href="dietenheim.html">dietenheim</a></td>
+                        </tr>
+                        <tr>
+                           <td>Dietenheim (Maria-Himmelfahrt-Kirche)</td>
+                           <td>46.794386 11.943221</td>
+                           <td><a href="himmelfahrt_kirche.html">himmelfahrt_kirche</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bruneck (Kapuzinerkirche)</td>
+                           <td>46.797182 11.940627</td>
+                           <td><a href="brunegg_kappuziner.html">brunegg_kappuziner</a></td>
+                        </tr>
+                        <tr>
+                           <td>Getreuenstein (Ansitz)</td>
+                           <td>46.803271 11.952109</td>
+                           <td><a href="getreuenstain.html">getreuenstain</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ahrntal</td>
+                           <td>46.99623 11.97988</td>
+                           <td><a href="aehrn.html">aehrn</a></td>
+                        </tr>
+                        <tr>
+                           <td>Taufers</td>
+                           <td>46.9112 11.94835</td>
+                           <td><a href="taufers.html">taufers</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Michaelsburg</td>
+                           <td>46.772172 11.892502</td>
+                           <td><a href="saenct_michaelspurg.html">saenct_michaelspurg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Innsbruck</td>
+                           <td>47.26266 11.39454</td>
+                           <td><a href="innsbruck.html">innsbruck</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Lorenzen</td>
+                           <td>46.78514 11.90812</td>
+                           <td><a href="st_lorenzen.html">st_lorenzen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bruneck</td>
+                           <td>46.79942 11.93429</td>
+                           <td><a href="brunegg.html">brunegg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Saalen</td>
+                           <td>46.765848 11.867168</td>
+                           <td><a href="saalen.html">saalen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Maria Saalen / Unsere Liebe Frau von Loreto</td>
+                           <td>46.765848 11.867168</td>
+                           <td><a href="saalen_kaplanei.html">saalen_kaplanei</a></td>
+                        </tr>
+                        <tr>
+                           <td>Brixen</td>
+                           <td>46.71503 11.65598</td>
+                           <td><a href="brixen.html">brixen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sonnenburg</td>
+                           <td>46.78644 11.89123</td>
+                           <td><a href="soneburg.html">soneburg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stift Sonnenburg</td>
+                           <td>46.78644 11.89123</td>
+                           <td><a href="stift_sonnenburg.html">stift_sonnenburg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Steinach am Brenner</td>
+                           <td>47.08809 11.48985</td>
+                           <td><a href="stainach.html">stainach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rovereto</td>
+                           <td>45.8904 11.04053</td>
+                           <td><a href="roveredo.html">roveredo</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kronburg</td>
+                           <td>47.17659 10.62567</td>
+                           <td><a href="cronburg.html">cronburg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mühlbach</td>
+                           <td>46.79658 11.66754</td>
+                           <td><a href="muehlbach.html">muehlbach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mühlbach</td>
+                           <td>46.84745 11.98062</td>
+                           <td><a href="muehlbach_bei_gais.html">muehlbach_bei_gais</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rodeneck</td>
+                           <td>46.77953 11.69048</td>
+                           <td><a href="rodenegg.html">rodenegg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rodeneck</td>
+                           <td>46.77953 11.69048</td>
+                           <td><a href="gericht_rodenegg.html">gericht_rodenegg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Montal</td>
+                           <td>46.7709 11.86038</td>
+                           <td><a href="monthal.html">monthal</a></td>
+                        </tr>
+                        <tr>
+                           <td>Klausen</td>
+                           <td>46.64001 11.56573</td>
+                           <td><a href="klausen.html">klausen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lajen</td>
+                           <td>46.60809 11.56559</td>
+                           <td><a href="layen.html">layen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Latzfons</td>
+                           <td>46.66965 11.55135</td>
+                           <td><a href="lazfonns.html">lazfonns</a></td>
+                        </tr>
+                        <tr>
+                           <td>Verdings</td>
+                           <td>46.65653 11.57221</td>
+                           <td><a href="verdings.html">verdings</a></td>
+                        </tr>
+                        <tr>
+                           <td>Hl.-Kreuz-Kirche / Fronwiese</td>
+                           <td>46.786494 11.910330</td>
+                           <td><a href="heiligkreuz_franewiese.html">heiligkreuz_franewiese</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Lorenzen (Kirche)</td>
+                           <td>46.783527 11.902577</td>
+                           <td><a href="st_lorenzen_kirche.html">st_lorenzen_kirche</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tschogglerhof</td>
+                           <td>46.771901 11.936413</td>
+                           <td><a href="tschogglerhof.html">tschogglerhof</a></td>
+                        </tr>
+                        <tr>
+                           <td>Reischach (Kirche)</td>
+                           <td>46.777046 11.950265</td>
+                           <td><a href="reischach_kirche.html">reischach_kirche</a></td>
+                        </tr>
+                        <tr>
+                           <td>Reischach</td>
+                           <td>46.77685 11.95149</td>
+                           <td><a href="reischach.html">reischach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rattenberg</td>
+                           <td>47.43861 11.89374</td>
+                           <td><a href="rattenperg.html">rattenperg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Salzburg (Erzbistum)</td>
+                           <td>47.41667 13.25</td>
+                           <td><a href="salzburg.html">salzburg</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Georgen</td>
+                           <td>46.81254 11.93416</td>
+                           <td><a href="st_georgen.html">st_georgen</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Georg (Kirche)</td>
+                           <td>46.816003 11.933442</td>
+                           <td><a href="st_georgen_kirche.html">st_georgen_kirche</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stegen</td>
+                           <td>46.796 11.926</td>
+                           <td><a href="steegen.html">steegen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rienzfelder</td>
+                           <td>46.803196 11.930335</td>
+                           <td><a href="rienzfeld.html">rienzfeld</a></td>
+                        </tr>
+                        <tr>
+                           <td>Koflach</td>
+                           <td></td>
+                           <td><a href="kofflach.html">kofflach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Künzental</td>
+                           <td></td>
+                           <td><a href="kuenzenthall.html">kuenzenthall</a></td>
+                        </tr>
+                        <tr>
+                           <td>Uttenheim</td>
+                           <td>46.86507 11.94753</td>
+                           <td><a href="uttenheim.html">uttenheim</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stock (Ansitz)</td>
+                           <td>46.866011 11.947762</td>
+                           <td><a href="stock.html">stock</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neunhäusern</td>
+                           <td>46.77446 12.02154</td>
+                           <td><a href="neunhaeusern.html">neunhaeusern</a></td>
+                        </tr>
+                        <tr>
+                           <td>Niederrasen</td>
+                           <td>46.77806 12.05222</td>
+                           <td><a href="niederrasen.html">niederrasen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tesselberg</td>
+                           <td>46.82888 11.98577</td>
+                           <td><a href="tesselberg.html">tesselberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rasen / Altrasen</td>
+                           <td>46.77853 12.04729</td>
+                           <td><a href="rasen.html">rasen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Antholz-Mittertal</td>
+                           <td>46.85855 12.0999</td>
+                           <td><a href="antholz_mittertal.html">antholz_mittertal</a></td>
+                        </tr>
+                        <tr>
+                           <td>Antholz</td>
+                           <td>46.85855 12.0999</td>
+                           <td><a href="antholz.html">antholz</a></td>
+                        </tr>
+                        <tr>
+                           <td>Oberwielenbach</td>
+                           <td>46.81664 12.00335</td>
+                           <td><a href="oberwiellenpach.html">oberwiellenpach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gais</td>
+                           <td>46.83658 11.94931</td>
+                           <td><a href="gais.html">gais</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gais (St.-Johannes-Kirche)</td>
+                           <td>46.833052 11.947658</td>
+                           <td><a href="gais_kirche.html">gais_kirche</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Jakob (Kirche)</td>
+                           <td>46.802437 11.950299</td>
+                           <td><a href="dietenheim_jakob.html">dietenheim_jakob</a></td>
+                        </tr>
+                        <tr>
+                           <td>Obertilliach</td>
+                           <td>46.71056 12.61444</td>
+                           <td><a href="tilliach.html">tilliach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Jenbach</td>
+                           <td>47.39173 11.77245</td>
+                           <td><a href="jempach.html">jempach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Strengen</td>
+                           <td>47.12589 10.46199</td>
+                           <td><a href="strengen.html">strengen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wenns</td>
+                           <td>47.16667 10.73333</td>
+                           <td><a href="wenns.html">wenns</a></td>
+                        </tr>
+                        <tr>
+                           <td>Telfes</td>
+                           <td>47.16667 11.36667</td>
+                           <td><a href="telfes.html">telfes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kärnten</td>
+                           <td>46.75 13.83333</td>
+                           <td><a href="kaernten.html">kaernten</a></td>
+                        </tr>
+                        <tr>
+                           <td>Imst</td>
+                           <td>47.24504 10.73974</td>
+                           <td><a href="ymbst.html">ymbst</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lienz</td>
+                           <td>46.8289 12.76903</td>
+                           <td><a href="lienz.html">lienz</a></td>
+                        </tr>
+                        <tr>
+                           <td>Pflaurenz</td>
+                           <td>46.78225 11.89223</td>
+                           <td><a href="pflaurenz.html">pflaurenz</a></td>
+                        </tr>
+                        <tr>
+                           <td>Königreich Großbritannien</td>
+                           <td>54 -2</td>
+                           <td><a href="england.html">england</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neustift</td>
+                           <td>46.74313 11.64801</td>
+                           <td><a href="neustift.html">neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Innichen</td>
+                           <td>46.7324 12.27855</td>
+                           <td><a href="iniching.html">iniching</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sterzing</td>
+                           <td>46.89253 11.43007</td>
+                           <td><a href="sterzing.html">sterzing</a></td>
+                        </tr>
+                        <tr>
+                           <td>Naudersberg</td>
+                           <td>46.88746 10.54071</td>
+                           <td><a href="naudersberg.html">naudersberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Martin</td>
+                           <td>46.77714 11.89806</td>
+                           <td><a href="st_martin.html">st_martin</a></td>
+                        </tr>
+                        <tr>
+                           <td>St.-Gotthard-und-St.-Erhard-Kirche</td>
+                           <td>46.715864 11.655517</td>
+                           <td><a href="st_gotthard.html">st_gotthard</a></td>
+                        </tr>
+                        <tr>
+                           <td>Onach</td>
+                           <td>46.74843 11.86496</td>
+                           <td><a href="onach.html">onach</a></td>
+                        </tr>
+                        <tr>
+                           <td>In der Mahr</td>
+                           <td>46.696169 11.641767</td>
+                           <td><a href="mahr.html">mahr</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Johannes (eventuell )</td>
+                           <td></td>
+                           <td><a href="st_johannes.html">st_johannes</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ultental</td>
+                           <td>46.51151 10.90741</td>
+                           <td><a href="ulten.html">ulten</a></td>
+                        </tr>
+                        <tr>
+                           <td>Passeiertal</td>
+                           <td>46.81282 11.24577</td>
+                           <td><a href="passeier.html">passeier</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sarntal</td>
+                           <td>46.64352 11.35577</td>
+                           <td><a href="sarnthal.html">sarnthal</a></td>
+                        </tr>
+                        <tr>
+                           <td>Niederolang</td>
+                           <td>46.7681 12.01818</td>
+                           <td><a href="niederolang.html">niederolang</a></td>
+                        </tr>
+                        <tr>
+                           <td>Olang</td>
+                           <td>46.75983 12.03099</td>
+                           <td><a href="ollang.html">ollang</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Sigmund</td>
+                           <td>46.81151 11.80267</td>
+                           <td><a href="st_sigmund.html">st_sigmund</a></td>
+                        </tr>
+                        <tr>
+                           <td>Pfalzen</td>
+                           <td>46.81359 11.88308</td>
+                           <td><a href="pfalzen.html">pfalzen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schöneck</td>
+                           <td>46.820236 11.847940</td>
+                           <td><a href="scheneck.html">scheneck</a></td>
+                        </tr>
+                        <tr>
+                           <td>Moos</td>
+                           <td>46.76931 11.89759</td>
+                           <td><a href="moos.html">moos</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lothen</td>
+                           <td>46.79238 11.88692</td>
+                           <td><a href="lothen.html">lothen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Goslbichl</td>
+                           <td></td>
+                           <td><a href="goslbichl.html">goslbichl</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stefansdorf</td>
+                           <td>46.7702 11.92189</td>
+                           <td><a href="stephansdorf.html">stephansdorf</a></td>
+                        </tr>
+                        <tr>
+                           <td>Pikolein</td>
+                           <td>46.68724 11.89539</td>
+                           <td><a href="picolein.html">picolein</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Martin in Thurn</td>
+                           <td>46.68153 11.89809</td>
+                           <td><a href="st_martin_thurn.html">st_martin_thurn</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schloss Thurn</td>
+                           <td>46.6807 11.89325</td>
+                           <td><a href="thurn_schloss.html">thurn_schloss</a></td>
+                        </tr>
+                        <tr>
+                           <td>Thurn</td>
+                           <td>46.68153 11.89809</td>
+                           <td><a href="thurn.html">thurn</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sorega</td>
+                           <td>46.56688 11.93478</td>
+                           <td><a href="sorega.html">sorega</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Kassian</td>
+                           <td>46.57007 11.93606</td>
+                           <td><a href="st_kassian.html">st_kassian</a></td>
+                        </tr>
+                        <tr>
+                           <td>Enneberg</td>
+                           <td>46.69792 11.93544</td>
+                           <td><a href="ennenberg.html">ennenberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Obvill</td>
+                           <td></td>
+                           <td><a href="obvill.html">obvill</a></td>
+                        </tr>
+                        <tr>
+                           <td>Glurnhör (Ansitz Hebenstreit)</td>
+                           <td>46.7878 11.8895</td>
+                           <td><a href="glurnhor_hebenstreit.html">glurnhor_hebenstreit</a></td>
+                        </tr>
+                        <tr>
+                           <td>Fassing</td>
+                           <td>46.7915 11.8967</td>
+                           <td><a href="fassing.html">fassing</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sillian</td>
+                           <td>46.75278 12.42111</td>
+                           <td><a href="sillian.html">sillian</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ellen</td>
+                           <td>46.77601 11.83533</td>
+                           <td><a href="ellen.html">ellen</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kiens</td>
+                           <td>46.8068 11.84</td>
+                           <td><a href="kiens.html">kiens</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mauern</td>
+                           <td>46.7725 11.8895</td>
+                           <td><a href="mauern.html">mauern</a></td>
+                        </tr>
+                        <tr>
+                           <td>Runggen</td>
+                           <td>46.77725 11.8738</td>
+                           <td><a href="runggen.html">runggen</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Oswald</td>
+                           <td>46.5567 11.5213</td>
+                           <td><a href="st_oswald.html">st_oswald</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kastelruth</td>
+                           <td>46.56662 11.56098</td>
+                           <td><a href="kastelruth.html">kastelruth</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Nikolaus (Kirche)</td>
+                           <td>46.7972 11.9234</td>
+                           <td><a href="steegen_nikolaus.html">steegen_nikolaus</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schwaz</td>
+                           <td>47.35169 11.71014</td>
+                           <td><a href="schwaz.html">schwaz</a></td>
+                        </tr>
+                        <tr>
+                           <td>Steinhaus</td>
+                           <td>46.995 11.98</td>
+                           <td><a href="stainhaus.html">stainhaus</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neustift (Kloster)</td>
+                           <td>46.74247 11.6489</td>
+                           <td><a href="brixen_neustift.html">brixen_neustift</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lemberg / Lviv</td>
+                           <td>49.83826 24.02324</td>
+                           <td><a href="lemberg.html">lemberg</a></td>
+                        </tr>
+                        <tr>
+                           <td>Borgo Sacco</td>
+                           <td>45.88622 11.01987</td>
+                           <td><a href="borgo.html">borgo</a></td>
+                        </tr>
+                        <tr>
+                           <td>Baslan</td>
+                           <td>46.63942 11.14207</td>
+                           <td><a href="pasln.html">pasln</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tscherms</td>
+                           <td>46.63462 11.14657</td>
+                           <td><a href="tscherms.html">tscherms</a></td>
+                        </tr>
+                        <tr>
+                           <td>Keselanger</td>
+                           <td></td>
+                           <td><a href="keselanger.html">keselanger</a></td>
+                        </tr>
+                        <tr>
+                           <td>Luns</td>
+                           <td>46.79643 11.96948</td>
+                           <td><a href="luns.html">luns</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Martin (Kirche)</td>
+                           <td>46.776636 11.895204</td>
+                           <td><a href="st_martin_kaplanei.html">st_martin_kaplanei</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bruneck (Ursulinenkirche)</td>
+                           <td>46.795207 11.936215</td>
+                           <td><a href="brunegg_ursulinen.html">brunegg_ursulinen</a></td>
+                        </tr>
+                        <tr>
+                           <td>St. Vigil</td>
+                           <td>46.69884 11.93104</td>
+                           <td><a href="st_vigili.html">st_vigili</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kals</td>
+                           <td>47 12.65</td>
+                           <td><a href="kals_gericht.html">kals_gericht</a></td>
+                        </tr>
+                        <tr>
+                           <td>Obervellach</td>
+                           <td>46.93309 13.19738</td>
+                           <td><a href="oberfellach.html">oberfellach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Oberfalkenstein</td>
+                           <td>46.922775 13.240425</td>
+                           <td><a href="falkenstein.html">falkenstein</a></td>
+                        </tr>
+                        <tr>
+                           <td>Maria vom Guten Rat (Kirche)</td>
+                           <td>46.718899 11.919184</td>
+                           <td><a href="enneberg_maria.html">enneberg_maria</a></td>
+                        </tr>
+                        <tr>
+                           <td>Enneberg-Pfarre</td>
+                           <td>46.71901 11.91694</td>
+                           <td><a href="enneberg_pfarre.html">enneberg_pfarre</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lovara</td>
+                           <td>46.67374 11.899791</td>
+                           <td><a href="lovara.html">lovara</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gerichtshaus Enneberg</td>
+                           <td>46.69831 11.930725</td>
+                           <td><a href="enneberg_gericht.html">enneberg_gericht</a></td>
+                        </tr>
+                        <tr>
+                           <td>Klettenheim</td>
+                           <td></td>
+                           <td><a href="klettenheim.html">klettenheim</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ahornach</td>
+                           <td>46.9264 11.9789</td>
+                           <td><a href="ahornach.html">ahornach</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sand in Taufers</td>
+                           <td>46.91882 11.953575</td>
+                           <td><a href="sand.html">sand</a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+         </div>
+         <div class="wrapper fundament-default-footer" id="wrapper-footer-full" style="margin-top: 4em;">
+            <div class="container" id="footer-full-content" tabindex="-1">
+               <div class="footer-separator">
+                  CONTACT
+                  </div>
+               <div class="row">
+                  <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
+                     <div class="textwidget custom-html-widget"><a href="/"><img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" class="image" alt="ACDH Logo" style="max-width: 100%; height: auto;" title="ACDH Logo" /></a></div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
+                     <div class="textwidget custom-html-widget">
+                        <p>
+                           ACDH-CH OEAW
+                           <br />
+                           Austrian Centre for Digital Humanities and Cultural Heritage
+                           <br />
+                           Austrian Academy of Sciences
+                           </p>
+                        <p>
+                           Sonnenfelsgasse 19
+                           <br />
+                           1010 Vienna
+                           </p>
+                        <p>
+                           T: +43 1 51581-2200
+                           <br />
+                           E: <a href="mailto:acdh@oeaw.ac.at">acdh@oeaw.ac.at</a></p>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                     <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
+                     <div class="row">
+                        <div class="textwidget custom-html-widget">
+                           <h6 class="font-weight-bold">HELPDESK</h6>
+                           <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
+                              topics.</p>
+                           <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto" style="margin-left:0 !important;">
+                           <div class="textwidget custom-html-widget">
+                              <p style="margin-bottom:0 !important;">Social: </p>
+                           </div>
+                           <div class="row">
+                              <div class="textwidget custom-html-widget col-md-4"><a id="github-logo" title="GitHub" href="https://github.com/reading-in-the-alps/rita-static" class="nav-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                                       <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"></path></svg></a></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;"><a href="imprint.html">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script><script>
+                        $(document).ready(function () {
+                        createDataTable('tocTable')
+                        });
+                    </script></div>
+   </body>
+</html>
