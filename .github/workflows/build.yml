@@ -18,7 +18,7 @@ jobs:
         ./script.sh
         pip install -r requirements.txt
     - name: fetch data
-      run: fetch_data.sh
+      run: ./fetch_data.sh
     - name: Build
       run: ant
     - name: Deploy
