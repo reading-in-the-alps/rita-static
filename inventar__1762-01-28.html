@@ -14,25 +14,27 @@
       <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
    <body class="page">
       <div class="hfeed site" id="page">
-         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-lg navbar-light">
-               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" title="Lesen im Alpental" alt="Lesen im Alpental" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="Lesen im Alpental" itemprop="url">Lesen im Alpental</a><span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                     <ul id="main-menu" class="navbar-nav">
-                        <li class="nav-item dropdown"><a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
-                              <li class="nav-item dropdown-submenu"><a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a></li>
-                           </ul>
-                        </li>
-                        <li class="nav-item dropdown"><a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
-                              <li class="nav-item dropdown-submenu"><a title="Personen" href="listperson.html" class="nav-link">Personen</a></li>
-                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listplace.html" class="nav-link">Orte</a></li>
-                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listorg.html" class="nav-link">Institutionen</a></li>
-                              <div class="dropdown-divider"></div>
-                              <li class="nav-item dropdown-submenu"><a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a></li>
-                           </ul>
-                        </li>
-                        <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
-                     </ul>
-                     <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search"><input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" /><button type="submit" class="navbar-search-icon"><i data-feather="search"></i></button></form>
-                  </div>
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow"><a class="navbar-brand" href="/"><img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka" /></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Menü
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="../pages/index.html">Start</a><a class="dropdown-item" href="../pages/show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">Über das Projekt</a><a class="dropdown-item" href="../pages/workshop.html">Workshop: Historische Bestseller und alte Scharteken</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Transkriptionen
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="../pages/toc.html?collection=editions">Pustertal (rita 2)</a><a class="dropdown-item" href="../pages/rita1.html?collection=rita1">Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Summarische Auswertungen
+                           </a><div class="dropdown-menu">
+                           <h3 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h3><a class="dropdown-item" href="../pages/show.html?document=lg_michaelsburg.xml&amp;directory=inventare">Landgericht St. Michaelsburg</a><a class="dropdown-item" href="../pages/show.html?document=sg_bruneck.xml&amp;directory=inventare">Stadtgericht Bruneck</a><a class="dropdown-item" href="../pages/show.html?document=oag_bruneck.xml&amp;directory=inventare">Oberamtsgericht Bruneck</a><a class="dropdown-item" href="../pages/inventare.html#myTable=vt0.1.2.3.16">Pustertal gesamt</a><h6 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h6><a class="dropdown-item" href="../pages/show.html?document=rita1_summary.xml&amp;directory=meta&amp;stylesheet=inventare">Metadaten Inventare Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Register
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="../pages/persons.html">Personen</a><a class="dropdown-item" href="../pages/places.html">Orte</a><a class="dropdown-item" href="../pages/bibl.html">Bücher</a><div class="dropdown-divider"></div><a class="dropdown-item" href="../pages/netvis.html">Netzwerkgrafik</a></div>
+                     </li>
+                  </ul>
+                  <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0"><input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
                </div>
             </nav>
          </div>
@@ -1864,115 +1866,246 @@
                      <div class="footnotes" id="note__3"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#inventar">Verlassenschaftsabhandlung</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn13"><a href="#fna_13"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">13</span></a></a>
+                     <div class="footnotes" id="note__2"><a name="fn13"><a href="#fna_13"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">13</span></a></a>Erblasser (1798)</div>
+                     <div class="footnotes" id="note__4"><a name="fn14"><a href="#fna_14"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">14</span></a></a>Priester und Benefiziat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__6"><a name="fn15"><a href="#fna_15"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">15</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#manucredo_jacob_andree">Jakob Andreas Manucredo</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueberin_maria_elisabetha">Maria Elisabeth Hueberin</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn16"><a href="#fna_16"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">16</span></a></a>Kooperator in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn17"><a href="#fna_17"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">17</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn14"><a href="#fna_14"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">14</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn15"><a href="#fna_15"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">15</span></a></a>Kommissionsschreiber und Amtgerichtschreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn16"><a href="#fna_16"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">16</span></a></a>Priester und Kooperator in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn17"><a href="#fna_17"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">17</span></a></a>Erblasser</div>
-                     <div class="footnotes" id="note__5"><a name="fn18"><a href="#fna_18"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">18</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_mathes">Matthias Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__6"><a name="fn19"><a href="#fna_19"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">19</span></a></a>
+                     <div class="footnotes" id="note__4"><a name="fn18"><a href="#fna_18"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">18</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn20"><a href="#fna_20"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">20</span></a></a>
+                     <div class="footnotes" id="note__2"><a name="fn19"><a href="#fna_19"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">19</span></a></a>oberösterreichischer Regimentsadvokat</div>
+                     <div class="footnotes" id="note__3"><a name="fn20"><a href="#fna_20"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">20</span></a></a>Lizenziat beider Rechte</div>
+                     <div class="footnotes" id="note__5"><a name="fn21"><a href="#fna_21"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">21</span></a></a>Pfleger und Landrichter der Herrschaft <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn22"><a href="#fna_22"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">22</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jempach">Jenbach</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn23"><a href="#fna_23"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">23</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn21"><a href="#fna_21"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">21</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn24"><a href="#fna_24"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">24</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn22"><a href="#fna_22"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">22</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
+                     <div class="footnotes" id="note__2"><a name="fn25"><a href="#fna_25"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">25</span></a></a>Benefiziat in Taisten</div>
+                     <div class="footnotes" id="note__3"><a name="fn26"><a href="#fna_26"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">26</span></a></a>Taisten</div>
+                     <div class="footnotes" id="note__3"><a name="fn27"><a href="#fna_27"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">27</span></a></a>Kommissionsschreiber und Amtgerichtschreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn23"><a href="#fna_23"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">23</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn28"><a href="#fna_28"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">28</span></a></a>Konsistorialpräsident und Weihbischof von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brixen">Brixen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn24"><a href="#fna_24"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">24</span></a></a>Schreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn29"><a href="#fna_29"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">29</span></a></a>Titularbischof von Hypsos/Hypsopolitanus</div>
+                     <div class="footnotes" id="note__3"><a name="fn30"><a href="#fna_30"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">30</span></a></a>Schulmeister in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn25"><a href="#fna_25"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">25</span></a></a>Zeuge im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#gasser_joseph">Joseph Gasser</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn31"><a href="#fna_31"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">31</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
                         </div>
-                     <div class="footnotes" id="note__5"><a name="fn26"><a href="#fna_26"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">26</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__2"><a name="fn27"><a href="#fna_27"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">27</span></a></a>Benefiziat in Taisten</div>
-                     <div class="footnotes" id="note__3"><a name="fn28"><a href="#fna_28"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">28</span></a></a>Taisten</div>
-                     <div class="footnotes" id="note__4"><a name="fn29"><a href="#fna_29"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">29</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn30"><a href="#fna_30"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">30</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn31"><a href="#fna_31"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">31</span></a></a>Kooperator in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn32"><a href="#fna_32"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">32</span></a></a>Kirchpropst in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn32"><a href="#fna_32"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">32</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
                         </div>
                      <div class="footnotes" id="note__4"><a name="fn33"><a href="#fna_33"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">33</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn34"><a href="#fna_34"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">34</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#monthal">Montal</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn34"><a href="#fna_34"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">34</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn35"><a href="#fna_35"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">35</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#steger_maria_2">Maria Steegerin</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn35"><a href="#fna_35"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">35</span></a></a>Kirchpropst in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__5"><a name="fn36"><a href="#fna_36"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">36</span></a></a>Landgerichtschreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong> / <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__5"><a name="fn37"><a href="#fna_37"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">37</span></a></a>Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#sigmayr_andree">Andreas Sigmayr</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn38"><a href="#fna_38"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">38</span></a></a>Konsistorialrat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brixen">Brixen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn39"><a href="#fna_39"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">39</span></a></a>Pfarrer und Dechant in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn40"><a href="#fna_40"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">40</span></a></a>geistlicher Kommissär</div>
-                     <div class="footnotes" id="note__3"><a name="fn41"><a href="#fna_41"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">41</span></a></a>Schulmeister in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__2"><a name="fn42"><a href="#fna_42"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">42</span></a></a>Konsistorialsekretär und Hofkaplan</div>
-                     <div class="footnotes" id="note__3"><a name="fn43"><a href="#fna_43"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">43</span></a></a>Häuserin des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn44"><a href="#fna_44"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">44</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn45"><a href="#fna_45"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">45</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jempach">Jenbach</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn46"><a href="#fna_46"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">46</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn47"><a href="#fna_47"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">47</span></a></a>Kurat von St. Wolfgang und Leonhard in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jembach">Jenbach</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn48"><a href="#fna_48"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">48</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jembach">Jenbach</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__2"><a name="fn49"><a href="#fna_49"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">49</span></a></a>oberösterreichischer Regimentsadvokat</div>
-                     <div class="footnotes" id="note__3"><a name="fn50"><a href="#fna_50"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">50</span></a></a>Lizenziat beider Rechte</div>
-                     <div class="footnotes" id="note__5"><a name="fn51"><a href="#fna_51"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">51</span></a></a>Pfleger und Landrichter der Herrschaft <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn52"><a href="#fna_52"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">52</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn53"><a href="#fna_53"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">53</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn54"><a href="#fna_54"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">54</span></a></a>Mitglied des Gerichtsausschusses</div>
-                     <div class="footnotes" id="note__6"><a name="fn55"><a href="#fna_55"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">55</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#tilliach">Tilliach</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn56"><a href="#fna_56"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">56</span></a></a>Supernumerarius / Benefiziat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#soneburg">Sonnenburg</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn57"><a href="#fna_57"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">57</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__2"><a name="fn58"><a href="#fna_58"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">58</span></a></a>Erblasser (1798)</div>
-                     <div class="footnotes" id="note__4"><a name="fn59"><a href="#fna_59"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">59</span></a></a>Priester und Benefiziat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__6"><a name="fn60"><a href="#fna_60"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">60</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#manucredo_jacob_andree">Jakob Andreas Manucredo</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueberin_maria_elisabetha">Maria Elisabeth Hueberin</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn61"><a href="#fna_61"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">61</span></a></a>Konsistorialpräsident und Weihbischof von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brixen">Brixen</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn62"><a href="#fna_62"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">62</span></a></a>Titularbischof von Hypsos/Hypsopolitanus</div>
-                     <div class="footnotes" id="note__3"><a name="fn63"><a href="#fna_63"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">63</span></a></a>Benefiziat in der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#heiligkreuz_franewiese">Heilig-Kreuz-Kirche auf der Fronwiese</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn64"><a href="#fna_64"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">64</span></a></a>
+                     <div class="footnotes" id="note__4"><a name="fn36"><a href="#fna_36"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">36</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
+                     <div class="footnotes" id="note__4"><a name="fn37"><a href="#fna_37"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">37</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn38"><a href="#fna_38"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">38</span></a></a>Mitglied des Gerichtsausschusses</div>
+                     <div class="footnotes" id="note__6"><a name="fn39"><a href="#fna_39"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">39</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#tilliach">Tilliach</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn40"><a href="#fna_40"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">40</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn41"><a href="#fna_41"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">41</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn42"><a href="#fna_42"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">42</span></a></a>Supernumerarius / Benefiziat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#soneburg">Sonnenburg</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn43"><a href="#fna_43"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">43</span></a></a>Schwester von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn44"><a href="#fna_44"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">44</span></a></a>Benefiziat in der <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#heiligkreuz_franewiese">Heilig-Kreuz-Kirche auf der Fronwiese</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn45"><a href="#fna_45"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">45</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn46"><a href="#fna_46"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">46</span></a></a>Konsistorialrat in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brixen">Brixen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn47"><a href="#fna_47"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">47</span></a></a>Pfarrer und Dechant in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#brunegg">Bruneck</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn48"><a href="#fna_48"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">48</span></a></a>geistlicher Kommissär</div>
+                     <div class="footnotes" id="note__3"><a name="fn49"><a href="#fna_49"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">49</span></a></a>Kurat von St. Wolfgang und Leonhard in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jembach">Jenbach</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn50"><a href="#fna_50"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">50</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#jembach">Jenbach</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn51"><a href="#fna_51"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">51</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#monthal">Montal</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn52"><a href="#fna_52"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">52</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#steger_maria_2">Maria Steegerin</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__5"><a name="fn53"><a href="#fna_53"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">53</span></a></a>Landgerichtschreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong> / <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__5"><a name="fn54"><a href="#fna_54"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">54</span></a></a>Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#sigmayr_andree">Andreas Sigmayr</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn55"><a href="#fna_55"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">55</span></a></a>Priester und Kooperator in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn56"><a href="#fna_56"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">56</span></a></a>Erblasser</div>
+                     <div class="footnotes" id="note__5"><a name="fn57"><a href="#fna_57"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">57</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_mathes">Matthias Mitterdorfer</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__6"><a name="fn58"><a href="#fna_58"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">58</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn59"><a href="#fna_59"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">59</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn60"><a href="#fna_60"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">60</span></a></a>Schreiber in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn61"><a href="#fna_61"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">61</span></a></a>Zeuge im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#gasser_joseph">Joseph Gasser</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__5"><a name="fn62"><a href="#fna_62"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">62</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn63"><a href="#fna_63"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">63</span></a></a>Häuserin des <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mitterdorfer_jakob_christoph">Jakob Christoph Mitterdorfer</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__2"><a name="fn64"><a href="#fna_64"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">64</span></a></a>Konsistorialsekretär und Hofkaplan</div>
                   </p>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="manucredo_antany_sebastian">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Anton Sebastian Manucredo <a href="manucredo_antany_sebastian.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Anton Sebastian<br></br><small>Nachname</small>: Manucredo<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Manucredo Anton Sebastian (Priester) <a href="inventar__1798-03-16.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="bruneck_kooperator">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Antonius (?) Hainz (?) <a href="bruneck_kooperator.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Antonius (?)<br></br><small>Nachname</small>: Hainz (?)<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="haberstroo_johann">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Johann Haberstroh <a href="haberstroo_johann.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Haberstroh<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="planer_johannes">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Johannes Planer <a href="planer_johannes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Johannes<br></br><small>Nachname</small>: Planer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="englmohr_joseph_ignaeti">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Joseph Ignaz Englmohr von Aufkirchen und Moregg <a href="englmohr_joseph_ignaeti.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Joseph Ignaz<br></br><small>Nachname</small>: Englmohr von Aufkirchen und Moregg<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="englmohr_joseph_ignaeti.html">hier</a> für eine vollständige Auflistung</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="eypergerin_christina">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Christina Eypergerin <a href="eypergerin_christina.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Christina<br></br><small>Nachname</small>: Eypergerin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
                </div>
             </div>
          </div>
@@ -2019,18 +2152,80 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_lucas">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_mathes_jun">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Lukas Mitterdorfer <a href="mitterdorfer_lucas.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Matthias Mitterdorfer <a href="mitterdorfer_mathes_jun.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Lukas<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Matthias<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="feichter_johannes">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Johannes Feichter <a href="feichter_johannes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Johannes<br></br><small>Nachname</small>: Feichter<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="nagler_andree">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Andreas Nagler <a href="nagler_andree.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Nagler<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="walder_andree">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Andreas Walder <a href="walder_andree.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Walder<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -2064,14 +2259,95 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_jakob_christoph">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ferdinand_joseph">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Jakob Christoph Mitterdorfer <a href="mitterdorfer_jakob_christoph.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Ferdinand Joseph Gabriel Graf zu Sarnthein <a href="ferdinand_joseph.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Jakob Christoph<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Ferdinand Joseph Gabriel<br></br><small>Nachname</small>: Graf zu Sarnthein<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="toschin_apollonia">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Apollonia Notburga Toschin Schuster-Purgl <a href="toschin_apollonia.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Apollonia Notburga<br></br><small>Nachname</small>: Toschin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="salcher_anton">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Anton Salcher <a href="salcher_anton.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Anton<br></br><small>Nachname</small>: Salcher<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_agnes">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Agnes Mitterdorferin <a href="mitterdorfer_agnes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Agnes<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_teresia">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Theresia Mitterdorferin <a href="mitterdorfer_teresia.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Theresia<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2104,30 +2380,6 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="haberstroo_johann">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Johann Haberstroh <a href="haberstroo_johann.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Haberstroh<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
          <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_maria">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
@@ -2148,14 +2400,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="planer_johannes">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="oberhammer_hans">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Johannes Planer <a href="planer_johannes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Johann Oberhammer <a href="oberhammer_hans.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johannes<br></br><small>Nachname</small>: Planer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Oberhammer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2168,22 +2420,18 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steeger_joseph">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="leitner_andre">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Joseph Steeger <a href="steeger_joseph.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Andreas Leitner <a href="leitner_andre.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Joseph<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Leitner<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Pichler Joseph (Kaplan) <a href="inventar__1766-08-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Gasser Joseph (Benefiziat) <a href="inventar__1773-12-17.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -2192,14 +2440,34 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="feichter_johannes">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_mathes">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Johannes Feichter <a href="feichter_johannes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Matthias Mitterdorfer <a href="mitterdorfer_mathes.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johannes<br></br><small>Nachname</small>: Feichter<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Matthias<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_lucas">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Lukas Mitterdorfer <a href="mitterdorfer_lucas.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Lukas<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2234,38 +2502,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="stieger_michael">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="schifferle_blasius">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Michael Stieger <a href="stieger_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Jakob Schifferle <a href="schifferle_blasius.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Stieger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="bruneck_kooperator">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Antonius (?) Hainz (?) <a href="bruneck_kooperator.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Antonius (?)<br></br><small>Nachname</small>: Hainz (?)<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Jakob<br></br><small>Nachname</small>: Schifferle<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2278,268 +2522,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="oberhammer_hans">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_helena">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Johann Oberhammer <a href="oberhammer_hans.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Helena Mitterdorferin <a href="mitterdorfer_helena.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Oberhammer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="walder_andree">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Andreas Walder <a href="walder_andree.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Walder<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="toschin_apollonia">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Apollonia Notburga Toschin Schuster-Purgl <a href="toschin_apollonia.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Apollonia Notburga<br></br><small>Nachname</small>: Toschin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="leitner_andre">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Andreas Leitner <a href="leitner_andre.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Leitner<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="montal_maurer">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">"Päntl" <a href="montal_maurer.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  "Päntl"<br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="pruner_magdalena">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Magdalena Prunnerin <a href="pruner_magdalena.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Magdalena<br></br><small>Nachname</small>: Prunnerin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="kerschpaember_johan">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Johann von Kerschbaumer <a href="kerschpaember_johan.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: von Kerschbaumer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="kerschpaember_johan.html">hier</a> für eine vollständige Auflistung</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ingramb_joseph_mathias">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Joseph Matthias Ingram von Liebenrain und Fragsburg <a href="ingramb_joseph_mathias.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Joseph Matthias<br></br><small>Nachname</small>: Ingram von Liebenrain und Fragsburg<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="ingramb_joseph_mathias.html">hier</a> für eine vollständige Auflistung</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="salcher_anton">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Anton Salcher <a href="salcher_anton.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Anton<br></br><small>Nachname</small>: Salcher<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="tangl_georg">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Georg Tangl <a href="tangl_georg.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Tangl<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_haeuserin">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title"> <a href="mitterdorfer_haeuserin.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  <br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_agnes">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Agnes Mitterdorferin <a href="mitterdorfer_agnes.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Agnes<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="eypergerin_christina">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Christina Eypergerin <a href="eypergerin_christina.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Christina<br></br><small>Nachname</small>: Eypergerin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Helena<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2577,19 +2567,46 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_helena">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steeger_leopoldt_niclaus">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Helena Mitterdorferin <a href="mitterdorfer_helena.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Leopold Nikolaus Steeger <a href="steeger_leopoldt_niclaus.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Helena<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Leopold Nikolaus<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ingramb_joseph_mathias">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Joseph Matthias Ingram von Liebenrain und Fragsburg <a href="ingramb_joseph_mathias.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Joseph Matthias<br></br><small>Nachname</small>: Ingram von Liebenrain und Fragsburg<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="ingramb_joseph_mathias.html">hier</a> für eine vollständige Auflistung</p>
                         </div>
                      </div>
                   </div>
@@ -2617,18 +2634,17 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="nagler_andree">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="pruner_magdalena">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Andreas Nagler <a href="nagler_andree.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Magdalena Prunnerin <a href="pruner_magdalena.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Andreas<br></br><small>Nachname</small>: Nagler<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Magdalena<br></br><small>Nachname</small>: Prunnerin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -2638,24 +2654,46 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="englmohr_joseph_ignaeti">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="montal_maurer">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Joseph Ignaz Englmohr von Aufkirchen und Moregg <a href="englmohr_joseph_ignaeti.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">"Päntl" <a href="montal_maurer.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Joseph Ignaz<br></br><small>Nachname</small>: Englmohr von Aufkirchen und Moregg<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  "Päntl"<br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="kerschpaember_johan">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Johann von Kerschbaumer <a href="kerschpaember_johan.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: von Kerschbaumer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
                               <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="englmohr_joseph_ignaeti.html">hier</a> für eine vollständige Auflistung</p>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="kerschpaember_johan.html">hier</a> für eine vollständige Auflistung</p>
                         </div>
                      </div>
                   </div>
@@ -2663,14 +2701,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_teresia">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_jakob_christoph">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Theresia Mitterdorferin <a href="mitterdorfer_teresia.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Jakob Christoph Mitterdorfer <a href="mitterdorfer_jakob_christoph.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Theresia<br></br><small>Nachname</small>: Mitterdorferin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Jakob Christoph<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -2683,123 +2721,22 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_mathes">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="stieger_michael">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Matthias Mitterdorfer <a href="mitterdorfer_mathes.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Michael Stieger <a href="stieger_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Matthias<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="schifferle_blasius">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Jakob Schifferle <a href="schifferle_blasius.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Jakob<br></br><small>Nachname</small>: Schifferle<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_mathes_jun">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Matthias Mitterdorfer <a href="mitterdorfer_mathes_jun.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Matthias<br></br><small>Nachname</small>: Mitterdorfer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="manucredo_antany_sebastian">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Anton Sebastian Manucredo <a href="manucredo_antany_sebastian.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Anton Sebastian<br></br><small>Nachname</small>: Manucredo<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Stieger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
                               <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Manucredo Anton Sebastian (Priester) <a href="inventar__1798-03-16.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ferdinand_joseph">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Ferdinand Joseph Gabriel Graf zu Sarnthein <a href="ferdinand_joseph.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Ferdinand Joseph Gabriel<br></br><small>Nachname</small>: Graf zu Sarnthein<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steeger_leopoldt_niclaus">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Leopold Nikolaus Steeger <a href="steeger_leopoldt_niclaus.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Leopold Nikolaus<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
                               <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -2808,26 +2745,86 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="brunegg_kappuziner">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steeger_joseph">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Bruneck (Kapuzinerkirche) <a href="brunegg_kappuziner.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Joseph Steeger <a href="steeger_joseph.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>Bruneck (Kapuzinerkirche)</li>
-                           <li>Chiesa di Cappuccini</li>
-                        </ul><br></br><small>Koordinaten:</small> 46.797182 11.940627
+                     <div class="card-body"><small>Vorname</small>:  Joseph<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Pichler Joseph (Kaplan) <a href="inventar__1766-08-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Gasser Joseph (Benefiziat) <a href="inventar__1773-12-17.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="mitterdorfer_haeuserin">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title"> <a href="mitterdorfer_haeuserin.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  <br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="tangl_georg">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Georg Tangl <a href="tangl_georg.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Tangl<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="tilliach">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Obertilliach <a href="tilliach.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Normdaten IDs</small><ul>
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/2769662">https://www.geonames.org/2769662</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.71056 12.61444
                         <hr></hr>
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Pichler Joseph (Kaplan) <a href="inventar__1766-08-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Lechner Georg (Beneficiat / Priester und Lokalkaplan) <a href="inventar__1797-12-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
                      </div>
@@ -2867,81 +2864,6 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="tilliach">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Obertilliach <a href="tilliach.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/2769662">https://www.geonames.org/2769662</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.71056 12.61444
-                        <hr></hr>
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="st_lorenzen_kirche">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">St. Lorenzen (Kirche) <a href="st_lorenzen_kirche.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>St. Lorenzen (Kirche)</li>
-                           <li>Chiesa di S. Lorenzo</li>
-                        </ul><br></br><small>Koordinaten:</small> 46.783527 11.902577
-                        <hr></hr>
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Gassmayr Anton Ignaz (Priester) <a href="inventar__1784-0417.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="st_lorenzen_kirche.html">hier</a> für eine vollständige Auflistung</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="jempach">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Jenbach <a href="jempach.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/2775093">https://www.geonames.org/2775093</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 47.39173 11.77245
-                        <hr></hr>
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
          <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="saenct_michaelspurg">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
@@ -2971,57 +2893,22 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="reischach">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="jempach">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Reischach <a href="reischach.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Jenbach <a href="jempach.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>Reischach</li>
-                           <li>Riscone</li>
-                        </ul><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/7601924">https://www.geonames.org/7601924</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.77685 11.95149
+                     <div class="card-body"><small>Normdaten IDs</small><ul>
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/2775093">https://www.geonames.org/2775093</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 47.39173 11.77245
                         <hr></hr>
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
                               <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="st_lorenzen">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">St. Lorenzen <a href="st_lorenzen.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>St. Lorenzen</li>
-                           <li>San Lorenzo di Sebato</li>
-                        </ul><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3168114">https://www.geonames.org/3168114</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.78514 11.90812
-                        <hr></hr>
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="st_lorenzen.html">hier</a> für eine vollständige Auflistung</p>
                         </div>
                      </div>
                   </div>
@@ -3060,78 +2947,134 @@
                </div>
             </div>
          </div>
-         <div class="wrapper fundament-default-footer" id="wrapper-footer-full" style="margin-top: 4em;">
-            <div class="container" id="footer-full-content" tabindex="-1">
-               <div class="footer-separator">
-                  CONTACT
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="brunegg_kappuziner">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Bruneck (Kapuzinerkirche) <a href="brunegg_kappuziner.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
-               <div class="row">
-                  <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
-                     <div class="textwidget custom-html-widget"><a href="/"><img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" class="image" alt="ACDH Logo" style="max-width: 100%; height: auto;" title="ACDH Logo" /></a></div>
-                  </div>
-                  <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
-                     <div class="textwidget custom-html-widget">
-                        <p>
-                           ACDH-CH OEAW
-                           <br />
-                           Austrian Centre for Digital Humanities and Cultural Heritage
-                           <br />
-                           Austrian Academy of Sciences
-                           </p>
-                        <p>
-                           Sonnenfelsgasse 19
-                           <br />
-                           1010 Vienna
-                           </p>
-                        <p>
-                           T: +43 1 51581-2200
-                           <br />
-                           E: <a href="mailto:acdh@oeaw.ac.at">acdh@oeaw.ac.at</a></p>
-                     </div>
-                  </div>
-                  <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
-                     <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
-                     <div class="container">
-                        <div class="row">
-                           <div class="col-lg-6 col-md-6 col-sm-12">
-                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
-                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-sm-12">
-                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
-                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
-                                 </div>
-                              </div>
-                           </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Namensvarianten:</small><ul>
+                           <li>Bruneck (Kapuzinerkirche)</li>
+                           <li>Chiesa di Cappuccini</li>
+                        </ul><br></br><small>Koordinaten:</small> 46.797182 11.940627
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Pichler Joseph (Kaplan) <a href="inventar__1766-08-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Lechner Georg (Beneficiat / Priester und Lokalkaplan) <a href="inventar__1797-12-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
                         </div>
                      </div>
                   </div>
-                  <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
-                     <div class="row">
-                        <div class="textwidget custom-html-widget">
-                           <h6 class="font-weight-bold">HELPDESK</h6>
-                           <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
-                              topics.</p>
-                           <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
-                        </div>
-                     </div>
-                     <div class="row">
-                        <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto" style="margin-left:0 !important;">
-                           <div class="textwidget custom-html-widget">
-                              <p style="margin-bottom:0 !important;">Social: </p>
-                           </div>
-                           <div class="row">
-                              <div class="textwidget custom-html-widget col-md-4"><a id="github-logo" title="GitHub" href="https://github.com/reading-in-the-alps/rita-static" class="nav-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
-                                       <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"></path></svg></a></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
                </div>
             </div>
          </div>
-         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;"><a href="imprint.html">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="reischach">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Reischach <a href="reischach.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Namensvarianten:</small><ul>
+                           <li>Reischach</li>
+                           <li>Riscone</li>
+                        </ul><small>Normdaten IDs</small><ul>
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/7601924">https://www.geonames.org/7601924</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.77685 11.95149
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="st_lorenzen_kirche">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">St. Lorenzen (Kirche) <a href="st_lorenzen_kirche.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Namensvarianten:</small><ul>
+                           <li>St. Lorenzen (Kirche)</li>
+                           <li>Chiesa di S. Lorenzo</li>
+                        </ul><br></br><small>Koordinaten:</small> 46.783527 11.902577
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Sigmayr Andreas (Kooperator) <a href="inventar__1766-06-30.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Jais Coelestin Johann (Kooperator) <a href="inventar__1771-04-17.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin) <a href="inventar__1781-03-06.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Gassmayr Anton Ignaz (Priester) <a href="inventar__1784-0417.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="st_lorenzen_kirche.html">hier</a> für eine vollständige Auflistung</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="st_lorenzen">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">St. Lorenzen <a href="st_lorenzen.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Namensvarianten:</small><ul>
+                           <li>St. Lorenzen</li>
+                           <li>San Lorenzo di Sebato</li>
+                        </ul><small>Normdaten IDs</small><ul>
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3168114">https://www.geonames.org/3168114</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.78514 11.90812
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="st_lorenzen.html">hier</a> für eine vollständige Auflistung</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <footer class="main-footer">
+            <div class="container footer-wrapper">
+               <div class="row">
+                  <div class="col-md-3"><a href="https://www.oeaw.ac.at/acdh" target="_blank" rel="noopener" aria-label="ACDH-CH"><img src="img/acdh-logo.svg" alt="ACDHCH" title="Austrian Centre for Digital Humanities and Cultural Heritage" /></a></div>
+                  <div class="col-md-3"><a href="https://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search[what]=P+29329" target="_blank" rel="noopener" aria-label="FWF P 29329"><img src="img/fwf.gif" alt="FWF" title="FWF funded Project P 29329" /></a></div>
+                  <div class="col-md-3"><a href="https://www.tirol.gv.at/bildung/tiroler-wissenschaftsfoerderung/" target="_blank" rel="noopener" aria-label="Tiroler Wissenschaftförderung"><img src="img/twf_logo.png" alt="TWF" title="Tiroler Wissenschaftförderung" /></a></div>
+                  <div class="col-md-3"><a href="https://www.uibk.ac.at/" target="_blank" rel="noopener" aria-label="UIBK"><img src="img/uibklogo.png" alt="UIBK" title="University of Innsbruck" /></a></div>
+               </div>
+            </div>
+            <div class="footer-imprint-bar"><a href="imprint.html">Impressum/Imprint</a> | <small><a href="https://hdl.handle.net/21.11115/0000-000C-D8D9-C">21.11115/0000-000C-D8D9-C</a></small><div class="row" style="padding-top: 20px;">
+                  <div class="col-sm"><a href="https://github.com/reading-in-the-alps/rita-static"><em class="fab fa-github-square fa-2x"></em></a></div>
+               </div>
+            </div>
+         </footer><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
    </body>
 </html>

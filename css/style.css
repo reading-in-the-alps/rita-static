@@ -4,6 +4,15 @@ div.dataTables_filter {
   text-align:left !important;
 }
 
+a {
+    color: #bd0000;
+}
+
+a:not([href]):not([tabindex]) {
+    color: #bd0000;
+    text-decoration: none;
+}
+
 .btn-link {
   font-size:20px;
 }
@@ -80,6 +89,20 @@ p {
 
 .container-fluid {
     max-width: 1024px;
+}
+.container-custom {
+    margin-top: 7em;
+}
+.main-footer {
+    text-align: center;
+    padding: 2em;
+    border-top: 2px solid rgba(0,0,0,.075);
+    background-color: #fff;
+}
+.footer-imprint-bar {
+    padding-top: 2em;
+    text-align: center;
+    color: #bd0000;
 }
 
 span.ssQueryAndButton {
