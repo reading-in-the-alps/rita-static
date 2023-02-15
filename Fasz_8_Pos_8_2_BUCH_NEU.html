@@ -1,0 +1,916 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:local="http://dse-static.foo.bar">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title></title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow"><a class="navbar-brand" href="/"><img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka" /></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Menü
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="/">Start</a><a class="dropdown-item" href="about.html">Über das Projekt</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Transkriptionen
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="toc.html">Pustertal (rita 2)</a><a class="dropdown-item" href="toc2.html">Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Summarische Auswertungen
+                           </a><div class="dropdown-menu">
+                           <h3 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h3><a class="dropdown-item" href="../pages/show.html?document=lg_michaelsburg.xml&amp;directory=inventare">Landgericht St. Michaelsburg</a><a class="dropdown-item" href="../pages/show.html?document=sg_bruneck.xml&amp;directory=inventare">Stadtgericht Bruneck</a><a class="dropdown-item" href="../pages/show.html?document=oag_bruneck.xml&amp;directory=inventare">Oberamtsgericht Bruneck</a><a class="dropdown-item" href="../pages/inventare.html#myTable=vt0.1.2.3.16">Pustertal gesamt</a><h6 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h6><a class="dropdown-item" href="../pages/show.html?document=rita1_summary.xml&amp;directory=meta&amp;stylesheet=inventare">Metadaten Inventare Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Register
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="../pages/persons.html">Personen</a><a class="dropdown-item" href="../pages/places.html">Orte</a><a class="dropdown-item" href="../pages/bibl.html">Bücher</a><div class="dropdown-divider"></div><a class="dropdown-item" href="../pages/netvis.html">Netzwerkgrafik</a></div>
+                     </li>
+                  </ul>
+                  <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0"><input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
+               </div>
+            </nav>
+         </div>
+         <div class="container-custom">
+            <div class="card" data-index="true">
+               <div class="card-header">
+                  <div class="row">
+                     <div class="col-md-2">
+                        <h1><a href="Fasz_8_Pos_7_9_BUCH_NEU.html"><i class="fas fa-chevron-left" title="prev"></i></a></h1>
+                     </div>
+                     <div class="col-md-8">
+                        <h1 align="center"></h1>
+                        <h3 align="center"><a href="Fasz_8_Pos_8_2_BUCH_NEU.xml"><i class="fas fa-download" title="show TEI source"></i></a></h3>
+                     </div>
+                     <div class="col-md-2" style="text-align:right">
+                        <h1><a href="Fasz_8_Pos_8_6_BUCH_NEU.html"><i class="fas fa-chevron-right" title="next"></i></a></h1>
+                     </div>
+                  </div>
+               </div>
+               <div class="card-body">
+                  
+                  <div id="div__350">
+                     
+                     <div id="div__44">
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>Signatur</td>
+                                 
+                                 <td>TLA, Aktenserie LG Mieders, Fasz. 8, Pos. 8 (Inventare 1787), Nr. 2</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Typ</td>
+                                 
+                                 <td>Verlassenschaftsabhandlung</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Verstorbener [ehemaliger Besitzer]</td>
+                                 
+                                 <td>Andreas Pitl</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Wohnort des Verstorbenen</td>
+                                 
+                                 <td>Milders (Neustift)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Ort, wo das Dokument verfasst wurde</td>
+                                 
+                                 <td>Neustift</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Datum, wann das Dokument verfasst wurde</td>
+                                 
+                                 <td>1787-02-06</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Gerichtsverpflichter</td>
+                                 
+                                 <td>n.a.</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Aktuar</td>
+                                 
+                                 <td>n.a.</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>sonstige Amtspersonen</td>
+                                 
+                                 <td>Philipp Jakob Brichsner [Brixner] (Richter und Gerichtsschreiber)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Beschreibung des Dokuments</td>
+                                 
+                                 <td>ca. A 4-Format; 5 Bögen (gebunden); 16 Seiten; davon Inventar: 6 Seiten</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Beruf</td>
+                                 
+                                 <td>Händler und Bauer</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Summe</td>
+                                 
+                                 <td>Inventar: 71 f 4 x; Gesamt: 219 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>transkribiert am</td>
+                                 
+                                 <td>2015-05-28</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td></td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        </div>
+                     
+                     <div id="div__306">
+                        
+                        
+                        <p id="p__2">„Actum Neustift den 6. feb. Ao. 1787</p>
+                        
+                        <p id="p__3">Vor Titl Herrn Philipp Jakob Brichsner Richt. und Ghtschreiber im Stubay.</p>
+                        
+                        <p id="p__4">In Monat Novembris vorigen Jahres ist der ehrsame Andreas Pitl gewester Baursmann
+                           zu Käsperlen Obley Milders Hofghts. Stubay, nach einer kurz ausgestandenen Krankheit
+                           Christ. und natürl. abgeschieden, Gott Gnad dessen Seelen.</p>
+                        
+                        <p id="p__5">Angedeiter Ableiber Pitl hat bey seiner Ehewirthin und hinterlassenen Wittwe Maria
+                           Hailerin 3 Kinder ehelichen Wandels erzeuget und ruksverlassen, Namens Joseph um nächsten
+                           Josephi-Tag 10 Jahr dann Maria um nächsten </p>
+                        
+                        
+                        <p id="p__7">Maria Schmerzentage 12 und Monika um nächsten S. Georgi 7 Jahre alt.</p>
+                        
+                        <p id="p__8">Wie nun zur Verabhandlung und Ergänzung des Ableibers verhandenen Verlassenschaft
+                           auf Dato Anstalt gemacht, So ist dannenhero, nachdeme das Mobilare bereits schon untern
+                           13 Xber vorigen Jahrs ad Inventarium genommen, und angeschäzet worden, allforderst
+                           denen vorbenannten 3 Kind. des abgeleibten Pitls seel. Schwager Georg Spän Häkl aufn
+                           Rain als Curator, und der bemelten WittweMonika Hailerin d. Bruder Georg Hailer zum
+                           Anweiser verpflichtet, so fort geschriten worden zur</p>
+                        
+                        
+                        <p id="p__10">Ergänzung</p>
+                        
+                        <p id="p__11">Des abgeleibten Andreas Pitls seel.</p>
+                        
+                        <p id="p__12">Vermögen</p>
+                        
+                        <p id="p__13">und zwar erstlich an denen</p>
+                        
+                        <p id="p__14">Liegenden Güteren</p>
+                        
+                        <p id="p__15">Nemlichen aine halbe Behausung mit halben Bachofen, halben Holzschupfen, halben Wurzgarten,
+                           und die 2 Theil in der Peunten [?], wovon die übrige halbe Behausung und zugehörde
+                           Niklaus Pfurtscheller innen hat, stoßt die Peunten [?] außenbey an getheiler, unten
+                           an das Wasser, Innen an Johann Stäkler, und obenbey an die Gemain Gasse. Deren besere
+                           Cohorenzen vorbehalten. So den hochloblichen Kloster Wildau grundrechtbar dahin man
+                           Jährl. 3 x grundzins zu</p>
+                        
+                        
+                        <p id="p__17">endtrichten verbunden, welche Behausung und Grdtstüklen ableiber von Niklaus Volderauerischen
+                           Creditoren unterm 10t Febr. ao. 1773 neben and. an sich gebracht pr 423 f und obwohl
+                           das Haus und das von Wasser ruinirte grundstük seit deme etwas verbesseret worden,
+                           so wird es doch in alten Tax belassen, Indeß			423 f</p>
+                        
+                        <p id="p__18">Dann ain Äkerl Leitl obern Weg daselbs zu Käsperlen, stoßt 1. an Johann Stäkler 2.
+                           an die Gasse 3 Niklaus Pfurtscheller 4. an gemain. Weg. So zum Herrschaftl. Stubayischen
+                           Urbari grundzinsbar, dahin man Jährl. auf S. Simon und Juda-Tag 3 x Grdtzins abzustatten
+                           verbund. ist. So abgeleibter Pitl eben von</p>
+                        
+                        
+                        <p id="p__20">Niklaus Volderauerischen Creditoren unter vorallegirt. Dato pr 75 f erhandlet hat,
+                           bey welchem anschlag es auch belassen wird. Indeß		75 f</p>
+                        
+                        <p id="p__21">Und ein madstük der Ander genannt, aus dem Traxlhof zu Milders, coherenzt 1. an Johann
+                           Stäkler 2. an Ruzbach 3. et 4. an die gemain.</p>
+                        
+                        <p id="p__22">So lobl. Baldaufischen Stiftung zu Hall grundrechtbar, und wie man von diesem Stük
+                           und der Michael und Thomas Volderauers inhabenden sogenannten Haaber-Leiten Jährl.
+                           zu Handen des Lechentragers Martin Volderauers auf Unteregg in die 3 Pfund Perner
+                           Stiftzins und 3 x Ehrung, so angedeit. Lechentrager zu endtrichten, 3 x, und sonderbahren
+                           Theilzins 12 x schuldig, hierein der Pitl seel. 4 x, und</p>
+                        
+                        
+                        <p id="p__24">in zechend 10 x, zusammen 14 x zu erlegen und beyzutragen hat, so ebenfahls von Niklaus
+                           Volderauerischen Creditores erhandlet, und in alten Anschlag belassen word. pr 		200
+                           f</p>
+                        
+                        <p id="p__25">Summa der liegenden Güteren benemetl. 		698 f – x</p>
+                        
+                        <p id="p__26">Hiernächst folget die untern 13t Xber 1786 vorgenommene Beschreibung der Todt- und
+                           lebendigen Fährnüsse, wie zu sehen in folgend.</p>
+                        
+                        
+                        <p id="p__28">Inventur</p>
+                        
+                        <p id="p__29">und zwar erstlich in der Stuben</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              In der Stuben
+                              
+                              <tr>
+                                 
+                                 <td>1 Hängtischl</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>5 Eisenlöffl</td>
+                                 
+                                 <td>5 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Tischtuch</td>
+                                 
+                                 <td>5 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Pfannen Holz</td>
+                                 
+                                 <td>1 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Lainstul 2 Vorbank 1 Fußbänkl</td>
+                                 
+                                 <td>1 f 4 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 holzerne Uhr</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    2 bücher das leid. Christi und Pruggers Exemplbuch. [hier wird kein Wert angegeben!]
+                                    </td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Rohrleuchter</td>
+                                 
+                                 <td>4 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Wasserkrueg</td>
+                                 
+                                 <td>2 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__31">In der Kuchl</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              In der Kuchl
+                              
+                              <tr>
+                                 
+                                 <td>1 Haal 1 Paal 1 Dreyfuß	</td>
+                                 
+                                 <td>20 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>4 Eisene Pfannen 1 kleines deto	</td>
+                                 
+                                 <td>1 f 30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Eisenhafele</td>
+                                 
+                                 <td>24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Teglhafen</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>3 f 40 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 kupfernes Häfele</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 deto Hänkössele</td>
+                                 
+                                 <td>3 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 deto Wassergaz</td>
+                                 
+                                 <td>18 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>9 St. eisene gäzlen, Scherrer et.c.</td>
+                                 
+                                 <td>18 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 par Krauthäklen</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Hafenblat.</td>
+                                 
+                                 <td>3 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Schnizmesser</td>
+                                 
+                                 <td>6 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>4 Schäflen und Melterlen</td>
+                                 
+                                 <td>16 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>5 erdene Schisslen, so schlecht</td>
+                                 
+                                 <td>5 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Mehlfässl</td>
+                                 
+                                 <td>2 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>6 Hennen</td>
+                                 
+                                 <td>48 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__35">In der Stiegen Kamer</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              In der Stiegen Kamer
+                              
+                              <tr>
+                                 
+                                 <td>1 Bettstatt</td>
+                                 
+                                 <td>24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 alte Truchen ohne Tax.</td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__37">In der Ableibers Kamer</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              In der Ableibers Kamer
+                              
+                              <tr>
+                                 
+                                 <td>2 Bett mit 1 werchener Ziechen		6 f</td>
+                                 
+                                 <td>6 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>5 Trüchlen und 2 Kästlen		2 f</td>
+                                 
+                                 <td>2 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat. 13 f 57 x</td>
+                                 
+                                 <td>13 f 57 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Stainwünden, und 1 Eisenstang.</td>
+                                 
+                                 <td>10 f 24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Waag</td>
+                                 
+                                 <td>1 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 gläserne Latern</td>
+                                 
+                                 <td>12 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Hamer 1 Zang, und ain Wündling</td>
+                                 
+                                 <td>16 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Tenglzeig</td>
+                                 
+                                 <td>24 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__41">Aufn Thennen</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              Aufn Thennen
+                              
+                              <tr>
+                                 
+                                 <td>1 Heugabl 2 Kreil 1 Schaufl 1 Hau, und 1 Pikl</td>
+                                 
+                                 <td>1 f 12 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Grotten mit barfußen Rädern [unbeschlagen]	</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Hornschlitenmit Eisen Beschlag</td>
+                                 
+                                 <td>2 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Heu Anzen</td>
+                                 
+                                 <td>4 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 Ruggenkörb 1 Krözen</td>
+                                 
+                                 <td>14 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Strobank samt Messer</td>
+                                 
+                                 <td>1 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>17 f 16 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Trischl</td>
+                                 
+                                 <td>4 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">3 Ruggenkörb 1 Krözen</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">14 x</del>
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 Strobank samt Messer</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 f</del>
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>7 Sensen</td>
+                                 
+                                 <td>14 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>5 Rechen</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Hilzgabl</td>
+                                 
+                                 <td>2 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Ferggl</td>
+                                 
+                                 <td>6 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Korn Reiter 1 Säbl</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>5 Holzhak.</td>
+                                 
+                                 <td>1 f 15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Saagen</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>50 Stuk Pirchen à 2 x thuet</td>
+                                 
+                                 <td>1 f 40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 par Fußeisen</td>
+                                 
+                                 <td>48 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>42 Milchschisslen à 2 x</td>
+                                 
+                                 <td>1 f 24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 ausstehend Schlögkibl 1 Seuch 1 Rämstözl</td>
+                                 
+                                 <td>20 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat:</td>
+                                 
+                                 <td>6 f 48 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Magestampf</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 Krautprenntlen 1 Züberl</td>
+                                 
+                                 <td>1 f 45 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__47">Im Stall</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              Im Stall
+                              
+                              <tr>
+                                 
+                                 <td>4 Gais</td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Kue pr</td>
+                                 
+                                 <td>18 [vergleichsweise geringer Wert!]</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 deto ist pr 22 f verkauft und abführung d. Todtfahls Kösten verwendet worden</td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Küe- und 4 Gaiskötten</td>
+                                 
+                                 <td>1 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Tunggabl</td>
+                                 
+                                 <td>8 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__49">Summa d. todt- und lebendigen Fährnüsse</p>
+                        
+                        <p id="p__50">71 f 4 x</p>
+                        
+                        <p id="p__51">Parschaft</p>
+                        
+                        <p id="p__52">an solcher seyn über Abfühung d. Zins annoch vorhanden		22 f</p>
+                        
+                        
+                        <p id="p__54">Summarum ganz und völligen Vermögens benennt:		791 f 4 x [kein besonders großer Wert!]</p>
+                        
+                        <p id="p__55">Entgegen sind verhanden folgende</p>
+                        
+                        <p id="p__56">Schulden hinauß</p>
+                        
+                        <p id="p__57">Als der Margreth Hoferin Georg Spän auf der Still Ldghts. Sonnenburg Ehewirthin		80
+                           f</p>
+                        
+                        <p id="p__58">Georgen Tanzer ledigen Standes		36 f</p>
+                        
+                        <p id="p__59">denen Urban Kröspacherischen Kinders auf der Scheibe		60 f</p>
+                        
+                        <p id="p__60">denen Gall Pfurtschellerischen Erben aufn Obernegg		30 f</p>
+                        
+                        <p id="p__61">Lat.		206 f – x</p>
+                        
+                        
+                        <p id="p__65">
+                           <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 kupfernes Häfele</del>
+                           <del xmlns:tei="http://www.tei-c.org/ns/1.0">	30 x</del>
+                           </p>
+                        
+                        <p id="p__65">
+                           <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 kupfernes Hängkössele</del>
+                           </p>
+                        
+                        <p id="p__65">Der Maria Pfurtschellerin ledigen Standes		9 f</p>
+                        
+                        <p id="p__66">Des Ableibers Schwester Agata Pitlin nach an handen gebung der Partheyen über die
+                           Nachsicht		15 f</p>
+                        
+                        <p id="p__67">dem Brud. Simon Pitl		36 f</p>
+                        
+                        <p id="p__68">dem Schwager Gregori Hailer bis anhero 36 f, und weiters 11 f thut		47 f</p>
+                        
+                        <p id="p__69">Der Ehewirthin und Wittwe Maria Hailerin Einbringen Inhalt Raitung vom 17t Märtz ao.
+                           1774		251 f 55 x</p>
+                        
+                        <p id="p__71">Auf Ghts. und Schreiberey Kösten auch geschr. word. aufgestellt		7 f 9 x [Anmerkung seitlich: "GhtsKosten 2:30: Obts. [?] [Z???] -:30: dt 3:-"]
+                           </p>
+                        
+                        <p id="p__71">Lat.		366 f 4 x</p>
+                        
+                        
+                        <p id="p__73">Summa der Schulden hinaus benennt:		572 f 4 x</p>
+                        
+                        <p id="p__75">Hierüber erscheint annoch <del xmlns:tei="http://www.tei-c.org/ns/1.0">mütterl.</del> Väterl. Andre Pitlisches Vermögen benennt:		219 f – x</p>
+                        
+                        <p id="p__75">Nach welch dieser verfaßten Vermögens Ergänzung ist zwischen der Kind. Gerhaben Geort
+                           Spän aines, Dann d. Wittwen Monika Hailerin und deren Bruder und Anweiser Gregori
+                           Hailer anders theils gemacht, und abgeschlossen wovon folgender</p>
+                        
+                        
+                        <p id="p__77">Vertrag</p>
+                        
+                        <p id="p__78">Erstlichen wirdet in Betrachtung der annoch unerzochen. Kind. der Wittwe Monika Hailerin
+                           die Hauswirthschafts Führung auf eine unbestimmte Zeit gegen deme überlassen, daß
+                           hinentgen</p>
+                        
+                        <p id="p__79">Andertens dieselbe mütterlich Schuldigkeit gemäß in d. Obliegenheit haben, die Verhandene
+                           Kind. Christlichen Wandls zu erziechen, zu verpflegen, zu versorgen, die Behausung
+                           und Güterlen in altem Stande einzuhalten, sammentl. obhandene Capital- und grundzins
+                           an gehörde zu endtrichten, auch ihr Vermögen unverzinslich stillliegen zulassen: und
+                           gleichwie</p>
+                        
+                        <p id="p__80">Dritens muthmäßlich bey so</p>
+                        
+                        
+                        <p id="p__82">gerin erschienen. Vermögen jährl. etwas verabhauset werden dürfte, so haben in solchem
+                           Verabhausen die Kind. 3/4 und die Mutter ¼ zu entgelten, und zu vergüten, auch bey
+                           allfallig. erhausen im gleichen Theil zu genüßen.</p>
+                        
+                        <p id="p__83">Wo aber von selbs zu verstehen, daß ein bey diesem Gütl durch Wasser oder Lähnen [Lawinen]
+                           erfolgend. Schaden nit gemeint od. einzurechnen seyn. Wenn aber</p>
+                        
+                        <p id="p__84">Viertens Sie Wittwe auf dieses Gütl sich wieder verheuraten wurde, so hat in soclehn
+                           Fahl d. konftige Ehemann Gewünn und Verlust des Hausweesen allein zutragen, und will
+                           d. Curator auch nit abseyn dem konftigen Ehemann das Gütl auf all-</p>
+                        
+                        
+                        <p id="p__86">fahliges Verlangen auch kaufsweis zu überlassen.</p>
+                        
+                        <p id="p__87">Finftens sollen in zwischen die Wittibl. Sprüch und Forderung auf konftige Zeit vorbehalten
+                           bleiben.</p>
+                        
+                        <p id="p__88">Schlüsslichen werden um obige Schlden [sic!] hinaus der Kind. gegenwärtig und zukonftige
+                           Haab und Güt. in Genere iedoch ohne Neuerung älterer Rechte zum Fürpfand untergestellt,
+                           und verschrieben.</p>
+                        
+                        <p id="p__89">Woebey es Dato belassen worden</p>
+                        
+                        <p id="p__90">Hierüber zur Bekräftigung erstl. der Curator Georg Spän, dann die Wittwe Monika Hailerin,
+                           und d. Brud. und anweiser Gregori Hailer lobl. als angelobet hat.</p>
+                        
+                        <p id="p__91">[Auf der Rück- bzw. Außenseite der ursprüngl. auf ein Viertel gefalteten Bögen:]</p>
+                        
+                        <p id="p__92">1787</p>
+                        
+                        <p id="p__93">Vermögens Ergänzung</p>
+                        
+                        <p id="p__94">So auf Ableiben des ehrsamen Andreas Pitl zu Käsperlen im Thal Neustift Hofghts Stubay
+                           seel. gemacht worden.</p>
+                        
+                        <p id="p__95">No. 2</p>
+                        
+                        <p id="p__96">Exped.“</p>
+                        </div>
+                     </div>
+                  </div>
+               <div class="card-footer">
+                  <p style="text-align:center;"></p>
+               </div>
+            </div>
+         </div>
+         <footer class="main-footer">
+            <div class="container footer-wrapper">
+               <div class="row">
+                  <div class="col-md-3"><a href="https://www.oeaw.ac.at/acdh" target="_blank" rel="noopener" aria-label="ACDH-CH"><img src="img/acdh-logo.svg" alt="ACDHCH" title="Austrian Centre for Digital Humanities and Cultural Heritage" /></a></div>
+                  <div class="col-md-3"><a href="https://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search[what]=P+29329" target="_blank" rel="noopener" aria-label="FWF P 29329"><img src="img/fwf.gif" alt="FWF" title="FWF funded Project P 29329" /></a></div>
+                  <div class="col-md-3"><a href="https://www.tirol.gv.at/bildung/tiroler-wissenschaftsfoerderung/" target="_blank" rel="noopener" aria-label="Tiroler Wissenschaftförderung"><img src="img/twf_logo.png" alt="TWF" title="Tiroler Wissenschaftförderung" /></a></div>
+                  <div class="col-md-3"><a href="https://www.uibk.ac.at/" target="_blank" rel="noopener" aria-label="UIBK"><img src="img/uibklogo.png" alt="UIBK" title="University of Innsbruck" /></a></div>
+               </div>
+            </div>
+            <div class="footer-imprint-bar"><a href="imprint.html">Impressum/Imprint</a> | <small><a href="https://hdl.handle.net/21.11115/0000-000C-D8D9-C">21.11115/0000-000C-D8D9-C</a></small><div class="row" style="padding-top: 20px;">
+                  <div class="col-sm"><a href="https://github.com/reading-in-the-alps/rita-static"><em class="fab fa-github-square fa-2x"></em></a></div>
+               </div>
+            </div>
+         </footer><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+   </body>
+</html>

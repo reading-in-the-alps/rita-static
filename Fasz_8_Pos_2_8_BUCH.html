@@ -1,0 +1,831 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:local="http://dse-static.foo.bar">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title></title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow"><a class="navbar-brand" href="/"><img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka" /></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Menü
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="/">Start</a><a class="dropdown-item" href="about.html">Über das Projekt</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Transkriptionen
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="toc.html">Pustertal (rita 2)</a><a class="dropdown-item" href="toc2.html">Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Summarische Auswertungen
+                           </a><div class="dropdown-menu">
+                           <h3 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h3><a class="dropdown-item" href="../pages/show.html?document=lg_michaelsburg.xml&amp;directory=inventare">Landgericht St. Michaelsburg</a><a class="dropdown-item" href="../pages/show.html?document=sg_bruneck.xml&amp;directory=inventare">Stadtgericht Bruneck</a><a class="dropdown-item" href="../pages/show.html?document=oag_bruneck.xml&amp;directory=inventare">Oberamtsgericht Bruneck</a><a class="dropdown-item" href="../pages/inventare.html#myTable=vt0.1.2.3.16">Pustertal gesamt</a><h6 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h6><a class="dropdown-item" href="../pages/show.html?document=rita1_summary.xml&amp;directory=meta&amp;stylesheet=inventare">Metadaten Inventare Stubaital (rita 1)</a></div>
+                     </li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Register
+                           </a><div class="dropdown-menu"><a class="dropdown-item" href="../pages/persons.html">Personen</a><a class="dropdown-item" href="../pages/places.html">Orte</a><a class="dropdown-item" href="../pages/bibl.html">Bücher</a><div class="dropdown-divider"></div><a class="dropdown-item" href="../pages/netvis.html">Netzwerkgrafik</a></div>
+                     </li>
+                  </ul>
+                  <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0"><input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
+               </div>
+            </nav>
+         </div>
+         <div class="container-custom">
+            <div class="card" data-index="true">
+               <div class="card-header">
+                  <div class="row">
+                     <div class="col-md-2">
+                        <h1><a href="Fasz_8_Pos_2_4_BUCH.html"><i class="fas fa-chevron-left" title="prev"></i></a></h1>
+                     </div>
+                     <div class="col-md-8">
+                        <h1 align="center"></h1>
+                        <h3 align="center"><a href="Fasz_8_Pos_2_8_BUCH.xml"><i class="fas fa-download" title="show TEI source"></i></a></h3>
+                     </div>
+                     <div class="col-md-2" style="text-align:right">
+                        <h1><a href="Fasz_8_Pos_3_14_BUCH.html"><i class="fas fa-chevron-right" title="next"></i></a></h1>
+                     </div>
+                  </div>
+               </div>
+               <div class="card-body">
+                  
+                  <div id="div__321">
+                     
+                     <div id="div__44">
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>Signatur</td>
+                                 
+                                 <td>TLA, Aktenserie LG Mieders, Fasz. 8, Pos. 2 (Inventare 1773), Nr. 8</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Typ</td>
+                                 
+                                 <td>Inventar d. tot. u. lebend. Fahrnisse</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Verstorbene/r [vormaliger Besitzer/in]</td>
+                                 
+                                 <td>Thoman Volderauer (ledig)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Wohnort der/s Verstorbenen</td>
+                                 
+                                 <td>Volderau (Neustift)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Ort, wo das Dokument verfasst wurde</td>
+                                 
+                                 <td>Volderau (Neustift)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Datum, wann das Dokument verfasst wurde</td>
+                                 
+                                 <td>1773-06-01</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Gerichtsverpflichter</td>
+                                 
+                                 <td>Martin Volderauer (Unteregg, Neustift)</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Aktuar</td>
+                                 
+                                 <td>Franz Posch</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>sonstige Amtspersonen</td>
+                                 
+                                 <td>-</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Beschreibung des Dokuments</td>
+                                 
+                                 <td>17x21 cm [Bogen also 34x21], 5 Bögen, 11 Seiten</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Beruf</td>
+                                 
+                                 <td>kein Beruf angegeben [Rechenmacher?]</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Summe</td>
+                                 
+                                 <td>Inventar: 79 f 58 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>transkribiert am</td>
+                                 
+                                 <td>2015-07-17</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td></td>
+                                 
+                                 <td></td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        </div>
+                     
+                     <div id="div__277">
+                        
+                        
+                        <p id="p__2">1773.</p>
+                        
+                        <p id="p__3">Inventärl</p>
+                        
+                        <p id="p__4">So auf Absterben de Tugendsamen Thoman Volderauer ledigen Standes zu Volderau Hofgerichts
+                           Stubay seel. errichtet worden.</p>
+                        
+                        <p id="p__5">[Anm. d. Gerichts: „Exped.“ und „No. 8“]</p>
+                        
+                        
+                        <p id="p__7">Actum Volderau den 1ten Juny 1773.</p>
+                        
+                        <p id="p__8">Aus Verordnung Lobl. Hofgerichts Obrigkeit.</p>
+                        
+                        <p id="p__9">Vor und durch dem Wohlehrsamen Martin Volderauer Gerichts Verpflichten aufn Unternegg
+                           Actuante Franz Posch.</p>
+                        
+                        <p id="p__10">Auf in ledigen Stand erfogtes [sic!] Verabsterben des Ehrbahren Thomas Volderauer
+                           zu Volderau in Thall Hofgerichts Stubay seel. Gott Gnad der Seel. hat man anermanglet
+                           der ordnung gemäß die verhandene wenige Leibklaider, und Fährnüsen zu beschreiben,
+                           und zu taxieren wie zu sehen in folgenden</p>
+                        
+                        <p id="p__11">Inventärl</p>
+                        
+                        
+                        <p id="p__13">In der Kammer</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              In der Kammer
+                              
+                              <tr>
+                                 
+                                 <td>4 gresere und kleinere Pfannen</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 kupfernes Häfele</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Deto Eysenes</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 Haken</td>
+                                 
+                                 <td>1 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Pikl, 1 Tunggabl, 1 Schaufl</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 Rechen, 3 Seegessen, 1 Kreil, 1 Wöz Stain</td>
+                                 
+                                 <td>54 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Tenglzeüg</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Kästl mit Schloß und Bandt</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>5 f 20 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Schmalz Stözl, 1 Luen Stuel, 1 Pannholz</td>
+                                 
+                                 <td>24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Etwas Rechenmacherzeüg, und Holz</td>
+                                 
+                                 <td>6 f 30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Schnöl Waag</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 par bergeysen</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Heüsailer</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">2 Mehl Belg</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">40 x</del>
+                                    </td>
+                                 
+                                 <td>
+                                    Hier auf der Seite der Vermerk: „Lorenz Volderauer“
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 Ränzl</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">20 x</del>
+                                    </td>
+                                 
+                                 <td>
+                                    Hier auf der Seite der Vermerk: „Lorenz Volderauer“
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Kumpf, darin 2 Wözstsain, 1 Streicher</td>
+                                 
+                                 <td>20 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Woll Kartäschen</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Kröttlen</td>
+                                 
+                                 <td>6 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>10 f</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Kupfernes Wasser Kössele</td>
+                                 
+                                 <td>48 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Krözen, 1 Haue</td>
+                                 
+                                 <td>8 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Korb</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Leun Stuel, 1 Bänkl</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Trichele mit Schloss und Bandt</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Mehl Trichele</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>darin von 2 Stär Korn Mehl</td>
+                                 
+                                 <td>4 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Aber 1 Truchen</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Schmalz Stözl</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">14 Inslet Körzlen</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">7 x</del>
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>7 f 8 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>3 glöserne Flaschen</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Mueser</td>
+                                 
+                                 <td>4 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 gar kleines Trüchele</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>13 Pfundt Putter und Schmalz a 11 x</td>
+                                 
+                                 <td>2 f 23 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    das Leben und Leüden Christi
+                                    </td>
+                                 
+                                 <td>
+                                    4 f
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    Etwas andere geistl. Piechlen
+                                    </td>
+                                 
+                                 <td>
+                                    2 f
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>etwas heilige Bildnussen</td>
+                                 
+                                 <td>3 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 guete Eüserne Hengl Uhr samt den Kasten</td>
+                                 
+                                 <td>11 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>22 f 49 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Golt Wägl</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 braune Hemeter</td>
+                                 
+                                 <td>1 f 30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Bölzhäubl</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Fehl</td>
+                                 
+                                 <td>1 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 liderne Hosen</td>
+                                 
+                                 <td>1 f 24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 deto lödene</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 schwarzer Huet</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Leib Binten</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Rother Brust Flök, 1 deto blauer und 1 blaues Leibl</td>
+                                 
+                                 <td>2 f 30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 härbene Pfaiten</td>
+                                 
+                                 <td>2 f 30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>3 deto werchene</td>
+                                 
+                                 <td>1 f 12 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>11 f 59 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>2 par Schuech</td>
+                                 
+                                 <td>40 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 par Joken</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 ½ Ellen werches Tuech</td>
+                                 
+                                 <td>18 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Leylacher</td>
+                                 
+                                 <td>1 f 36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Ober, und Unter Böth 1 Köllische Böth Ziechen, 1 Bolster, 1 Strosak, und 1 deto
+                                    kleines unter Böthl</td>
+                                 
+                                 <td>9 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Töken</td>
+                                 
+                                 <td>30 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Wötter Mantl</td>
+                                 
+                                 <td>48 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>13 f 22 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <p id="p__26">Untern Tach</p>
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              Untern Tach
+                              
+                              <tr>
+                                 
+                                 <td>3 Seegessen, 4 neüe Rechen, 1 Heügabl 2 Änzen</td>
+                                 
+                                 <td>38 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 Kästl mit Schloss und Bandt</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">20 x</del>
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Spann Saag</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Häkl</td>
+                                 
+                                 <td>7 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">1 Truchen mit Schloss und Bandt</del>
+                                    </td>
+                                 
+                                 <td>
+                                    <del xmlns:tei="http://www.tei-c.org/ns/1.0">26 x</del>
+                                    </td>
+                                 
+                                 <td>
+                                    Hier auf der Seite der Vermerk: „Lorenz Volderauer“
+                                    </td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Mehl Küsten</td>
+                                 
+                                 <td>36 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>darin 1 Mezen Gerstbey, samt 1 Stözl</td>
+                                 
+                                 <td>24 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>2 Stär Gersten, und 1 Stär Roggen, ½ Stär deto Mehl</td>
+                                 
+                                 <td>7 f</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>1 Eysen Keil</td>
+                                 
+                                 <td>10 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>9 f 25 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        
+                        <table class="table table-bordered table-striped table-condensed table-hover">
+                           <tbody>
+                              
+                              <tr>
+                                 
+                                 <td>1 Äschen Pfannen</td>
+                                 
+                                 <td>3 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Etwas Flik Zeüg</td>
+                                 
+                                 <td>12 x</td>
+                                 </tr>
+                              
+                              <tr>
+                                 
+                                 <td>Lat.</td>
+                                 
+                                 <td>15 x</td>
+                                 </tr>
+                              </tbody>
+                        </table>
+                        
+                        <p id="p__30">Summa dieser Inventur</p>
+                        
+                        <p id="p__31">79 f 58 x</p>
+                        
+                        
+                        <p id="p__33">An Barschaft ist verhanden</p>
+                        
+                        <p id="p__34">66 f 15 x</p>
+                        </div>
+                     </div>
+                  </div>
+               <div class="card-footer">
+                  <p style="text-align:center;"></p>
+               </div>
+            </div>
+         </div>
+         <footer class="main-footer">
+            <div class="container footer-wrapper">
+               <div class="row">
+                  <div class="col-md-3"><a href="https://www.oeaw.ac.at/acdh" target="_blank" rel="noopener" aria-label="ACDH-CH"><img src="img/acdh-logo.svg" alt="ACDHCH" title="Austrian Centre for Digital Humanities and Cultural Heritage" /></a></div>
+                  <div class="col-md-3"><a href="https://pf.fwf.ac.at/de/wissenschaft-konkret/project-finder?search[what]=P+29329" target="_blank" rel="noopener" aria-label="FWF P 29329"><img src="img/fwf.gif" alt="FWF" title="FWF funded Project P 29329" /></a></div>
+                  <div class="col-md-3"><a href="https://www.tirol.gv.at/bildung/tiroler-wissenschaftsfoerderung/" target="_blank" rel="noopener" aria-label="Tiroler Wissenschaftförderung"><img src="img/twf_logo.png" alt="TWF" title="Tiroler Wissenschaftförderung" /></a></div>
+                  <div class="col-md-3"><a href="https://www.uibk.ac.at/" target="_blank" rel="noopener" aria-label="UIBK"><img src="img/uibklogo.png" alt="UIBK" title="University of Innsbruck" /></a></div>
+               </div>
+            </div>
+            <div class="footer-imprint-bar"><a href="imprint.html">Impressum/Imprint</a> | <small><a href="https://hdl.handle.net/21.11115/0000-000C-D8D9-C">21.11115/0000-000C-D8D9-C</a></small><div class="row" style="padding-top: 20px;">
+                  <div class="col-sm"><a href="https://github.com/reading-in-the-alps/rita-static"><em class="fab fa-github-square fa-2x"></em></a></div>
+               </div>
+            </div>
+         </footer><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+   </body>
+</html>
