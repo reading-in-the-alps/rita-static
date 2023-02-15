@@ -7,56 +7,69 @@
     <xsl:template match="/" name="nav_bar">
         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar" >
             <a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a>
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="container" >
-                    <!-- Your site title as branding in the menu -->
-                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="{$project_logo}" class="img-fluid" title="{$project_short_title}" alt="{$project_short_title}" itemprop="logo" /></a><!-- end custom logo -->
-                    <a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="{$project_short_title}" itemprop="url"><xsl:value-of select="$project_short_title"/></a>
-                    <span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                        <!-- Your menu goes here -->
-                        <ul id="main-menu" class="navbar-nav">
-                            <li class="nav-item dropdown">
-                                <a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a>
-                                <ul class=" dropdown-menu" role="menu">
-                                    <li class="nav-item dropdown-submenu">
-                                        <a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a>
-                                    </li>
-                                </ul>                                
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a>
-                                <ul class=" dropdown-menu" role="menu">
-                                    <li class="nav-item dropdown-submenu">
-                                        <a title="Personen" href="listperson.html" class="nav-link">Personen</a>
-                                    </li>
-                                    <li class="nav-item dropdown-submenu">
-                                        <a title="Orte" href="listplace.html" class="nav-link">Orte</a>
-                                    </li>
-                                    <li class="nav-item dropdown-submenu">
-                                        <a title="Orte" href="listorg.html" class="nav-link">Institutionen</a>
-                                    </li>
-                                    <div class="dropdown-divider"></div>
-                                    <li class="nav-item dropdown-submenu">
-                                        <a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a>
-                                    </li>
-                                </ul>                                
-                            </li>                            
-                            <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
-                        </ul>                        
-                        <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search">
-                            <input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" />
-                            <button type="submit" class="navbar-search-icon">
-                                <i data-feather="search"></i>
-                            </button>
-                        </form>
-                    </div>
-                    <!-- .collapse navbar-collapse -->
+            <nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow">
+                <a class="navbar-brand" href="../pages/index.html">
+                    <img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka"/>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"/>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Menü
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="../pages/index.html">Start</a>
+                                <a class="dropdown-item" href="../pages/show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">Über das Projekt</a>
+                                <a class="dropdown-item" href="../pages/workshop.html">Workshop: Historische Bestseller und alte Scharteken</a>
+                                <div class="dropdown-divider"/>
+                                <a class="dropdown-item" href="../api/api.html">API</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Transkriptionen
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="../pages/toc.html?collection=editions">Pustertal (rita 2)</a>
+                                <a class="dropdown-item" href="../pages/rita1.html?collection=rita1">Stubaital (rita 1)</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Summarische Auswertungen
+                            </a>
+                            <div class="dropdown-menu">
+                                <h3 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h3>
+                                <a class="dropdown-item" href="../pages/show.html?document=lg_michaelsburg.xml&amp;directory=inventare">Landgericht St. Michaelsburg</a>
+                                <a class="dropdown-item" href="../pages/show.html?document=sg_bruneck.xml&amp;directory=inventare">Stadtgericht Bruneck</a>
+                                <a class="dropdown-item" href="../pages/show.html?document=oag_bruneck.xml&amp;directory=inventare">Oberamtsgericht Bruneck</a>
+                                <a class="dropdown-item" href="../pages/inventare.html#myTable=vt0.1.2.3.16">Pustertal gesamt</a>
+                                <h6 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h6>
+                                <a class="dropdown-item" href="../pages/show.html?document=rita1_summary.xml&amp;directory=meta&amp;stylesheet=inventare">Metadaten Inventare Stubaital (rita 1)</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Register
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="../pages/persons.html">Personen</a>
+                                <a class="dropdown-item" href="../pages/places.html">Orte</a>
+                                <a class="dropdown-item" href="../pages/bibl.html">Bücher</a>
+                                <div class="dropdown-divider"/>
+                                <a class="dropdown-item" href="../pages/netvis.html">Netzwerkgrafik</a>
+                                
+                            </div>
+                        </li>
+                    </ul>
+                    <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0">
+                        <input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen"/>
+                        <button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button>
+                    </form>
                 </div>
-                <!-- .container -->
             </nav>
             <!-- .site-navigation -->
         </div>
