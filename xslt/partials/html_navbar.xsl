@@ -30,7 +30,7 @@
                                 Transkriptionen
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="../pages/toc.html?collection=editions">Pustertal (rita 2)</a>
+                                <a class="dropdown-item" href="toc.html">Pustertal (rita 2)</a>
                                 <a class="dropdown-item" href="../pages/rita1.html?collection=rita1">Stubaital (rita 1)</a>
                             </div>
                         </li>

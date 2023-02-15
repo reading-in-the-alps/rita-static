@@ -21,17 +21,20 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">
+                    <div class="container container-custom">
                         <div class="card">
                             <div class="card-header">
-                                <h1>Table of Contents</h1>
+                                <h1>Inventare aus dem Pustertal <small>RITA 2</small></h1>
                             </div>
                             <div class="card-body">
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Titel</th>
-                                            <th scope="col">Dateinname</th>
+                                            <th>Titel</th>
+                                            <th>Datum (nicht vor)</th>
+                                            <th>Ort (der Amtshandlung)</th>
+                                            <th>Dokumenttyp</th>
+                                            <th>Doc-Name</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -45,8 +48,17 @@
                                                         <xsl:attribute name="href">                                                
                                                             <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
                                                         </xsl:attribute>
-                                                        <xsl:value-of select=".//tei:title[@type='main'][1]/text()"/>
+                                                        <xsl:value-of select=".//tei:title[@type='short'][1]/text()"/>
                                                     </a>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="data(.//tei:origin[1]/@notBefore)"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select=".//tei:origin/tei:rs/text()"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select=".//tei:msItem//tei:note/tei:rs/text()"/>
                                                 </td>
                                                 <td>
                                                     <xsl:value-of select="tokenize($full_path, '/')[last()]"/>
