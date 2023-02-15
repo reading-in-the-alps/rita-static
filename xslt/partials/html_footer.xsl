@@ -9,12 +9,12 @@
         
     <footer class="main-footer">
         
-            <div class="footer-wrapper">
+            <div class="container footer-wrapper">
                 
                 <div class="row">
                     <div class="col-md-3">
-                        <a href="https://www.oeaw.ac.at/acdh/acdh-home/" target="_blank" rel="noopener" aria-label="ACDH-CH">
-                            <img src="https://shared.acdh.oeaw.ac.at/acdh-common-assets/images/acdh-ch-logo-grayscale.svg" alt="ACDHCH" title="Austrian Centre for Digital Humanities and Cultural Heritage"/>Austrian Centre for Digital Humanities and Cultural Heritage
+                        <a href="https://www.oeaw.ac.at/acdh" target="_blank" rel="noopener" aria-label="ACDH-CH">
+                            <img src="img/acdh-logo.svg" alt="ACDHCH" title="Austrian Centre for Digital Humanities and Cultural Heritage"/>
                         </a>
                     </div>
                     <div class="col-md-3">
@@ -40,7 +40,7 @@
                 </small>
                 <div class="row" style="padding-top: 20px;">
                     <div class="col-sm">
-                        <a href="https://github.com/reading-in-the-alps/rita-app">
+                        <a href="{$github_url}">
                             <em class="fab fa-github-square fa-2x"/>
                         </a>
                     </div>

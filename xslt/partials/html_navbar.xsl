@@ -8,7 +8,7 @@
         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar" >
             <a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a>
             <nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow">
-                <a class="navbar-brand" href="../pages/index.html">
+                <a class="navbar-brand" href="/">
                     <img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka"/>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,8 +24,6 @@
                                 <a class="dropdown-item" href="../pages/index.html">Start</a>
                                 <a class="dropdown-item" href="../pages/show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">Über das Projekt</a>
                                 <a class="dropdown-item" href="../pages/workshop.html">Workshop: Historische Bestseller und alte Scharteken</a>
-                                <div class="dropdown-divider"/>
-                                <a class="dropdown-item" href="../api/api.html">API</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">

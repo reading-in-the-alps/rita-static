@@ -90,10 +90,14 @@ p {
 .container-fluid {
     max-width: 1024px;
 }
-
+.container-custom {
+    margin-top: 7em;
+}
 .main-footer {
+    text-align: center;
     padding: 2em;
-    border-top: 2px solid rgba(0,0,0,.075) !important;
+    border-top: 2px solid rgba(0,0,0,.075);
+    background-color: #fff;
 }
 .footer-imprint-bar {
     padding-top: 2em;
