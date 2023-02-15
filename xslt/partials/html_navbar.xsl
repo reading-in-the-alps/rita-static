@@ -45,7 +45,7 @@
                                 <a class="dropdown-item" href="oag_bruneck.html">Oberamtsgericht Bruneck</a>
                                 <a class="dropdown-item" href="inventare.html">Pustertal gesamt</a>
                                 <h6 class="dropdown-header">Metadaten Inventare Pustertal (rita 2)</h6>
-                                <a class="dropdown-item" href="rita1_summary.html">Metadaten Inventare Stubaital (rita 1)</a>
+                                <a class="dropdown-item" href="stubaital-summary.html">Metadaten Inventare Stubaital (rita 1)</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -53,12 +53,9 @@
                                 Register
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="../pages/persons.html">Personen</a>
-                                <a class="dropdown-item" href="../pages/places.html">Orte</a>
-                                <a class="dropdown-item" href="../pages/bibl.html">Bücher</a>
-                                <div class="dropdown-divider"/>
-                                <a class="dropdown-item" href="../pages/netvis.html">Netzwerkgrafik</a>
-                                
+                                <a class="dropdown-item" href="listperson.html">Personen</a>
+                                <a class="dropdown-item" href="listplace.html">Orte</a>
+                                <a class="dropdown-item" href="listbibl.html">Bücher</a>
                             </div>
                         </li>
                     </ul>
