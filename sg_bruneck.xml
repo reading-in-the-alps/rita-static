@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/inventare/" xml:id="sg_bruneck.xml" prev="https://id.acdh.oeaw.ac.at/rita/inventare//oag_bruneck.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/inventare" xml:id="sg_bruneck.xml" prev="https://id.acdh.oeaw.ac.at/rita/inventare/oag_bruneck.xml" next="https://id.acdh.oeaw.ac.at/rita/inventare/stubaital-summary.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>

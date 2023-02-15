@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/meta/" xml:id="about.xml" next="https://id.acdh.oeaw.ac.at/rita/meta//netvis-config.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/meta" xml:id="about.xml" next="https://id.acdh.oeaw.ac.at/rita/meta/rita1.xml">
   <teiHeader>
       <fileDesc>
          <titleStmt>

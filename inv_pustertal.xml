@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/inventare/" xml:id="inv_pustertal.xml" next="https://id.acdh.oeaw.ac.at/rita/inventare//lg_michaelsburg.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/inventare" xml:id="inv_pustertal.xml" next="https://id.acdh.oeaw.ac.at/rita/inventare/lg_michaelsburg.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
