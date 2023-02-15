@@ -13,6 +13,14 @@ a:not([href]):not([tabindex]) {
     text-decoration: none;
 }
 
+.card-header {
+    text-align:center;
+}
+
+.card-footer {
+    text-align:center;
+}
+
 .btn-link {
   font-size:20px;
 }

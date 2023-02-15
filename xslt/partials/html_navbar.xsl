@@ -21,9 +21,8 @@
                                 Menü
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="../pages/index.html">Start</a>
-                                <a class="dropdown-item" href="../pages/show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">Über das Projekt</a>
-                                <a class="dropdown-item" href="../pages/workshop.html">Workshop: Historische Bestseller und alte Scharteken</a>
+                                <a class="dropdown-item" href="/">Start</a>
+                                <a class="dropdown-item" href="about.html">Über das Projekt</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">

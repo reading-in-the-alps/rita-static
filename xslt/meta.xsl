@@ -25,13 +25,19 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">                        
+                    <div class="container container-custom">                        
                         <div class="card">
                             <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
+                                <h2><xsl:value-of select=".//tei:title[@type='sub']/text()"/></h2>
+                                von
+                                <h3>Michael Span</h3>
                             </div>
                             <div class="card-body">                                
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            </div>
+                            <div class="card-footer text-muted">
+                                <xsl:value-of select="concat('Michael Span, ', $doc_title)"/><br /><a href="about.xml">TEI</a>
                             </div>
                         </div>                       
                     </div>

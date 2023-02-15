@@ -32,8 +32,8 @@
                                     <img class="d-block w-100" src="img/tlmf_books.jpg" alt="First slide" width="75%"/>
                                     <div class="carousel-caption d-none d-md-block">
                                         <h2>„Alte Bücher im
-                                            <a href="http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/ferdinandeum/haus/bibliothek">TLMF</a>. Foto:
-                                            <a href="https://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/projekt/span-michael/">Michael Span"</a>
+                                            <a href="https://www.tiroler-landesmuseen.at/haeuser/ferdinandeum/">TLMF</a>. Foto:
+                                            Michael Span"
                                         </h2>
                                     </div>
                                 </div>
@@ -50,8 +50,8 @@
                                 <div class="carousel-item">
                                     <img class="d-block w-100" src="img/tlmf_cochem.jpg" alt="Third slide"/>
                                     <div class="carousel-caption d-none d-md-block">
-                                        <h3>„Cochem, Leben Christi (<a href="http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/ferdinandeum/haus/bibliothek">TLMF</a>). Foto:
-                                            <a href="https://www.uibk.ac.at/geschichte-ethnologie/mitarbeiterinnen/projekt/span-michael/">Michael Span"</a>
+                                        <h3>„Cochem, Leben Christi (<a href="https://www.tiroler-landesmuseen.at/haeuser/ferdinandeum/">TLMF</a>). Foto:
+                                            Michael Span"
                                         </h3>
                                     </div>
                                 </div>
