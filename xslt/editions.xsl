@@ -48,7 +48,7 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">                        
+                    <div class="container-custom">                        
                         <div class="card" data-index="true">
                             <div class="card-header">
                                 <div class="row">
