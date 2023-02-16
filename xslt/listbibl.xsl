@@ -10,7 +10,7 @@
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
     <xsl:template match="/">
-        <xsl:variable name="doc_title" select="'Institutionenregister'"/>
+        <xsl:variable name="doc_title" select="'Buch- bzw. Werkregister'"/>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html>
             <xsl:call-template name="html_head">
@@ -21,7 +21,7 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">                        
+                    <div class="container-custom">                        
                         <div class="card">
                             <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
@@ -30,27 +30,54 @@
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Name</th>
-                                            <th scope="col">ID</th>
+                                            <th>Titel</th>
+                                            <th>Autor</th>
+                                            <th>Exemplar(e)</th>
+                                            <th>Anzahl Erwähnungen</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <xsl:for-each select=".//tei:org">
+                                        <xsl:for-each select=".//tei:bibl">
                                             <xsl:variable name="id">
                                                 <xsl:value-of select="data(@xml:id)"/>
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    <xsl:value-of select=".//tei:orgName[1]/text()"/>
+                                                    <a>
+                                                        <xsl:attribute name="href">
+                                                            <xsl:value-of select="concat($id, '.html')"/></xsl:attribute>
+                                                        <xsl:choose>
+                                                            <xsl:when test="./tei:title[1]/text()">
+                                                                <xsl:value-of select="./tei:title[1]/text()"/>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>kein Titel</xsl:otherwise>
+                                                        </xsl:choose>
+                                                        
+                                                    </a>
                                                 </td>
                                                 <td>
+                                                    <xsl:for-each select=".//tei:author">
+                                                        <li><xsl:value-of select="./text()"/></li>
+                                                    </xsl:for-each>
+                                                </td>
+                                                <td>
+                                                    <xsl:for-each select="./tei:idno">
+                                                        <li>
+                                                            <a><xsl:attribute name="href"><xsl:value-of select="./text()"/></xsl:attribute><xsl:value-of select="./text()"/></a>
+                                                        </li>
+                                                    </xsl:for-each>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="count(.//tei:event)"/>
+                                                </td>
+                                                <!--<td>
                                                     <a>
                                                         <xsl:attribute name="href">
                                                             <xsl:value-of select="concat($id, '.html')"/>
                                                         </xsl:attribute>
                                                         <xsl:value-of select="$id"/>
                                                     </a> 
-                                                </td>
+                                                </td>-->
                                             </tr>
                                         </xsl:for-each>
                                     </tbody>
@@ -67,9 +94,9 @@
                 </div>
             </body>
         </html>
-        <xsl:for-each select=".//tei:org">
+        <xsl:for-each select=".//tei:bibl">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="normalize-space(string-join(./tei:orgName//text()))"></xsl:variable>
+            <xsl:variable name="name" select="normalize-space(string-join(./tei:title[1]/text()))"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html xmlns="http://www.w3.org/1999/xhtml">
                     <xsl:call-template name="html_head">
@@ -80,7 +107,7 @@
                         <div class="hfeed site" id="page">
                             <xsl:call-template name="nav_bar"/>
                             
-                            <div class="container-fluid">
+                            <div class="container-custom">
                                 <div class="card">
                                     <div class="card-header">
                                         <h1>
@@ -88,7 +115,7 @@
                                         </h1>
                                     </div>
                                     <div class="card-body">
-                                        <small>Name</small>:  <xsl:value-of select=".//tei:orgName/text()"/>
+                                        <small>Titel</small>:  <xsl:value-of select=".//tei:title[1]/text()"/>
                                     </div>
                                 </div>
                             </div>
