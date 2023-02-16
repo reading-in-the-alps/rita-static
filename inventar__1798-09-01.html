@@ -11,7 +11,19 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
       <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
       <link rel="stylesheet" href="css/style.css" type="text/css" />
-      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script></head>
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script><script type="text/javascript">
+                var _paq = _paq || [];
+                /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                (function() {
+                var u="https://matomo.acdh.oeaw.ac.at/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', '46']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+                })();
+            </script></head>
    <body class="page">
       <div class="hfeed site" id="page">
          <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-md navbar-light fixed-top bg-white box-shadow"><a class="navbar-brand" href="/"><img src="img/project_logo.png" alt="Rita" title="Reading in the Alps, logo (c) by Sandra Lehecka" /></a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -33,8 +45,8 @@
                            Register
                            </a><div class="dropdown-menu"><a class="dropdown-item" href="listperson.html">Personen</a><a class="dropdown-item" href="listplace.html">Orte</a><a class="dropdown-item" href="listbibl.html">Bücher</a></div>
                      </li>
+                     <li class="nav-item"><a href="search.html" title="Volltextsuche" class="nav-link">Volltextsuche</a></li>
                   </ul>
-                  <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0"><input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen" /><button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button></form>
                </div>
             </nav>
          </div>
@@ -379,98 +391,98 @@
                      <div class="footnotes" id="note__3"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#inventar">Verlassenschaftsabhandlung</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn16"><a href="#fna_16"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">16</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn16"><a href="#fna_16"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">16</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#sand">Sand in Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn17"><a href="#fna_17"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">17</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn17"><a href="#fna_17"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">17</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
                         </div>
-                     <div class="footnotes" id="note__5"><a name="fn18"><a href="#fna_18"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">18</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn18"><a href="#fna_18"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">18</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__9"><a name="fn19"><a href="#fna_19"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">19</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_joseph_3">Joseph</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin</a></strong>, und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_mathes_2">Matthias Hueber</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn19"><a href="#fna_19"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">19</span></a></a>Erblasser</div>
+                     <div class="footnotes" id="note__6"><a name="fn20"><a href="#fna_20"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">20</span></a></a>Benefiziat zu <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saalen">Saalen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__8"><a name="fn20"><a href="#fna_20"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">20</span></a></a>wohnhaft am <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#ahornach">Achorner Berg</a></strong> im Landgericht <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn21"><a href="#fna_21"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">21</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn21"><a href="#fna_21"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">21</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
+                     <div class="footnotes" id="note__6"><a name="fn22"><a href="#fna_22"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">22</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn22"><a href="#fna_22"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">22</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
+                     <div class="footnotes" id="note__6"><a name="fn23"><a href="#fna_23"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">23</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn23"><a href="#fna_23"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">23</span></a></a>Erblasser</div>
-                     <div class="footnotes" id="note__6"><a name="fn24"><a href="#fna_24"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">24</span></a></a>Benefiziat zu <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saalen">Saalen</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn24"><a href="#fna_24"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">24</span></a></a>Zeuge und Siegler am Testament von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#lechner_georg">Georg Lechner</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn25"><a href="#fna_25"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">25</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Laurenzen</a></strong>
+                     <div class="footnotes" id="note__5"><a name="fn25"><a href="#fna_25"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">25</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__7"><a name="fn26"><a href="#fna_26"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">26</span></a></a>Gewalthaber der Erben (im Besonderen <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann Hueber</a></strong>) im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn26"><a href="#fna_26"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">26</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saalen">Saalen</a></strong>
                         </div>
                      <div class="footnotes" id="note__3"><a name="fn27"><a href="#fna_27"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">27</span></a></a>Kirchpropst in <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saalen">Saalen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn28"><a href="#fna_28"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">28</span></a></a>Zeuge und Siegler am Testament von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#lechner_georg">Georg Lechner</a></strong>
+                     <div class="footnotes" id="note__6"><a name="fn28"><a href="#fna_28"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">28</span></a></a>Beisitzer im Rahmen der Verlassenschaft von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__5"><a name="fn29"><a href="#fna_29"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">29</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Lorenzen</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn29"><a href="#fna_29"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">29</span></a></a>
+                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#st_lorenzen">St. Laurenzen</a></strong>
                         </div>
-                     <div class="footnotes" id="note__2"><a name="fn30"><a href="#fna_30"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">30</span></a></a>Candidatus beider Rechte</div>
-                     <div class="footnotes" id="note__4"><a name="fn31"><a href="#fna_31"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">31</span></a></a>Landrichter der Herrschaft <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong>
+                     <div class="footnotes" id="note__7"><a name="fn30"><a href="#fna_30"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">30</span></a></a>Gewalthaber der Erben (im Besonderen <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann Hueber</a></strong>) im Rahmen der Verlassenschaftsabhandlung von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn32"><a href="#fna_32"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">32</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn31"><a href="#fna_31"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">31</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn33"><a href="#fna_33"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">33</span></a></a>
+                     <div class="footnotes" id="note__4"><a name="fn32"><a href="#fna_32"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">32</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__6"><a name="fn34"><a href="#fna_34"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">34</span></a></a>Beisitzer im Rahmen der Verlassenschaft von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn33"><a href="#fna_33"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">33</span></a></a>Ehefrau von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn35"><a href="#fna_35"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">35</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                     <div class="footnotes" id="note__5"><a name="fn34"><a href="#fna_34"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">34</span></a></a>Mutter von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn36"><a href="#fna_36"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">36</span></a></a>
+                     <div class="footnotes" id="note__5"><a name="fn35"><a href="#fna_35"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">35</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn37"><a href="#fna_37"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">37</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
+                     <div class="footnotes" id="note__2"><a name="fn36"><a href="#fna_36"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">36</span></a></a>Candidatus beider Rechte</div>
+                     <div class="footnotes" id="note__4"><a name="fn37"><a href="#fna_37"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">37</span></a></a>Landrichter der Herrschaft <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saenct_michaelspurg">St. Michaelsburg</a></strong>
                         </div>
-                     <div class="footnotes" id="note__6"><a name="fn38"><a href="#fna_38"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">38</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
+                     <div class="footnotes" id="note__3"><a name="fn38"><a href="#fna_38"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">38</span></a></a>Beichtvater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__6"><a name="fn39"><a href="#fna_39"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">39</span></a></a>
+                     <div class="footnotes" id="note__4"><a name="fn39"><a href="#fna_39"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">39</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__4"><a name="fn40"><a href="#fna_40"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">40</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn40"><a href="#fna_40"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">40</span></a></a>Ehefrau von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__7"><a name="fn41"><a href="#fna_41"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">41</span></a></a>Mutter von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_joseph_3">Joseph</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin</a></strong>, und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_mathes_2">Matthias Hueber</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn41"><a href="#fna_41"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">41</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
                         </div>
                      <div class="footnotes" id="note__4"><a name="fn42"><a href="#fna_42"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">42</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#sand">Sand in Taufers</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__3"><a name="fn43"><a href="#fna_43"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">43</span></a></a>Ehefrau von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__5"><a name="fn44"><a href="#fna_44"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">44</span></a></a>Mutter von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__5"><a name="fn45"><a href="#fna_45"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">45</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__3"><a name="fn46"><a href="#fna_46"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">46</span></a></a>Beichtvater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn43"><a href="#fna_43"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">43</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn47"><a href="#fna_47"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">47</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
-                        </div>
-                     <div class="footnotes" id="note__4"><a name="fn48"><a href="#fna_48"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">48</span></a></a>
+                     <div class="footnotes" id="note__4"><a name="fn44"><a href="#fna_44"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">44</span></a></a>
                         <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn49"><a href="#fna_49"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">49</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#saalen">Saalen</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn45"><a href="#fna_45"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">45</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael_2">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#mayr_katharina">Katharina Mayrin</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn50"><a href="#fna_50"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">50</span></a></a>Sohn von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong> und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                     <div class="footnotes" id="note__4"><a name="fn46"><a href="#fna_46"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">46</span></a></a>Bruder von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_jakob">Jakob Hueber</a></strong>
                         </div>
-                     <div class="footnotes" id="note__4"><a name="fn51"><a href="#fna_51"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">51</span></a></a>
-                        <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
+                     <div class="footnotes" id="note__5"><a name="fn47"><a href="#fna_47"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">47</span></a></a>Ehemann von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#auer_maria">Maria Auerin</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__9"><a name="fn48"><a href="#fna_48"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">48</span></a></a>Vater von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_joseph_3">Joseph</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin</a></strong>, und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_mathes_2">Matthias Hueber</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__8"><a name="fn49"><a href="#fna_49"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">49</span></a></a>wohnhaft am <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#ahornach">Achorner Berg</a></strong> im Landgericht <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#taufers">Taufers</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__3"><a name="fn50"><a href="#fna_50"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">50</span></a></a>Ehefrau von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_michael">Michael Hueber</a></strong>
+                        </div>
+                     <div class="footnotes" id="note__7"><a name="fn51"><a href="#fna_51"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">51</span></a></a>Mutter von <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_johann_2">Johann</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_joseph_3">Joseph</a></strong>, <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_martin_2">Martin</a></strong>, und <strong xmlns:tei="http://www.tei-c.org/ns/1.0"><a data-toggle="modal" data-target="#hueber_mathes_2">Matthias Hueber</a></strong>
                         </div>
                   </p>
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_michael">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="forer_johann">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Michael Hueber <a href="hueber_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Johann Forer Perlbauer am Sand in Taufers <a href="forer_johann.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Forer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -503,35 +515,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steger_georg">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_michael_2">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Georg Steeger <a href="steger_georg.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Michael Hueber Perlbauer am Sand in Taufers <a href="hueber_michael_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche) <a href="inventar__1798-08-12.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="kirchpropst_saalen">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title"> <a href="kirchpropst_saalen.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  <br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -568,14 +559,34 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="zeiler_christoph">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_johann_3">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Christoph Zeiler <a href="zeiler_christoph.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Johann Hueber <a href="hueber_johann_3.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Christoph<br></br><small>Nachname</small>: Zeiler<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steger_georg_2">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Georg Steeger Schraffl-Wirt <a href="steger_georg_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -589,14 +600,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_joseph_3">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="kirchpropst_saalen">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Joseph Hueber <a href="hueber_joseph_3.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title"> <a href="kirchpropst_saalen.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Joseph<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  <br></br><small>Nachname</small>: <br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -631,17 +642,18 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_martin_2">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steger_georg">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Martin Hueber <a href="hueber_martin_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Georg Steeger <a href="steger_georg.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Martin<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
+                              <li>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche) <a href="inventar__1798-08-12.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -651,19 +663,24 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_michael_2">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="prokosch_michael">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Michael Hueber Perlbauer am Sand in Taufers <a href="hueber_michael_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Michael Prokosch <a href="prokosch_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Prokosch<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
+                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="prokosch_michael.html">hier</a> für eine vollständige Auflistung</p>
                         </div>
                      </div>
                   </div>
@@ -671,34 +688,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="auer_maria">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_joseph_3">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Maria Auerin Hueberin <a href="auer_maria.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Joseph Hueber <a href="hueber_joseph_3.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Maria<br></br><small>Nachname</small>: AuerinHueberin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="forer_johann">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Johann Forer Perlbauer am Sand in Taufers <a href="forer_johann.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Forer<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Joseph<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -722,6 +719,27 @@
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
+                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="zeiler_christoph">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Christoph Zeiler <a href="zeiler_christoph.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Vorname</small>:  Christoph<br></br><small>Nachname</small>: Zeiler<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche) <a href="inventar__1798-08-12.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -772,51 +790,6 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="prokosch_michael">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Michael Prokosch <a href="prokosch_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Prokosch<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Stockherin Maria Ursula (Terziarschwester) <a href="inventar__1750-07-08.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Fezl Christoph Sebastian (Benefiziat) <a href="inventar__1761-07-23.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Mitterdorfer Jakob Christoph (Kooperator) <a href="inventar__1762-01-28.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                           <p>Anzahl der Erwähnungen limitiert, klicke <a href="prokosch_michael.html">hier</a> für eine vollständige Auflistung</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_johann_3">
-            <div class="modal-dialog" role="document">
-               <div class="modal-content">
-                  <div class="modal-header">
-                     <h5 class="modal-title">Johann Hueber <a href="hueber_johann_3.html"><i class="fas fa-external-link-alt"></i></a></h5>
-                  </div>
-                  <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Johann<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
-                        <div id="mentions">
-                           <legend>erwähnt in</legend>
-                           <ul>
-                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
-               </div>
-            </div>
-         </div>
          <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_johann_2">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
@@ -837,18 +810,17 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="steger_georg_2">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_martin_2">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Georg Steeger Schraffl-Wirt <a href="steger_georg_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Martin Hueber <a href="hueber_martin_2.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Vorname</small>:  Georg<br></br><small>Nachname</small>: Steeger<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
+                     <div class="card-body"><small>Vorname</small>:  Martin<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche) <a href="inventar__1798-08-12.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -858,21 +830,17 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="saalen_kaplanei">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="hueber_michael">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Maria Saalen / Unsere Liebe Frau von Loreto <a href="saalen_kaplanei.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Michael Hueber <a href="hueber_michael.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><br></br><small>Koordinaten:</small> 46.765848 11.867168
-                        <hr></hr>
+                     <div class="card-body"><small>Vorname</small>:  Michael<br></br><small>Nachname</small>: Hueber<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Stocker Franz (Benefiziat) <a href="inventar__1781-05-07.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -882,20 +850,14 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ahornach">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="auer_maria">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Ahornach <a href="ahornach.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Maria Auerin Hueberin <a href="auer_maria.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
-                     <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>Ahornach</li>
-                           <li>Acereto</li>
-                        </ul><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3183545">https://www.geonames.org/3183545</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.9264 11.9789
-                        <hr></hr>
+                     <div class="card-body"><small>Vorname</small>:  Maria<br></br><small>Nachname</small>: AuerinHueberin<br></br><small>geboren</small>:  <br></br><small>gestorben</small>: 
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
@@ -939,23 +901,25 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="sand">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="taufers">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Sand in Taufers <a href="sand.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Taufers <a href="taufers.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
                      <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>Sand in Taufers</li>
-                           <li>Campo Tures</li>
+                           <li>Taufers</li>
+                           <li>Tures</li>
                         </ul><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3180908">https://www.geonames.org/3180908</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.91882 11.953575
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/9033196">https://www.geonames.org/9033196</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.9112 11.94835
                         <hr></hr>
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
+                              <li>Gassmayr Anton Ignaz (Priester) <a href="inventar__1784-0417.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Lechner Georg (Beneficiat / Priester und Lokalkaplan) <a href="inventar__1797-12-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
@@ -993,25 +957,73 @@
                </div>
             </div>
          </div>
-         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="taufers">
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="ahornach">
             <div class="modal-dialog" role="document">
                <div class="modal-content">
                   <div class="modal-header">
-                     <h5 class="modal-title">Taufers <a href="taufers.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                     <h5 class="modal-title">Ahornach <a href="ahornach.html"><i class="fas fa-external-link-alt"></i></a></h5>
                   </div>
                   <div class="modal-body">
                      <div class="card-body"><small>Namensvarianten:</small><ul>
-                           <li>Taufers</li>
-                           <li>Tures</li>
+                           <li>Ahornach</li>
+                           <li>Acereto</li>
                         </ul><small>Normdaten IDs</small><ul>
-                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/9033196">https://www.geonames.org/9033196</a></li>
-                        </ul><br></br><small>Koordinaten:</small> 46.9112 11.94835
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3183545">https://www.geonames.org/3183545</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.9264 11.9789
                         <hr></hr>
                         <div id="mentions">
                            <legend>erwähnt in</legend>
                            <ul>
-                              <li>Gassmayr Anton Ignaz (Priester) <a href="inventar__1784-0417.html"><i class="fas fa-external-link-alt"></i></a></li>
-                              <li>Lechner Georg (Beneficiat / Priester und Lokalkaplan) <a href="inventar__1797-12-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="saalen_kaplanei">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Maria Saalen / Unsere Liebe Frau von Loreto <a href="saalen_kaplanei.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><br></br><small>Koordinaten:</small> 46.765848 11.867168
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
+                              <li>Manucredo Marcus Aurelius (Kooperator) <a href="inventar__1752-10-11.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stainer Sebastian Joseph (Benefiziat) <a href="inventar__1756-03-15.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Stocker Franz (Benefiziat) <a href="inventar__1781-05-07.html"><i class="fas fa-external-link-alt"></i></a></li>
+                              <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button></div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="sand">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title">Sand in Taufers <a href="sand.html"><i class="fas fa-external-link-alt"></i></a></h5>
+                  </div>
+                  <div class="modal-body">
+                     <div class="card-body"><small>Namensvarianten:</small><ul>
+                           <li>Sand in Taufers</li>
+                           <li>Campo Tures</li>
+                        </ul><small>Normdaten IDs</small><ul>
+                           <li><small>GEONAMES:</small> <a href="https://www.geonames.org/3180908">https://www.geonames.org/3180908</a></li>
+                        </ul><br></br><small>Koordinaten:</small> 46.91882 11.953575
+                        <hr></hr>
+                        <div id="mentions">
+                           <legend>erwähnt in</legend>
+                           <ul>
                               <li>Hueber Jakob (Benefiziat in Saalen) <a href="inventar__1798-09-01.html"><i class="fas fa-external-link-alt"></i></a></li>
                            </ul>
                         </div>
