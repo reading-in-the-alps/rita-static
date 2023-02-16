@@ -1083,98 +1083,7 @@
             <p>[aufgedrückte Oblatensiegel des Joseph Matthias Ingram und Joseph Ignaz Englmohr]</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="steeger_carl_felix">
-               <persName>
-                  <forename>Karl Felix</forename>
-                  <surname>Steeger</surname>
-               </persName>
-               <occupation>Wirt "an der Sonne" in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </occupation>
-               <note type="family">Ehemann von <rs type="person" ref="#khlettenhamber_aennae">Anna Klettenhamerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Mayr</surname>
-                  <addName>Mayr</addName>
-               </persName>
-               <note type="function">Käufer des Fohrer-Gutes von <rs type="person" ref="#laehner_jacob">Jakob Lehner</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="laehner_jacob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Lehner</surname>
-                  <surname type="alt">Lähner</surname>
-                  <addName>Fohrer</addName>
-                  <addName type="alt">Forcher</addName>
-                  <addName type="alt">Forchner</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="fezl_christoph">
-               <persName>
-                  <forename>Christoph Sebastian</forename>
-                  <forename type="alt">Sebastian Christoph</forename>
-                  <forename type="alt">Christoph</forename>
-                  <surname>Fezl</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> und <rs type="person" ref="#fezl_michael">Michael Fezl</rs>
-                    </note>
-               <note type="function">Erblasser</note>
-               <note type="function">Priester und Benefiziat in <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gogl_martin">
-               <persName>
-                  <forename>Martin</forename>
-                  <surname>Gogl</surname>
-                  <addName>Stampfer</addName>
-                  <addName>Wieser</addName>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="marchner_franz_michael">
-               <persName>
-                  <forename>Franz Michael</forename>
-                  <surname>Marchner</surname>
-               </persName>
-               <note type="function">Kommissionsschreiber und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sell_franz_joseph">
-               <persName>
-                  <forename>Franz Joseph</forename>
-                  <surname>Söll von Teisegg zu Steinburg und Mohrberg</surname>
-               </persName>
-               <note type="function">k.k. Forstmeister im Pustertal</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="fezl_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Fezl</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stainer_mariae_3">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Stainerin</surname>
-                  <surname>Lercherin</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#lercher_georg">Georg Lercher</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfeiffhofer_gregori">
+   <back><listPerson><person xml:id="pfeiffhofer_gregori">
                <persName>
                   <forename>Gregor</forename>
                   <surname>Pfeiffhofer</surname>
@@ -1184,60 +1093,22 @@
                         <rs type="place" ref="#steegen">Stegen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kessler_geoerg">
+            <person xml:id="graf_zu_lodron_dumbherr">
                <persName>
-                  <forename>Georg</forename>
-                  <surname>Kessler</surname>
+                  <forename>Sebastian Franz Joseph Gaudentius</forename>
+                  <surname>Graf von Lodron</surname>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_tschusi_franz_andree">
-               <persName>
-                  <forename>Franz Andreas</forename>
-                  <forename type="alt">Franz Xaver Andreas</forename>
-                  <surname>von Tschusy</surname>
-               </persName>
-               <note type="function">Stadtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tangl_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Tangl</surname>
-               </persName>
-               <note type="function">Konsistorialsekretär und Hofkaplan</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_martin">
-               <persName>
-                  <forename>Martin</forename>
-                  <surname>Mayr</surname>
-                  <addName>Kaltenhauser</addName>
-               </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+               <note type="function">Domherr, Konsistorialrat und Stadtpfarrer von <rs type="place" ref="#brixen">Brixen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kunzental_obmayr">
+            <person xml:id="fezl_joseph_wolfgang">
                <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Obmayr</addName>
+                  <forename>Joseph Wolfgang</forename>
+                  <surname>Fezl</surname>
                </persName>
-               <note type="placing">
-                        <rs type="place" ref="#kuenzenthall">Künzental</rs>
+               <note type="family">Bruder von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="prokosch_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Prokosch</surname>
-               </persName>
-               <idno type="URL">VIAF | OCRID</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="khachler_hanns">
                <persName>
                   <forename>Johann</forename>
@@ -1249,74 +1120,14 @@
                         <rs type="place" ref="#st_georgen">St. Georgen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sotora_johann_baebtistae">
+            <person xml:id="prugger_franz">
                <persName>
-                  <forename>Johann Baptista</forename>
-                  <surname>Sotora</surname>
+                  <forename>Franz</forename>
+                  <surname>Prugger</surname>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="lercher_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Lercher</surname>
-                  <addName>Gatterer</addName>
-               </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#stainer_mariae_3">Maria Stainerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#tesselberg">Tesselberg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="preindl_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Preindl</surname>
-               </persName>
-               <occupation>Kupferschmied</occupation>
-               <note type="function">Zeuge (1761)</note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="troyer">
-               <persName>
-                  <forename/>
-                  <surname>Graf von Troyer</surname>
-               </persName>
+               <occupation>Jäger und Fischer</occupation>
                <note type="placing">
                         <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gasmayr_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Gassmayrin</surname>
-                  <surname>Stainerin</surname>
-               </persName>
-               <note type="family">Witwe von <rs type="person" ref="#stainer_andree">Andreas Stainer</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="valtiner_peter">
-               <persName>
-                  <forename>Peter</forename>
-                  <surname>Valtiner</surname>
-               </persName>
-               <occupation>Hufschmied</occupation>
-               <note type="function">Kurator / Vertreter von <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tinckhhauser_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Tinkhauser</surname>
-               </persName>
-               <occupation>Metzger (Stadtmetzger)</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="mitterhofer_hanns">
@@ -1332,74 +1143,11 @@
                         <rs type="place" ref="#st_georgen">St. Georgen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stainer_andree">
+            <person xml:id="sotora_johann_baebtistae">
                <persName>
-                  <forename>Andreas</forename>
-                  <surname>Stainer</surname>
-                  <addName>Frischhueber</addName>
+                  <forename>Johann Baptista</forename>
+                  <surname>Sotora</surname>
                </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#gasmayr_maria">Maria Gassmayrin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="englmohr_joseph_ignaeti">
-               <persName>
-                  <forename>Joseph Ignaz</forename>
-                  <surname>Englmohr von Aufkirchen und Moregg</surname>
-               </persName>
-               <note type="function">oberösterreichischer Regimentsadvokat</note>
-               <note type="function">Lizenziat beider Rechte</note>
-               <note type="function">Pfleger und Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="wenzl_martin">
-               <persName>
-                  <forename>Martin</forename>
-                  <surname>Wenzl</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="vestner_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Vestnerin</surname>
-               </persName>
-               <note type="function">Häuserin von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="ingramb_joseph_mathias">
-               <persName>
-                  <forename>Joseph Matthias</forename>
-                  <surname>Ingram von Liebenrain und Fragsburg</surname>
-               </persName>
-               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-               <note type="function">geistlicher Kommissär</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kerschpaember_johan">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>von Kerschbaumer</surname>
-               </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs>
-                    </note>
-               <note type="function">Landgerichtschreiber in <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> / <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-               <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="auracher_johann_joseph">
-               <persName>
-                  <forename>Johann Joseph</forename>
-                  <surname>Auracher</surname>
-               </persName>
-               <occupation>Händler</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="pifrader_andree">
                <persName>
@@ -1411,37 +1159,23 @@
                         <rs type="place" ref="#st_georgen">St. Georgen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="renzler_martin">
+            <person xml:id="ursicin">
                <persName>
-                  <forename>Martin</forename>
-                  <surname>Renzler</surname>
+                  <forename>Ursicin</forename>
+                  <surname/>
                </persName>
-               <note type="function">bestellter Nachbarschafts-Kassier des Benefiziums von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
-                    </note>
+               <note type="function">Kapuziner-Pater</note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="unterweger_maria">
+            <person xml:id="wanger_peter">
                <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Unterwegerin</surname>
-                  <surname>Mayrin</surname>
-                  <note type="family">Ehefrau von <rs type="person" ref="#mayr_martin">Martin Mayr</rs>
-                        </note>
-                  <note type="placing">
-                            <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                        </note>
+                  <forename>Peter</forename>
+                  <surname>Wanger</surname>
+                  <addName>Kachler</addName>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="seeber_felix">
-               <persName>
-                  <forename>Felix</forename>
-                  <surname>Seeber</surname>
-               </persName>
-               <note type="function">Pfarrer in <rs type="place" ref="#gais">Gais</rs>
-                    </note>
                <note type="placing">
-                        <rs type="place" ref="#gais">Gais</rs>
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="stainer_blaesi">
                <persName>
                   <forename>Blasius</forename>
@@ -1453,14 +1187,78 @@
                         <rs type="place" ref="#neunhaeusern">Neunhäusern</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="prugger_franz">
+            <person xml:id="pifrader_hanns">
                <persName>
-                  <forename>Franz</forename>
-                  <surname>Prugger</surname>
+                  <forename>Johann</forename>
+                  <surname>Pifrader</surname>
+                  <addName>Kuchlmayr</addName>
                </persName>
-               <occupation>Jäger und Fischer</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="haberstroo_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Haberstroh</surname>
+               </persName>
+               <occupation>Händler</occupation>
                <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="ingramb_joseph_mathias">
+               <persName>
+                  <forename>Joseph Matthias</forename>
+                  <surname>Ingram von Liebenrain und Fragsburg</surname>
+               </persName>
+               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="function">geistlicher Kommissär</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pacher_maegdaelenae">
+               <persName>
+                  <forename>Magdalena</forename>
+                  <surname>Pacherin</surname>
+               </persName>
+               <note type="family">Schwester von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stainer_mariae">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Planerin</surname>
+                  <surname type="birth">Stainerin</surname>
+               </persName>
+               <note type="family">Schwester von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs>
+                    </note>
+               <note type="family">Ehefrau von <rs type="person" ref="#planer_Stephan">Stefan Planer</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="techterle_mathies">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Töchterle</surname>
+               </persName>
+               <occupation>Hufschmied</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#antholz_mittertal">Antholz-Mittertal</rs>
+                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#techterle_simon">Simon Töchterle</rs>
+                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="laehner_jacob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Lehner</surname>
+                  <surname type="alt">Lähner</surname>
+                  <addName>Fohrer</addName>
+                  <addName type="alt">Forcher</addName>
+                  <addName type="alt">Forchner</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="muz_johan_geoerg">
@@ -1475,36 +1273,21 @@
                         <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="wanger_peter">
+            <person xml:id="gasmayr_maria">
                <persName>
-                  <forename>Peter</forename>
-                  <surname>Wanger</surname>
-                  <addName>Kachler</addName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Gassmayrin</surname>
+                  <surname>Stainerin</surname>
                </persName>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+               <note type="family">Witwe von <rs type="person" ref="#stainer_andree">Andreas Stainer</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="fezl_joseph_wolfgang">
+            <person xml:id="saliet_joseph">
                <persName>
-                  <forename>Joseph Wolfgang</forename>
-                  <surname>Fezl</surname>
+                  <forename>Joseph</forename>
+                  <surname>Saliet</surname>
                </persName>
-               <note type="family">Bruder von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="techterle_simon">
-               <persName>
-                  <forename>Simon</forename>
-                  <surname>Töchterle</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#rasen">Rasen</rs>
-                    </note>
-               <note type="family">Bruder von <rs type="person" ref="#techterle_mathies">Matthias Töchterle</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
-                    </note>
+               <note type="function">Benefiziums-Provisor</note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="steger_johann_anton">
                <persName>
@@ -1523,38 +1306,148 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="saliet_joseph">
+            <person xml:id="vestner_maria">
                <persName>
-                  <forename>Joseph</forename>
-                  <surname>Saliet</surname>
+                  <forename>Maria</forename>
+                  <surname>Vestnerin</surname>
                </persName>
-               <note type="function">Benefiziums-Provisor</note>
+               <note type="function">Häuserin von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
+                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pifrader_hanns">
+            <person xml:id="unterweger_maria">
                <persName>
-                  <forename>Johann</forename>
-                  <surname>Pifrader</surname>
-                  <addName>Kuchlmayr</addName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Unterwegerin</surname>
+                  <surname>Mayrin</surname>
+                  <note type="family">Ehefrau von <rs type="person" ref="#mayr_martin">Martin Mayr</rs>
+                        </note>
+                  <note type="placing">
+                            <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                        </note>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="eppacher_martin">
+            <person xml:id="kunzental_obmayr">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Obmayr</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#kuenzenthall">Künzental</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="renzler_martin">
                <persName>
                   <forename>Martin</forename>
-                  <surname>Eppacher</surname>
+                  <surname>Renzler</surname>
                </persName>
-               <occupation>Schmied</occupation>
-               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>
+               <note type="function">bestellter Nachbarschafts-Kassier des Benefiziums von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tinckhhauser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Tinkhauser</surname>
+               </persName>
+               <occupation>Metzger (Stadtmetzger)</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="englmohr_joseph_ignaeti">
+               <persName>
+                  <forename>Joseph Ignaz</forename>
+                  <surname>Englmohr von Aufkirchen und Moregg</surname>
+               </persName>
+               <note type="function">oberösterreichischer Regimentsadvokat</note>
+               <note type="function">Lizenziat beider Rechte</note>
+               <note type="function">Pfleger und Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="graber_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Graber</surname>
+               </persName>
+               <note type="function">Mesner und ehemaliger Kirchenpropst in <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="steeger_carl_felix">
+               <persName>
+                  <forename>Karl Felix</forename>
+                  <surname>Steeger</surname>
+               </persName>
+               <occupation>Wirt "an der Sonne" in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </occupation>
+               <note type="family">Ehemann von <rs type="person" ref="#khlettenhamber_aennae">Anna Klettenhamerin</rs>
                     </note>
                <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pacher_maegdaelenae">
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="valtiner_peter">
                <persName>
-                  <forename>Magdalena</forename>
-                  <surname>Pacherin</surname>
+                  <forename>Peter</forename>
+                  <surname>Valtiner</surname>
                </persName>
-               <note type="family">Schwester von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
+               <occupation>Hufschmied</occupation>
+               <note type="function">Kurator / Vertreter von <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="preindl_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Preindl</surname>
+               </persName>
+               <occupation>Kupferschmied</occupation>
+               <note type="function">Zeuge (1761)</note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="techterle_simon">
+               <persName>
+                  <forename>Simon</forename>
+                  <surname>Töchterle</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#rasen">Rasen</rs>
+                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#techterle_mathies">Matthias Töchterle</rs>
+                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="kessler_geoerg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Kessler</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="lercher_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Lercher</surname>
+                  <addName>Gatterer</addName>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#stainer_mariae_3">Maria Stainerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#tesselberg">Tesselberg</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stegen_obermutschlechner">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Obermutschlechner</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#steegen">Stegen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="pacher_maria">
@@ -1575,16 +1468,58 @@
                         <rs type="place" ref="#st_georgen">St. Georgen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="haberstroo_johann">
+            <person xml:id="tinckhhauser_hanns">
                <persName>
                   <forename>Johann</forename>
-                  <surname>Haberstroh</surname>
+                  <surname>Tinkhauser</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wenzl_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Wenzl</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="seeber_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Seeber</surname>
+               </persName>
+               <note type="function">Pfarrer in <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="marchner_franz_michael">
+               <persName>
+                  <forename>Franz Michael</forename>
+                  <surname>Marchner</surname>
+               </persName>
+               <note type="function">Kommissionsschreiber und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gogl_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Gogl</surname>
+                  <addName>Stampfer</addName>
+                  <addName>Wieser</addName>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="auracher_johann_joseph">
+               <persName>
+                  <forename>Johann Joseph</forename>
+                  <surname>Auracher</surname>
                </persName>
                <occupation>Händler</occupation>
                <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="fezl_johannes">
                <persName>
                   <forename>Johannes</forename>
@@ -1594,79 +1529,26 @@
                     </note>
                <note type="function">in Dienst beim württembergischen Dragoner-Regiment "Herzogin Maria Auguste"</note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="graf_zu_lodron_dumbherr">
+            <person xml:id="fezl_michael">
                <persName>
-                  <forename>Sebastian Franz Joseph Gaudentius</forename>
-                  <surname>Graf von Lodron</surname>
+                  <forename>Michael</forename>
+                  <surname>Fezl</surname>
                </persName>
-               <note type="function">Domherr, Konsistorialrat und Stadtpfarrer von <rs type="place" ref="#brixen">Brixen</rs>
+               <note type="family">Bruder von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tinckhhauser_hanns">
+            <person xml:id="mayr_joseph">
                <persName>
-                  <forename>Johann</forename>
-                  <surname>Tinkhauser</surname>
+                  <forename>Joseph</forename>
+                  <surname>Mayr</surname>
+                  <addName>Mayr</addName>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="merl">
-               <persName>
-                  <forename/>
-                  <surname>Mörl</surname>
-               </persName>
+               <note type="function">Käufer des Fohrer-Gutes von <rs type="person" ref="#laehner_jacob">Jakob Lehner</rs>
+                    </note>
                <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="ursicin">
-               <persName>
-                  <forename>Ursicin</forename>
-                  <surname/>
-               </persName>
-               <note type="function">Kapuziner-Pater</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stegen_obermutschlechner">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Obermutschlechner</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#steegen">Stegen</rs>
+                        <rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="graber_christian">
-               <persName>
-                  <forename>Christian</forename>
-                  <surname>Graber</surname>
-               </persName>
-               <note type="function">Mesner und ehemaliger Kirchenpropst in <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="techterle_mathies">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Töchterle</surname>
-               </persName>
-               <occupation>Hufschmied</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#antholz_mittertal">Antholz-Mittertal</rs>
-                    </note>
-               <note type="family">Bruder von <rs type="person" ref="#techterle_simon">Simon Töchterle</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#pacher_maria">Maria Pacherin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stainer_mariae">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Planerin</surname>
-                  <surname type="birth">Stainerin</surname>
-               </persName>
-               <note type="family">Schwester von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs>
-                    </note>
-               <note type="family">Ehefrau von <rs type="person" ref="#planer_Stephan">Stefan Planer</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="khlettenhamber_aennae">
                <persName>
                   <forename>Anna</forename>
@@ -1679,25 +1561,125 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
-            </listPerson><listPlace><place xml:id="dietenheim">
-               <placeName>Dietenheim</placeName>
-               <placeName type="italiano">Teodone</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.80345 11.95237</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8949779</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="rasen">
-               <placeName>Rasen / Altrasen</placeName>
-               <placeName type="italiano">Rasun</placeName>
-               <district>Rasen</district>
-               <location>
-                        <geo decls="#LatLng">46.77853 12.04729</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/6534785</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="antholz_mittertal">
+            <person xml:id="sell_franz_joseph">
+               <persName>
+                  <forename>Franz Joseph</forename>
+                  <surname>Söll von Teisegg zu Steinburg und Mohrberg</surname>
+               </persName>
+               <note type="function">k.k. Forstmeister im Pustertal</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="merl">
+               <persName>
+                  <forename/>
+                  <surname>Mörl</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stainer_mariae_3">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Stainerin</surname>
+                  <surname>Lercherin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#lercher_georg">Georg Lercher</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_tschusi_franz_andree">
+               <persName>
+                  <forename>Franz Andreas</forename>
+                  <forename type="alt">Franz Xaver Andreas</forename>
+                  <surname>von Tschusy</surname>
+               </persName>
+               <note type="function">Stadtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="troyer">
+               <persName>
+                  <forename/>
+                  <surname>Graf von Troyer</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tangl_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Tangl</surname>
+               </persName>
+               <note type="function">Konsistorialsekretär und Hofkaplan</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stainer_andree">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Stainer</surname>
+                  <addName>Frischhueber</addName>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#gasmayr_maria">Maria Gassmayrin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="kerschpaember_johan">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs>
+                    </note>
+               <note type="function">Landgerichtschreiber in <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> / <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="fezl_christoph">
+               <persName>
+                  <forename>Christoph Sebastian</forename>
+                  <forename type="alt">Sebastian Christoph</forename>
+                  <forename type="alt">Christoph</forename>
+                  <surname>Fezl</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> und <rs type="person" ref="#fezl_michael">Michael Fezl</rs>
+                    </note>
+               <note type="function">Erblasser</note>
+               <note type="function">Priester und Benefiziat in <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="prokosch_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Prokosch</surname>
+               </persName>
+               <idno type="URL">VIAF | OCRID</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Mayr</surname>
+                  <addName>Kaltenhauser</addName>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="eppacher_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Eppacher</surname>
+               </persName>
+               <occupation>Schmied</occupation>
+               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            </listPerson><listPlace><place xml:id="antholz_mittertal">
                <placeName>Antholz-Mittertal</placeName>
                <placeName type="italiano">Anterselva di Mezzo</placeName>
                <settlement>Antholz</settlement>
@@ -1705,24 +1687,6 @@
                         <geo decls="#LatLng">46.85855 12.0999</geo>
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3183032</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
-               <placeName type="italiano">San Lorenzo di Sebato</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.78514 11.90812</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="oberwiellenpach">
-               <placeName>Oberwielenbach</placeName>
-               <placeName type="italiano">Vila di Sopra</placeName>
-               <district ref="#rasen">Rasen</district>
-               <location>
-                        <geo decls="#LatLng">46.81664 12.00335</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3218563</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="uttenheim">
                <placeName>Uttenheim</placeName>
@@ -1733,63 +1697,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3164169</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="gais">
-               <placeName>Gais</placeName>
-               <placeName type="italiano">Gais</placeName>
-               <district ref="#uttenheim">Uttenheim</district>
-               <location>
-                        <geo decls="#LatLng">46.83658 11.94931</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="tesselberg">
-               <placeName>Tesselberg</placeName>
-               <placeName type="italiano">Montassilone</placeName>
-               <district ref="#brunegg">Bruneck</district>
-               <location>
-                        <geo decls="#LatLng">46.82888 11.98577</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8973747</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brixen">
-               <placeName>Brixen</placeName>
-               <placeName type="italiano">Bressanone</placeName>
-               <location>
-                        <geo decls="#LatLng">46.71503 11.65598</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="kofflach">
-               <placeName>Koflach</placeName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_georgen">
-               <placeName>St. Georgen</placeName>
-               <placeName type="italiano">San Giorgio</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.81254 11.93416</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168310</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="kuenzenthall">
-               <placeName>Künzental</placeName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_georgen_kirche">
-               <placeName>St. Georg (Kirche)</placeName>
-               <placeName type="italiano">San Giorgio</placeName>
-               <settlement ref="#st_georgen">St. Georgen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.816003 11.933442</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brunegg">
-               <placeName>Bruneck</placeName>
-               <placeName type="italiano">Brunico</placeName>
-               <location>
-                        <geo decls="#LatLng">46.79942 11.93429</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="rienzfeld">
                <placeName>Rienzfelder</placeName>
                <settlement ref="#steegen">Stegen</settlement>
@@ -1811,6 +1718,78 @@
                         <geo decls="#LatLng">46.866011 11.947762</geo>
                     </location>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="steegen">
+               <placeName>Stegen</placeName>
+               <placeName type="italiano">Stegona</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.796 11.926</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="dietenheim">
+               <placeName>Dietenheim</placeName>
+               <placeName type="italiano">Teodone</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.80345 11.95237</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8949779</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="oberwiellenpach">
+               <placeName>Oberwielenbach</placeName>
+               <placeName type="italiano">Vila di Sopra</placeName>
+               <district ref="#rasen">Rasen</district>
+               <location>
+                        <geo decls="#LatLng">46.81664 12.00335</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3218563</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.78514 11.90812</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="kuenzenthall">
+               <placeName>Künzental</placeName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="tesselberg">
+               <placeName>Tesselberg</placeName>
+               <placeName type="italiano">Montassilone</placeName>
+               <district ref="#brunegg">Bruneck</district>
+               <location>
+                        <geo decls="#LatLng">46.82888 11.98577</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8973747</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="brunegg">
+               <placeName>Bruneck</placeName>
+               <placeName type="italiano">Brunico</placeName>
+               <location>
+                        <geo decls="#LatLng">46.79942 11.93429</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="gais">
+               <placeName>Gais</placeName>
+               <placeName type="italiano">Gais</placeName>
+               <district ref="#uttenheim">Uttenheim</district>
+               <location>
+                        <geo decls="#LatLng">46.83658 11.94931</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="brixen">
+               <placeName>Brixen</placeName>
+               <placeName type="italiano">Bressanone</placeName>
+               <location>
+                        <geo decls="#LatLng">46.71503 11.65598</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="neunhaeusern">
                <placeName>Neunhäusern</placeName>
                <placeName type="italiano">Nove Case</placeName>
@@ -1820,14 +1799,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3172182</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="steegen">
-               <placeName>Stegen</placeName>
-               <placeName type="italiano">Stegona</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.796 11.926</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="dietenheim_jakob">
                <placeName>St. Jakob (Kirche)</placeName>
                <settlement ref="#dietenheim">Dietenheim</settlement>
@@ -1836,13 +1807,42 @@
                         <geo decls="#LatLng">46.802437 11.950299</geo>
                     </location>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            </listPlace><listBibl><bibl xml:id="undefined3">
-          <title>undefiniert: 24 Quart-Bände</title>
-          <extent>Quart</extent>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="undefined4">
+            <place xml:id="st_georgen_kirche">
+               <placeName>St. Georg (Kirche)</placeName>
+               <placeName type="italiano">San Giorgio</placeName>
+               <settlement ref="#st_georgen">St. Georgen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.816003 11.933442</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="kofflach">
+               <placeName>Koflach</placeName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_georgen">
+               <placeName>St. Georgen</placeName>
+               <placeName type="italiano">San Giorgio</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.81254 11.93416</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168310</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="rasen">
+               <placeName>Rasen / Altrasen</placeName>
+               <placeName type="italiano">Rasun</placeName>
+               <district>Rasen</district>
+               <location>
+                        <geo decls="#LatLng">46.77853 12.04729</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/6534785</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></place>
+            </listPlace><listBibl><bibl xml:id="undefined4">
           <title>undefiniert: etwa 50 Oktav-Bände</title>
           <extent>Oktav</extent>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="undefined3">
+          <title>undefiniert: 24 Quart-Bände</title>
+          <extent>Quart</extent>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event></listEvent></bibl>
         <bibl xml:id="undefined2">
           <title>undefiniert: 10 Folio-Bände</title>
