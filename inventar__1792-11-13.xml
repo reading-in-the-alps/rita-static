@@ -1776,47 +1776,7 @@
             <p>Zu Bericht wird allda noch weiters angeführet, dass geistlicher Herr <rs type="person" ref="#tratter_balthasar">Balthauser Tratter</rs> von der einsmals wiederum in Verwahr genommenen Baarschaft selbs 10 Species Thaler zurück behalten, dann seinen Bruder <rs type="person" ref="#tratter_mathes">Mathias</rs> 2 deto, der Schwester <rs type="person" ref="#tratter_maria">Maria verwittweten Pifraderin</rs> 10 weiters der <rs type="person" ref="#tratter_veit">Veit Tratterischen</rs> Wittwe <rs type="tratter_anna">Anna gebohrnen Ofnerin</rs> für ihre Kinder 8 nicht weniger dem <rs type="person" ref="#peintner_georg">Georg Peintner</rs> als Vertrettern der 2 Schwestern <rs type="person" ref="#tratter_ursula">Ursula</rs>, und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs> für jede 2 thut 4 Kayserliche Thaller, und die noch übrige Baarschaft pr 90 f 22 x dem Gemeinschaftführer <rs type="person" ref="#pifrader_joseph">Joseph Pifrader</rs> bestellet habe.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="steeger_joseph_2">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Steeger</surname>
-                  <addName>Häuslmayr</addName>
-               </persName>
-               <note type="function">Schuldner und Erbempfänger von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_katharina">
-               <persName>
-                  <forename>Katharina</forename>
-                  <surname>Tratterin</surname>
-               </persName>
-               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Tochter von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-             <note type="placing">
-                        <rs type="place" ref="#pasln">Baslan</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_balthasar">
-               <persName>
-                  <forename>Balthasar</forename>
-                  <surname>Tratter</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-               <note type="function">Kooperator in <rs type="place" ref="#latzfons">Latzfons</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_veit">
+   <back><listPerson><person xml:id="tratter_veit">
                <persName>
                   <forename>Veit</forename>
                   <surname>Tratter</surname>
@@ -1832,6 +1792,18 @@
                         <rs type="place" ref="#stoerzing">Sterzing</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="steeger_joseph_2">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Steeger</surname>
+                  <addName>Häuslmayr</addName>
+               </persName>
+               <note type="function">Schuldner und Erbempfänger von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="tratter_anna">
                <persName>
                   <forename>Anna</forename>
@@ -1839,176 +1811,6 @@
                   <surname>Tratterin</surname>
                </persName>
                <note type="family">Ehefrau von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="unterwolfsgrueber_sebastian">
-               <persName>
-                  <forename>Sebastian</forename>
-                  <surname>Unterwolfsgruber</surname>
-                  <addName>Raderbauer</addName>
-               </persName>
-               <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_mathes">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Tratter</surname>
-                  <addName>Tratter</addName>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-               <note type="family">Ehemann von <rs type="person" ref="#tratter_margaretha">Margaretha Mayrin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="herrnegger_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Hernegger</surname>
-               </persName>
-               <occupation>Schneidermeister</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#soneburg">Sonnenburg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pifrader_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Pifrader</surname>
-                  <addName>Brandlechner</addName>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs>
-                    </note>
-               <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Tratterin</surname>
-                  <surname>Pifraderin</surname>
-                  <addName>Brandlechnerin</addName>
-               </persName>
-               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Tochter von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="peintner_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Peintner</surname>
-                  <addName>Kachler (Kachler-Wirt)</addName>
-               </persName>
-               <occupation>Wirt</occupation>
-               <note type="function">Kurator und Vertreter von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>, <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="felser_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Felser</surname>
-                  <addName>halber Kaltenhauser</addName>
-               </persName>
-               <note type="function">Anweiser von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="peintner_georg_soehne">
-               <persName>
-                  <forename/>
-                  <surname/>Peintner
-               </persName>
-               <note type="family">zwei Söhne von <rs type="person" ref="#peintner_georg">Georg Peintner</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Tratter</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-               <note type="function">Benefiziat in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs> (1773)</note>
-               <note type="function">Kaplan in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs> (1792)</note>
-               <note type="function">Erblasser (1792)</note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_nachfolger">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Nachfolger des <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> als Kaplan</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_margaretha">
-               <persName>
-                  <forename>Margaretha</forename>
-                  <surname type="birth">Mayrin</surname>
-                  <surname>Tratterin</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_maria_2">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Kammererin</surname>
-                  <surname>Tratterin</surname>
-               </persName>
-               <note type="family">Mutter von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Ehefrau von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="muz_johan_geoerg">
-               <persName>
-                  <forename>Johann Georg</forename>
-                  <forename type="alt">Georg</forename>
-                  <surname>Muz</surname>
-                  <surname type="alt">Mutio</surname>
-               </persName>
-               <occupation>Barbier [und Bader]</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="peintner_anna">
-               <persName>
-                  <forename>Anna</forename>
-                  <surname>Peintnerin</surname>
-               </persName>
-               <note type="function">Häuserin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="aktuar_tratter">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Aktuar im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="lechner_anna">
-               <persName>
-                  <forename>Anna</forename>
-                  <surname>Lechnerin</surname>
-               </persName>
-               <note type="function">in Dienst bei <rs type="person" ref="#puell_2">[N.] Puel</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="kantor_gais">
@@ -2022,46 +1824,6 @@
                         <rs type="place" ref="#gais">Gais</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_matthias">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Tratter</surname>
-               </persName>
-               <note type="family">Vater von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="family">Ehemann von <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="rader_bauer">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Rader</addName>
-               </persName>
-               <occupation>Bauer</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="mutschlechner_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Mutschlechner</surname>
-               </persName>
-               <note type="function">Geistlicher</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kooperator_gais">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#gais">Gais</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#gais">Gais</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="prokosch_michael">
                <persName>
                   <forename>Michael</forename>
@@ -2069,6 +1831,16 @@
                </persName>
                <idno type="URL">VIAF | OCRID</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="peintner_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Peintner</surname>
+                  <addName>Kachler (Kachler-Wirt)</addName>
+               </persName>
+               <occupation>Wirt</occupation>
+               <note type="function">Kurator und Vertreter von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>, <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="tratter_ursula">
                <persName>
                   <forename>Ursula</forename>
@@ -2092,25 +1864,182 @@
                <note type="function">Taxator, Beisitzer und Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pifrader_paul">
+            <person xml:id="peintner_anna">
                <persName>
-                  <forename>Paul</forename>
-                  <surname>Pifrader</surname>
-                  <addName>Bartlmayr</addName>
+                  <forename>Anna</forename>
+                  <surname>Peintnerin</surname>
                </persName>
-               <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs>
+               <note type="function">Häuserin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="apotheker_bruneck">
+            <person xml:id="rainer_peter_paul">
+               <persName>
+                  <forename>Peter Paul</forename>
+                  <surname>Rainer</surname>
+               </persName>
+               <note type="function">Priester</note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="kooperator_gais">
                <persName>
                   <forename/>
                   <surname/>
                </persName>
-               <occupation>Apotheker</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
+               <note type="function">Kooperator in <rs type="place" ref="#gais">Gais</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+               <note type="placing">
+                        <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="rader_bauer">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Rader</addName>
+               </persName>
+               <occupation>Bauer</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="pfarrer_gais_2">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pfarrer in <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Mayr</surname>
+               </persName>
+               <note type="function">Schreiber</note>
+               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen (?)</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="mesner_georgen_2_sohn">
+               <persName>
+                  <forename/>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn des <rs type="person" ref="#hueber_christian">Christian Hueber</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Tratterin</surname>
+                  <surname>Pifraderin</surname>
+                  <addName>Brandlechnerin</addName>
+               </persName>
+               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="aktuar_tratter">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Aktuar im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="felser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Felser</surname>
+                  <addName>halber Kaltenhauser</addName>
+               </persName>
+               <note type="function">Anweiser von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="kammerer_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Kammerer</surname>
+                  <addName>Grünbacher</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#kiens">Kiens</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_nachfolger">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Nachfolger des <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> als Kaplan</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mutschlechner_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Mutschlechner</surname>
+               </persName>
+               <note type="function">Geistlicher</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="unterwolfsgrueber_sebastian">
+               <persName>
+                  <forename>Sebastian</forename>
+                  <surname>Unterwolfsgruber</surname>
+                  <addName>Raderbauer</addName>
+               </persName>
+               <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pifrader_andree">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Pifrader</surname>
+                  <addName>Brandlechner</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="herrnegger_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hernegger</surname>
+               </persName>
+               <occupation>Schneidermeister</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#soneburg">Sonnenburg</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_balthasar">
+               <persName>
+                  <forename>Balthasar</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+               <note type="function">Kooperator in <rs type="place" ref="#latzfons">Latzfons</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="frenes_">
                <persName>
                   <forename/>
@@ -2121,6 +2050,145 @@
                         <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="apotheker_bruneck">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <occupation>Apotheker</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="muz_johan_geoerg_geselle">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <occupation>Barbier</occupation>
+               <note type="function">Geselle bei <rs type="person" ref="#muz_johan_geoerg">Johann Georg Muz</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_mathes_2">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">Cousin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_bartlmae">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">Cousin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hofer_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Hofer</surname>
+               </persName>
+               <occupation>Stadtmetzger in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_matthias">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">Vater von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_mathes">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Tratter</surname>
+                  <addName>Tratter</addName>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="#tratter_margaretha">Margaretha Mayrin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="muz_johan_geoerg">
+               <persName>
+                  <forename>Johann Georg</forename>
+                  <forename type="alt">Georg</forename>
+                  <surname>Muz</surname>
+                  <surname type="alt">Mutio</surname>
+               </persName>
+               <occupation>Barbier [und Bader]</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pifrader_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Pifrader</surname>
+                  <addName>Brandlechner</addName>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs>
+                    </note>
+               <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_katharina">
+               <persName>
+                  <forename>Katharina</forename>
+                  <surname>Tratterin</surname>
+               </persName>
+               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+             <note type="placing">
+                        <rs type="place" ref="#pasln">Baslan</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_margaretha">
+               <persName>
+                  <forename>Margaretha</forename>
+                  <surname type="birth">Mayrin</surname>
+                  <surname>Tratterin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Mesner in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="lechner_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Lechnerin</surname>
+               </persName>
+               <note type="function">in Dienst bei <rs type="person" ref="#puell_2">[N.] Puel</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="gasser_joseph">
                <persName>
                   <forename>Joseph</forename>
@@ -2139,37 +2207,39 @@
                         </note>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kammerer_joseph">
+            <person xml:id="peintner_georg_soehne">
+               <persName>
+                  <forename/>
+                  <surname/>Peintner
+               </persName>
+               <note type="family">zwei Söhne von <rs type="person" ref="#peintner_georg">Georg Peintner</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pifrader_paul">
+               <persName>
+                  <forename>Paul</forename>
+                  <surname>Pifrader</surname>
+                  <addName>Bartlmayr</addName>
+               </persName>
+               <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tratter_joseph">
                <persName>
                   <forename>Joseph</forename>
-                  <surname>Kammerer</surname>
-                  <addName>Grünbacher</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#kiens">Kiens</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_peter">
-               <persName>
-                  <forename>Peter</forename>
-                  <surname>Mayr</surname>
-               </persName>
-               <note type="function">Schreiber</note>
-               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen (?)</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="tratter_mathes_2">
-               <persName>
-                  <forename>Matthias</forename>
                   <surname>Tratter</surname>
                </persName>
-               <note type="family">Cousin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
+               <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs>
+                    </note>
+               <note type="function">Benefiziat in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs> (1773)</note>
+               <note type="function">Kaplan in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs> (1792)</note>
+               <note type="function">Erblasser (1792)</note>
+               <note type="placing">
+                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="pifrader_peter">
                <persName>
                   <forename>Peter</forename>
@@ -2178,108 +2248,63 @@
                <note type="family">Sohn von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfarrer_gais_2">
+            <person xml:id="tratter_maria_2">
                <persName>
-                  <forename/>
-                  <surname/>
+                  <forename>Maria</forename>
+                  <surname type="birth">Kammererin</surname>
+                  <surname>Tratterin</surname>
                </persName>
-               <note type="function">Pfarrer in <rs type="place" ref="#gais">Gais</rs>
+               <note type="family">Mutter von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
                     </note>
-               <note type="placing">
-                        <rs type="place" ref="#gais">Gais</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pifrader_andree">
-               <persName>
-                  <forename>Andreas</forename>
-                  <surname>Pifrader</surname>
-                  <addName>Brandlechner</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_christian">
-               <persName>
-                  <forename>Christian</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="function">Mesner in <rs type="place" ref="#st_georgen_kirche">St. Georgen</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mesner_georgen_2_sohn">
-               <persName>
-                  <forename/>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="family">Sohn des <rs type="person" ref="#hueber_christian">Christian Hueber</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_georgen">St. Georgen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tratter_bartlmae">
-               <persName>
-                  <forename>Bartlme</forename>
-                  <surname>Tratter</surname>
-               </persName>
-               <note type="family">Cousin von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
+               <note type="family">Ehefrau von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="rainer_peter_paul">
-               <persName>
-                  <forename>Peter Paul</forename>
-                  <surname>Rainer</surname>
-               </persName>
-               <note type="function">Priester</note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="muz_johan_geoerg_geselle">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <occupation>Barbier</occupation>
-               <note type="function">Geselle bei <rs type="person" ref="#muz_johan_geoerg">Johann Georg Muz</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hofer_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Hofer</surname>
-               </persName>
-               <occupation>Stadtmetzger in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></person>
-            </listPerson><listPlace><place xml:id="keselanger">
+            </listPerson><listPlace><place xml:id="roveredo">
+               <placeName>Rovereto</placeName>
+               <placeName type="italiano">Rovereto</placeName>
+               <district>Rovereto</district>
+               <location>
+                        <geo decls="#LatLng">45.8904 11.04053</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168854</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_georgen_kirche">
+               <placeName>St. Georg (Kirche)</placeName>
+               <placeName type="italiano">San Giorgio</placeName>
+               <settlement ref="#st_georgen">St. Georgen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.816003 11.933442</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="gais_kirche">
+               <placeName>Gais (St.-Johannes-Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Giovanni Evangelista</placeName>
+               <settlement ref="#gais">Gais</settlement>
+               <location>
+                        <geo decls="#LatLng">46.833052 11.947658</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="gais">
+               <placeName>Gais</placeName>
+               <placeName type="italiano">Gais</placeName>
+               <district ref="#uttenheim">Uttenheim</district>
+               <location>
+                        <geo decls="#LatLng">46.83658 11.94931</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="keselanger">
                <placeName>Keselanger</placeName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="kiens">
-               <placeName>Kiens</placeName>
-               <placeName type="italiano">Chienes</placeName>
-               <district ref="#schenegg">Schöneck</district>
+            <place xml:id="pasln">
+               <placeName>Baslan</placeName>
+               <placeName type="italiano">Baslan</placeName>
+	             <settlement ref="#tscherms">Tscherms</settlement>
                <location>
-                        <geo decls="#LatLng">46.8068 11.84</geo>
+                        <geo decls="#LatLng">46.63942 11.14207</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/3178820</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_georgen">
-               <placeName>St. Georgen</placeName>
-               <placeName type="italiano">San Giorgio</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.81254 11.93416</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168310</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+               <idno type="GEONAMES">https://www.geonames.org/8960929</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="brunegg">
                <placeName>Bruneck</placeName>
                <placeName type="italiano">Brunico</placeName>
@@ -2297,50 +2322,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/6535984</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="gais">
-               <placeName>Gais</placeName>
-               <placeName type="italiano">Gais</placeName>
-               <district ref="#uttenheim">Uttenheim</district>
-               <location>
-                        <geo decls="#LatLng">46.83658 11.94931</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="gais_kirche">
-               <placeName>Gais (St.-Johannes-Kirche)</placeName>
-               <placeName type="italiano">Chiesa di S. Giovanni Evangelista</placeName>
-               <settlement ref="#gais">Gais</settlement>
-               <location>
-                        <geo decls="#LatLng">46.833052 11.947658</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="roveredo">
-               <placeName>Rovereto</placeName>
-               <placeName type="italiano">Rovereto</placeName>
-               <district>Rovereto</district>
-               <location>
-                        <geo decls="#LatLng">45.8904 11.04053</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168854</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="lazfonns">
-               <placeName>Latzfons</placeName>
-               <placeName type="italiano">Lazfons</placeName>
-               <district>Latzfons und Verdings</district>
-               <location>
-                        <geo decls="#LatLng">46.66965 11.55135</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3174978</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="pasln">
-               <placeName>Baslan</placeName>
-               <placeName type="italiano">Baslan</placeName>
-	             <settlement ref="#tscherms">Tscherms</settlement>
-               <location>
-                        <geo decls="#LatLng">46.63942 11.14207</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8960929</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="borgo">
                <placeName>Borgo Sacco</placeName>
                <placeName type="italiano">Borgo Sacco</placeName>
@@ -2357,14 +2338,24 @@
                         <geo decls="#LatLng">46.772172 11.892502</geo>
                     </location>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_georgen_kirche">
-               <placeName>St. Georg (Kirche)</placeName>
+            <place xml:id="st_georgen">
+               <placeName>St. Georgen</placeName>
                <placeName type="italiano">San Giorgio</placeName>
-               <settlement ref="#st_georgen">St. Georgen</settlement>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
                <location>
-                        <geo decls="#LatLng">46.816003 11.933442</geo>
+                        <geo decls="#LatLng">46.81254 11.93416</geo>
                     </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168310</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="lazfonns">
+               <placeName>Latzfons</placeName>
+               <placeName type="italiano">Lazfons</placeName>
+               <district>Latzfons und Verdings</district>
+               <location>
+                        <geo decls="#LatLng">46.66965 11.55135</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3174978</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="soneburg">
                <placeName>Sonnenburg</placeName>
                <placeName type="italiano">Castelbadia</placeName>
@@ -2373,11 +2364,20 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            </listPlace><listBibl><bibl xml:id="undefined15">
-          <title>undefiniert: mehrere Bücher</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="brevier">
+            <place xml:id="kiens">
+               <placeName>Kiens</placeName>
+               <placeName type="italiano">Chienes</placeName>
+               <district ref="#schenegg">Schöneck</district>
+               <location>
+                        <geo decls="#LatLng">46.8068 11.84</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3178820</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></place>
+            </listPlace><listBibl><bibl xml:id="brevier">
           <title cert="unknown">Brevier</title>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="undefined15">
+          <title>undefiniert: mehrere Bücher</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event></listEvent></bibl>
         </listBibl></back></text>
 </TEI>
