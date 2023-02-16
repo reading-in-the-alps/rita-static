@@ -8,7 +8,11 @@ jobs:
     name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
     env:
-      ANT_OPTS: -Xmx5g
+      ANT_OPTS: -Xmx6g
+      TYPESENSE_HOST: typesense.acdh-dev.oeaw.ac.at
+      TYPESENSE_PORT: 443
+      TYPESENSE_PROTOCOL: https
+      TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v3
@@ -19,6 +23,8 @@ jobs:
         pip install -r requirements.txt
     - name: fetch data
       run: ./fetch_data.sh
+    - name: fulltext index
+      run: python make_typesense_index.py
     - name: Build
       run: ant
     - name: Deploy

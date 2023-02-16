@@ -58,11 +58,8 @@
                                 <a class="dropdown-item" href="listbibl.html">Bücher</a>
                             </div>
                         </li>
+                        <li class="nav-item"><a href="search.html" title="Volltextsuche" class="nav-link">Volltextsuche</a></li>
                     </ul>
-                    <form method="get" action="../pages/ft_search.html" class="form-inline my-2 my-lg-0">
-                        <input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suchen" aria-label="Suchen"/>
-                        <button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button>
-                    </form>
                 </div>
             </nav>
             <!-- .site-navigation -->
