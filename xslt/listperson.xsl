@@ -12,7 +12,7 @@
     <xsl:import href="./partials/person.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select=".//tei:title[@type='label'][1]/text()"/>
+            <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
         </xsl:variable>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html>
@@ -24,7 +24,7 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">                        
+                    <div class="container-custom">                        
                         <div class="card">
                             <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
