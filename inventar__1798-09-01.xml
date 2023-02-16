@@ -223,7 +223,98 @@
             <p>Da es aber nicht in der Macht des Gerichts stehet, der Kirche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>oder.</p></note> und dennen Armen ihre betreffende Antheile zu entziechen, so hat man es einsmalen bey obiger Anweisung zu belassen, und die Erben unter einst mit ihren billigen Gesuche an das wohllobliche k.k. Kreisamt zu verweisen befunden.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="hueber_michael">
+   <back><listPlace><place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeName>
+               <location>
+                        <geo decls="#LatLng">46.772172 11.892502</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="ahornach">
+               <placeName>Ahornach</placeName>
+               <placeName type="italiano">Acereto</placeName>
+	             <settlement ref="#sand">Sand in Taufers</settlement>
+               <location>
+                        <geo decls="#LatLng">46.9264 11.9789</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3183545</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="taufers">
+               <placeName>Taufers</placeName>
+               <placeName type="italiano">Tures</placeName>
+               <location>
+                        <geo decls="#LatLng">46.9112 11.94835</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="saalen_kaplanei">
+               <placeName>Maria Saalen / Unsere Liebe Frau von Loreto</placeName>
+               <settlement ref="#saalen">Saalen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.765848 11.867168</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="saalen">
+               <placeName>Saalen</placeName>
+               <placeName type="italiano">Sares</placeName>
+               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.765848 11.867168</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.78514 11.90812</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="sand">
+               <placeName>Sand in Taufers</placeName>
+               <placeName type="italiano">Campo Tures</placeName>
+	             <district ref="#taufers">Taufers</district>
+               <location>
+                        <geo decls="#LatLng">46.91882 11.953575</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3180908</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+         </listPlace><listPerson><person xml:id="auer_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Auerin</surname>
+                  <surname>Hueberin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#hueber_johann_2">Johann</rs>, <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Matthias Hueber</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_mathes_2">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pallauf_gottlieb_johann">
+               <persName>
+                  <forename>Gottlieb Johann</forename>
+                  <surname>Pallauf</surname>
+               </persName>
+               <occupation>Chirurg</occupation>
+               <note type="function">Zeuge und Siegler am Testament von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_michael">
                <persName>
                   <forename>Michael</forename>
                   <surname>Hueber</surname>
@@ -239,16 +330,75 @@
                <note type="placing">wohnhaft am <rs type="place" ref="#ahornach">Achorner Berg</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="forer_johann">
+            <person xml:id="kirchpropst_saalen">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Kirchpropst in <rs type="place" ref="#saalen">Saalen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="mayr_katharina">
+               <persName>
+                  <forename>Katharina</forename>
+                  <surname type="birth">Mayrin</surname>
+                  <surname>Hueberin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#hueber_michael_2">Michael Hueber</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_johann_2">
                <persName>
                   <forename>Johann</forename>
-                  <surname>Forer</surname>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Mayr</surname>
+                  <addName>Graspeintner</addName>
+                  <addName type="alt">Grasbeinter</addName>
+                  <note type="function">Beisitzer im Rahmen der Verlassenschaft von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>
+                        </note>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_michael_2">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Hueber</surname>
                   <addName>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs>
                         </addName>
                </persName>
                <occupation>Bauer</occupation>
+               <note type="family">Ehemann von <rs type="person" ref="#mayr_katharina">Katharina Mayrin</rs>
+                    </note>
+               <note type="family">Vater von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
+                    </note>
                <note type="placing">
-                        <rs type="place" ref="#sand">Sand in Taufers</rs>
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_martin_2">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="steger_georg">
@@ -263,6 +413,55 @@
                <note type="function">Gewalthaber der Erben (im Besonderen <rs type="person" ref="#hueber_martin_2">Martin Hueber</rs> und <rs type="person" ref="#hueber_johann_2">Johann Hueber</rs>) im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_joseph_3">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="steger_georg_2">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Steeger</surname>
+                  <addName>Schraffl-Wirt</addName>
+               </persName>
+               <occupation>Wirt</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_jakob_beichtvater">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Beichtvater von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="forer_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Forer</surname>
+                  <addName>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs>
+                        </addName>
+               </persName>
+               <occupation>Bauer</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#sand">Sand in Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_johann_3">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <occupation>Wirt</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#saalen">Saalen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="zeiler_christoph">
                <persName>
                   <forename>Christoph</forename>
@@ -279,115 +478,6 @@
                </persName>
                <idno type="URL">VIAF | OCRID</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_katharina">
-               <persName>
-                  <forename>Katharina</forename>
-                  <surname type="birth">Mayrin</surname>
-                  <surname>Hueberin</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#hueber_michael_2">Michael Hueber</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_joseph_3">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_mathes_2">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_jakob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Mayr</surname>
-                  <addName>Graspeintner</addName>
-                  <addName type="alt">Grasbeinter</addName>
-                  <note type="function">Beisitzer im Rahmen der Verlassenschaft von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>
-                        </note>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="steger_georg_2">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Steeger</surname>
-                  <addName>Schraffl-Wirt</addName>
-               </persName>
-               <occupation>Wirt</occupation>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kirchpropst_saalen">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Kirchpropst in <rs type="place" ref="#saalen">Saalen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="hueber_michael_2">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Hueber</surname>
-                  <addName>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs>
-                        </addName>
-               </persName>
-               <occupation>Bauer</occupation>
-               <note type="family">Ehemann von <rs type="person" ref="#mayr_katharina">Katharina Mayrin</rs>
-                    </note>
-               <note type="family">Vater von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="auer_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Auerin</surname>
-                  <surname>Hueberin</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#hueber_michael">Michael Hueber</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#hueber_johann_2">Johann</rs>, <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Matthias Hueber</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_johann_2">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_jakob_beichtvater">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Beichtvater von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="hueber_jakob">
                <persName>
                   <forename>Jakob</forename>
@@ -401,95 +491,5 @@
                <note type="function">Benefiziat zu <rs type="place" ref="#saalen">Saalen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pallauf_gottlieb_johann">
-               <persName>
-                  <forename>Gottlieb Johann</forename>
-                  <surname>Pallauf</surname>
-               </persName>
-               <occupation>Chirurg</occupation>
-               <note type="function">Zeuge und Siegler am Testament von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_johann_3">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <occupation>Wirt</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#saalen">Saalen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hueber_martin_2">
-               <persName>
-                  <forename>Martin</forename>
-                  <surname>Hueber</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_michael">Michael Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            </listPerson><listPlace><place xml:id="sand">
-               <placeName>Sand in Taufers</placeName>
-               <placeName type="italiano">Campo Tures</placeName>
-	             <district ref="#taufers">Taufers</district>
-               <location>
-                        <geo decls="#LatLng">46.91882 11.953575</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3180908</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-         <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
-               <placeName type="italiano">San Lorenzo di Sebato</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.78514 11.90812</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saalen_kaplanei">
-               <placeName>Maria Saalen / Unsere Liebe Frau von Loreto</placeName>
-               <settlement ref="#saalen">Saalen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.765848 11.867168</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="italiano">San Michele</placeName>
-               <location>
-                        <geo decls="#LatLng">46.772172 11.892502</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saalen">
-               <placeName>Saalen</placeName>
-               <placeName type="italiano">Sares</placeName>
-               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.765848 11.867168</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="taufers">
-               <placeName>Taufers</placeName>
-               <placeName type="italiano">Tures</placeName>
-               <location>
-                        <geo decls="#LatLng">46.9112 11.94835</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="ahornach">
-               <placeName>Ahornach</placeName>
-               <placeName type="italiano">Acereto</placeName>
-	             <settlement ref="#sand">Sand in Taufers</settlement>
-               <location>
-                        <geo decls="#LatLng">46.9264 11.9789</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3183545</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            </listPlace></back></text>
+            </listPerson></back></text>
 </TEI>
