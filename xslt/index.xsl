@@ -79,8 +79,8 @@
                                 Online-Datenbank publiziert. Auf diese Weise sollen sowohl die Wissenschaft als auch die interessierte Öffentlichkeit einfachen Zugang zu den aufbereiteten Quellen erhalten, die für eine ganze Reihe von Fragestellungen von Interesse sein können.</p>
                             <p style="text-align:justify">In einer Pilotstudie wurden bereits rund 200 Inventare aus dem Tiroler Stubaital untersucht. Die Ergebnisse sind hier ebenfalls zu finden.</p>
                             <h1 style="text-align:center">
-                                <a class="btn btn-main btn-outline-primary btn-lg" href="toc.html?collection=editions" role="button">Inventare Pustertal</a>
-                                <a class="btn btn-main btn-outline-primary btn-lg" href="rita1.html?collection=rita1" role="button">Inventare Stubaital</a>
+                                <a class="btn btn-main btn-outline-primary btn-lg" href="toc.html" role="button">Inventare Pustertal</a>
+                                <a class="btn btn-main btn-outline-primary btn-lg" href="rita1.html" role="button">Inventare Stubaital</a>
                             </h1>
                         
                     </div>
