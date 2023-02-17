@@ -1060,342 +1060,7 @@
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs> bekhene wie obsteth</p>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="vollkhommene_closter_frau">
-          <author ref="http://d-nb.info/gnd/100025005">Carlo Andrea Basso</author>
-          <title>Vollkommene Closter-Frau, das ist: Wahre Tugent-Form für alle der geistlichen
-            Vollkommenheit begirig- und beflissene Seelen etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222753-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_steinhies_aphorismus_juris">
-          <author ref="http://d-nb.info/gnd/115596887">Anton Steinsiess</author>
-          <title>Aphorismi iuris praxeos seu resolutiones theologico-iuridico-morales etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11100182-6</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="neuburger_conciodes_moralis">
-          <author ref="http://d-nb.info/gnd/123197473">Christoph Ulrich Neuburger</author>
-          <title>Conciones Rurales, oder: Gantze doch Kurtze Predigen etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365239-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_graditensis_concianes">
-          <author cert="unknown">[Pater] Gradicensis</author>
-          <title cert="unknown">Conciones</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="peckher_schuldigistes_andenckhen">
-          <author ref="http://d-nb.info/gnd/130358312">Tobias Johann Becker</author>
-          <title>Schuldigstes Andencken des bitteren Leydens und Sterbens Christi Jesu unsers
-            Erlösers und Seeligmachers etc.</title>
-          <idno>https://books.google.at/books?id=MgL5tLn0DmgC</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_sigl_diester_gwaldt_zum_todt">
-          <author ref="http://d-nb.info/gnd/177418982" cert="medium">Benedikt Sigl</author>
-          <title cert="medium">Süsser Gewalt zur Tugend, das ist: Herrliche und heilige Beyspihl Der
-            Krancken und Sterbenden etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082283-1</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="scuppuli_geistlicher_streit">
-          <author ref="http://d-nb.info/gnd/123377145">Lorenzo Scupoli</author>
-          <title>Geistlicher Streit</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267595-9</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270507-6</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267599-5</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="peer_moerckhs_paur">
-          <author ref="http://d-nb.info/gnd/119470500">Johann Christoph Beer</author>
-          <title>Mercks Baur, das ist: Heilsame, geistliche Lehren, und Ermahnungen, An die
-            Christliche Baurschafft etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290145-9</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595792-1</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="kiesewerter_proedigen">
-          <author cert="unknown">Kiesewetter</author>
-          <title cert="unknown">Ex Ordinari Predigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="adurnal">
-          <title cert="unknown">Adurnal</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="philote">
-          <title cert="unknown">Philotae</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_franz_bojerus">
-          <author ref="http://d-nb.info/gnd/104323469">Poiré François</author>
-          <title>Der übergebenedeytisten Mutter Gottes Mariae Dreyfache Cron etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223434-1</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_prugger_christien_lehr">
-          <author ref="http://d-nb.info/gnd/119516306" cert="high">Martin Prugger</author>
-          <title cert="high">Lehr- und Exempelbuch, worinnen nicht allein, zwar einfältig, jedoch
-            klar und gründlich, vorgetragen der völlige Katechismus oder christ-catholische Lehr,
-            sondern auch etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10347731-5</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="paetivil_proedigen">
-          <author cert="unknown">Paetivil</author>
-          <title cert="unknown">Predigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_vogl_veritates_et_terne">
-          <author ref="http://d-nb.info/gnd/123546710">Matthäus Vogel</author>
-          <title cert="unknown">Veritates aeternae ex prima hebdomade etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268839-8</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268838-8</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_padu_von_den_vier_lezten_dingen">
-          <author cert="unknown">[Pater] Padu</author>
-          <title cert="unknown">Von Den Vier Letzten Dingen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_hetti_heiliger_ehestandt">
-          <author ref="http://d-nb.info/gnd/1067655263">Joseph Cetti</author>
-          <title>Heiliger Ehestand, das ist: Gründliche Unterweisungen für diejenige, welche von
-            Gott zu dem Ehestand berufen sind etc.</title>
-          <idno>https://books.google.at/books?id=RthkAAAAcAAJ</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_miel_proedigen">
-          <author ref="http://d-nb.info/gnd/100310451" cert="medium">Peter Miell</author>
-          <title cert="medium">Geistreiches Dominicale und Festivale, oder: Christliche
-            Vollkommenheit [...] durch erbauliche Predigen an denen Sonn- und Feyer-Tägen
-            etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330027-6</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="fosa_juvavium">
-          <author ref="http://d-nb.info/gnd/124859577">Felix Fossa</author>
-          <title>Juvavium Animarum In Purgatorio, das ist: Helffenburg Der Armen Seelen in dem
-            Fegfeuer etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364205-0</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_zillis">
-          <author cert="unknown">[Pater] Zillis</author>
-          <title/>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="hoechlschmit_der_buessende_zaecheus">
-          <author ref="http://d-nb.info/gnd/123825415">Georg Hechelschmid</author>
-          <title>Der büssende Zachäus, das ist: Hundert Buß-Predigen etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364477-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="lavitan_fastenproedigen">
-          <author cert="unknown">Lavitan</author>
-          <title cert="unknown">Fastenpredigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="barcia_seelen_weckher">
-          <author ref="http://d-nb.info/gnd/123733111">José de Barcia y Zambrana</author>
-          <title>Christ-eyfriger Seelen-wecker, oder: Lehrreiche Predigen über absonderliche Stellen
-            der Heiligen Schrifft etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11205005-5</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="justus_joseph_meditationes">
-          <author ref="http://d-nb.info/gnd/132050161">Stanisław Sokołowski</author>
-          <title>Justus Joseph sive in Jesu Christi Domini nostri mortem et passionem [...]
-            Meditationes etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10152099-4</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="sacerdotale_brixinense">
-          <author ref="http://d-nb.info/gnd/119500809">Christoph Andreas von Spaur</author>
-          <author cert="unknown" ref="http://d-nb.info/gnd/115772251">Wilhelm von Welsberg</author>
-          <title>Sacerdotale Brixinense continens modum administrandi sacramenta, exequias
-            defunctorum, item benedictiones sacerdotales per totum annum ad ritum Romanum, et usum
-            Dioecesis Brixinensis etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11069246-0</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_engl_ius_canonici">
-          <author ref="http://d-nb.info/gnd/121032299" cert="medium">Ludwig Engel</author>
-          <title cert="medium">Collegium Universi Juris Canonici etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10508455-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="undefined5">
-          <title>undefiniert: unterschiedliche Diskurse</title>
-          <extent cert="low">Oktav</extent>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_neumayr_vier_apostolicus">
-          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
-          <title>Vir Apostolicus Sive Doctrina Methodica De Utili Et Facili Praxi Functionum
-            Sacerdotalium etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291462-4</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10610433-5</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_sender_domo_christiani">
-          <author ref="http://d-nb.info/gnd/115533869" cert="unknown">[Pater] Sender</author>
-          <title cert="unknown">Domo Christiani</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="freythamer_proedigen">
-          <author cert="unknown">Freythamer</author>
-          <title cert="unknown">Sonn- und Feyrtägliche Feyrtag-Predigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="teutsche_bibl">
-          <title>Bibel (deutsch)</title>
-          <textLang>deutsch</textLang>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_hueber_proedigen">
-          <author ref="http://d-nb.info/gnd/129823422" cert="high">Ferdinand Hueber</author>
-          <title cert="high">Der [...] zur Himmels-Weyd ruffende Seelen-Hirt etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11056766-8</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329781-0</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11056764-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_neumayr_idea_rethoricae">
-          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
-          <title>Idea Rhetoricae Sive Methodica Institutio etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11081440-0</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_neumayr_idea_poesios">
-          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
-          <title>Idea Poeseos Sive Methodica Institutio etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574369-7</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="geschribenes_recept_buech">
-          <title cert="unknown">Geschriebenes Rezeptbuch</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_raphael_sanct_joseph">
-          <author cert="unknown">[Pater] Raphael</author>
-          <title cert="unknown">Sanct Joseph</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="dolog_moralis">
-          <title cert="medium">Theologia Moralis</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_cyrilus_riga_horti_plantation">
-          <author ref="http://d-nb.info/gnd/100391516">Cyrillus Riga</author>
-          <title cert="unknown">Horti Plantationum Irrigatio</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365797-4</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365780-6</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292754-0</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365783-2</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="tobias_lohner">
-          <author ref="http://d-nb.info/gnd/123623987" cert="low">Tobias Lohner</author>
-          <title/>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_johanneser_proedigen">
-          <author cert="unknown">[Pater] Johanneser</author>
-          <title cert="unknown">Predigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="undefined6">
-          <title>undefiniert: 32 weitere unterschiedliche kleine Bücher</title>
-          <extent cert="low">Oktav</extent>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="peer_die_angelica_wurzen">
-          <author ref="http://d-nb.info/gnd/119470500">Johann Christoph Beer</author>
-          <title cert="unknown">[Die] Angelica-Wurz etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082914-2</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293163-4</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="p_waldner_handt_bethbuech">
-          <author ref="http://d-nb.info/gnd/1013595335">Joseph Waldner</author>
-          <title>Hand- und Bett-Buch Der Jungfrauen etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11304512-0</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="claus_gasstproediger">
-          <author ref="http://d-nb.info/gnd/118051156">Joseph Ignaz Claus</author>
-          <title>Der an vilen Orthen eingeladene Gast-Prediger, das ist: Unterschiedliche Predigen
-            etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329541-8</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="oberleiter_simplicium_legis">
-          <author ref="http://d-nb.info/gnd/1053182848">Franz Anton Oberleitner</author>
-          <title>Simplicium Leges, das ist: Geistliche und unfehlbare Bauren-Reglen etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365447-7</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365448-2</idno>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060198-5</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="cathecismus_romanus">
-          <publisher ref="http://d-nb.info/gnd/118792423">Pius V.</publisher>
-          <title>Catechismus ex decreto Concilii Tridentini ad parochos etc.</title>
-          <idno>https://nbn-resolving.org/urn:nbn:de:urmel-0bdfdf70-a395-461c-adbf-8c35edc1d0671</idno>
-          <extent>Oktav</extent>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_ruef_proedigen">
-          <author ref="http://d-nb.info/gnd/11546493X" cert="medium">Jakob Rueff</author>
-          <title cert="unknown">Von Feier- und Festtäglichen Predigen</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="das_thall_der_demueth">
-          <title cert="medium">Ein Angenehmer Geruch der Rosen und Lilien die im Thal der Demuth
-            unter den Dornen hervor gewachsen</title>
-          <idno>https://hymnary.org/hymn/EGRL1756/page/6</idno>
-          <idno>https://books.google.at/books?id=KIn5jwEACAAJ</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="brevier">
-          <title cert="unknown">Brevier</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="pater_stainmayr_lauretaenischen_voglgarthen">
-          <author ref="http://d-nb.info/gnd/128609354">Michael Stainmayr</author>
-          <title>Lauretanus Volucrum Hortus oder: Lauretanischer Vogel-Garten etc.</title>
-          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330277-3</idno>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="libra_appolipticas">
-          <title cert="unknown">Libra Apocalyptica</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
-        </listBibl><listPerson><person xml:id="baldtauf_mathias">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Baldtauf</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="steeger_leopoldt_niclaus">
-               <persName>
-                  <forename>Leopold Nikolaus</forename>
-                  <surname>Steeger</surname>
-               </persName>
-               <note type="function">Benefiziat in der <rs type="place" ref="#heiligkreuz_franewiese">Heilig-Kreuz-Kirche auf der Fronwiese</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sigmayr_haeuserin">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Häuserin des <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="rungger_gregori">
-               <persName>
-                  <forename>Gregor</forename>
-                  <surname>Rungger</surname>
-               </persName>
-               <occupation>Bote</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#innsbruck">Innsbruck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfleger_rasen">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Pfleger in <rs type="place" ref="#rasen">Rasen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sigmayr_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Sigmayr</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
-                    </note>
-               <note type="plaching">
-                        <rs type="place" ref="#kaernten">Kärnten</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stieger_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Stieger</surname>
-               </persName>
-               <occupation>Tischler</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="schranz_paul">
-               <persName>
-                  <forename>Paul</forename>
-                  <surname>Schranz</surname>
-               </persName>
-               <occupation>Wirt</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#wenns">Wenns</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="vogl_">
+   <back><listPerson><person xml:id="vogl_">
                <persName>
                   <forename/>
                   <surname>Vogl</surname>
@@ -1412,16 +1077,68 @@
                </persName>
                <idno type="URL">VIAF | OCRID</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sigmayr_andree">
+            <person xml:id="schranz_paul">
                <persName>
-                  <forename>Andreas</forename>
-                  <surname>Sigmayr</surname>
+                  <forename>Paul</forename>
+                  <surname>Schranz</surname>
                </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+               <occupation>Wirt</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#wenns">Wenns</rs>
                     </note>
-               <note type="function">Erblasser</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="ingramb_joseph_mathias">
+               <persName>
+                  <forename>Joseph Matthias</forename>
+                  <surname>Ingram von Liebenrain und Fragsburg</surname>
+               </persName>
+               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="function">geistlicher Kommissär</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="barbier_lorenzen">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <occupation>Barbier</occupation>
                <note type="placing">
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="walder_andree">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Walder</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="haslmayr_innsbruck">
+               <persName>
+                  <forename/>
+                  <surname>Haslmayr</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#innsbruck">Innsbruck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="baldtauf_mathias">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Baldtauf</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="woechner_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Wöchner</surname>
+               </persName>
+               <note type="function">Kurator in <rs type="place" ref="#strengen">Strengen im Oberinntal</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#strengen">Strengen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="kerschpaember_johan">
@@ -1436,14 +1153,88 @@
                <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sigmayr_andree_sen">
+            <person xml:id="haberstroo_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Haberstroh</surname>
+               </persName>
+               <occupation>Händler</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Mayrin</surname>
+               </persName>
+               <occupation>Weberin</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="steyrer_bruneck">
+               <persName>
+                  <forename/>
+                  <surname>Steyrer</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stieger_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Stieger</surname>
+               </persName>
+               <occupation>Tischler</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pfleger_rasen">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pfleger in <rs type="place" ref="#rasen">Rasen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pfarrer_lorenzen">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pfarrer</note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="sigmayr_andree">
                <persName>
                   <forename>Andreas</forename>
                   <surname>Sigmayr</surname>
                </persName>
-               <note type="family">Vater von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>, <rs type="person" ref="#sigmayr_bartlmee">Bartlme Sigmayr</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs>
+               <note type="function">Kooperator in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="function">Erblasser</note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="steeger_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Steeger</surname>
+               </persName>
+               <note type="function">Schreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="nidergoetscher">
                <persName>
                   <forename/>
@@ -1463,48 +1254,42 @@
                <note type="function">Pfleger und Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="walder_andree">
+            <person xml:id="rungger_gregori">
                <persName>
-                  <forename>Andreas</forename>
-                  <surname>Walder</surname>
+                  <forename>Gregor</forename>
+                  <surname>Rungger</surname>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="steyrer_bruneck">
-               <persName>
-                  <forename/>
-                  <surname>Steyrer</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="barbier_lorenzen">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <occupation>Barbier</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="haslmayr_innsbruck">
-               <persName>
-                  <forename/>
-                  <surname>Haslmayr</surname>
-               </persName>
+               <occupation>Bote</occupation>
                <note type="placing">
                         <rs type="place" ref="#innsbruck">Innsbruck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_maria">
+            <person xml:id="helweger_jacob">
                <persName>
-                  <forename>Maria</forename>
-                  <surname>Mayrin</surname>
+                  <forename>Jakob</forename>
+                  <surname>Hellweger</surname>
                </persName>
-               <occupation>Weberin</occupation>
                <note type="placing">
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="sigmayr_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
+                    </note>
+               <note type="plaching">
+                        <rs type="place" ref="#kaernten">Kärnten</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="sigmayr_andree_sen">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+               <note type="family">Vater von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>, <rs type="person" ref="#sigmayr_bartlmee">Bartlme Sigmayr</rs> und <rs type="person" ref="#sigmayr_michael">Michael Sigmayr</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="de_paula_penz_franz">
@@ -1514,6 +1299,25 @@
                   <note type="function">Pfarrer in <rs type="place" ref="#telfes">Telfes</rs>
                         </note>
                </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="sigmayr_haeuserin">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Häuserin des <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="sigmayr_bartlmee">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
+                    </note>
+               <note type="plaching">
+                        <rs type="place" ref="#kaernten">Kärnten</rs>
+                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="marchner_franz_michael">
                <persName>
@@ -1534,113 +1338,18 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="steeger_joseph">
+            <person xml:id="steeger_leopoldt_niclaus">
                <persName>
-                  <forename>Joseph</forename>
+                  <forename>Leopold Nikolaus</forename>
                   <surname>Steeger</surname>
                </persName>
-               <note type="function">Schreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>
+               <note type="function">Benefiziat in der <rs type="place" ref="#heiligkreuz_franewiese">Heilig-Kreuz-Kirche auf der Fronwiese</rs>
                     </note>
                <note type="placing">
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfarrer_lorenzen">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Pfarrer</note>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="sigmayr_bartlmee">
-               <persName>
-                  <forename>Bartlme</forename>
-                  <surname>Sigmayr</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs>
-                    </note>
-               <note type="plaching">
-                        <rs type="place" ref="#kaernten">Kärnten</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="helweger_jacob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Hellweger</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="haberstroo_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Haberstroh</surname>
-               </persName>
-               <occupation>Händler</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="ingramb_joseph_mathias">
-               <persName>
-                  <forename>Joseph Matthias</forename>
-                  <surname>Ingram von Liebenrain und Fragsburg</surname>
-               </persName>
-               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-               <note type="function">geistlicher Kommissär</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="woechner_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Wöchner</surname>
-               </persName>
-               <note type="function">Kurator in <rs type="place" ref="#strengen">Strengen im Oberinntal</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#strengen">Strengen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
-            </listPerson><listPlace><place xml:id="reischach_kirche">
-               <placeName>Reischach (Kirche)</placeName>
-               <placeName type="italiano">Chiesa parrocchia Reischach</placeName>
-	             <settlement ref="#reischach">Reischach</settlement>
-               <location>
-                        <geo decls="#LatLng">46.777046 11.950265</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="telfes">
-               <placeName>Telfes</placeName>
-               <district>Stubai</district>
-               <location>
-                        <geo decls="#LatLng">47.16667 11.36667</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2763811</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="innsbruck">
-               <placeName>Innsbruck</placeName>
-               <location>
-                        <geo decls="#LatLng">47.26266 11.39454</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_lorenzen_kirche">
-               <placeName>St. Lorenzen (Kirche)</placeName>
-               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
-               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.783527 11.902577</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="reischach">
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></person>
+            </listPerson><listPlace><place xml:id="reischach">
                <placeName>Reischach</placeName>
                <placeName type="italiano">Riscone</placeName>
                <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
@@ -1649,21 +1358,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/7601924</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="strengen">
-               <placeName>Strengen</placeName>
-               <district>Landeck</district>
-               <location>
-                        <geo decls="#LatLng">47.12589 10.46199</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2764137</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="kaernten">
-               <placeName>Kärnten</placeName>
-               <location>
-                        <geo decls="#LatLng">46.75 13.83333</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2774686</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="wenns">
                <placeName>Wenns</placeName>
                <district>Imst</district>
@@ -1671,6 +1365,13 @@
                         <geo decls="#LatLng">47.16667 10.73333</geo>
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/2761488</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="kaernten">
+               <placeName>Kärnten</placeName>
+               <location>
+                        <geo decls="#LatLng">46.75 13.83333</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2774686</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="heiligkreuz_franewiese">
                <placeName>Hl.-Kreuz-Kirche / Fronwiese</placeName>
@@ -1680,6 +1381,20 @@
                         <geo decls="#LatLng">46.786494 11.910330</geo>
                     </location>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeName>
+               <location>
+                        <geo decls="#LatLng">46.772172 11.892502</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
+               <location>
+                        <geo decls="#LatLng">47.26266 11.39454</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="brunegg">
                <placeName>Bruneck</placeName>
                <placeName type="italiano">Brunico</placeName>
@@ -1688,22 +1403,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
-               <placeName type="italiano">San Lorenzo di Sebato</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.78514 11.90812</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="italiano">San Michele</placeName>
-               <location>
-                        <geo decls="#LatLng">46.772172 11.892502</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="rasen">
                <placeName>Rasen / Altrasen</placeName>
                <placeName type="italiano">Rasun</placeName>
@@ -1713,5 +1412,306 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/6534785</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></place>
-            </listPlace></back></text>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.78514 11.90812</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="telfes">
+               <placeName>Telfes</placeName>
+               <district>Stubai</district>
+               <location>
+                        <geo decls="#LatLng">47.16667 11.36667</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2763811</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="strengen">
+               <placeName>Strengen</placeName>
+               <district>Landeck</district>
+               <location>
+                        <geo decls="#LatLng">47.12589 10.46199</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2764137</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="reischach_kirche">
+               <placeName>Reischach (Kirche)</placeName>
+               <placeName type="italiano">Chiesa parrocchia Reischach</placeName>
+	             <settlement ref="#reischach">Reischach</settlement>
+               <location>
+                        <geo decls="#LatLng">46.777046 11.950265</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_lorenzen_kirche">
+               <placeName>St. Lorenzen (Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
+               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.783527 11.902577</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            </listPlace><listBibl><bibl xml:id="undefined5">
+          <title>undefiniert: unterschiedliche Diskurse</title>
+          <extent cert="low">Oktav</extent>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="peckher_schuldigistes_andenckhen">
+          <author ref="http://d-nb.info/gnd/130358312">Tobias Johann Becker</author>
+          <title>Schuldigstes Andencken des bitteren Leydens und Sterbens Christi Jesu unsers
+            Erlösers und Seeligmachers etc.</title>
+          <idno>https://books.google.at/books?id=MgL5tLn0DmgC</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="philote">
+          <title cert="unknown">Philotae</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="adurnal">
+          <title cert="unknown">Adurnal</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="das_thall_der_demueth">
+          <title cert="medium">Ein Angenehmer Geruch der Rosen und Lilien die im Thal der Demuth
+            unter den Dornen hervor gewachsen</title>
+          <idno>https://hymnary.org/hymn/EGRL1756/page/6</idno>
+          <idno>https://books.google.at/books?id=KIn5jwEACAAJ</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_sigl_diester_gwaldt_zum_todt">
+          <author ref="http://d-nb.info/gnd/177418982" cert="medium">Benedikt Sigl</author>
+          <title cert="medium">Süsser Gewalt zur Tugend, das ist: Herrliche und heilige Beyspihl Der
+            Krancken und Sterbenden etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082283-1</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="peer_moerckhs_paur">
+          <author ref="http://d-nb.info/gnd/119470500">Johann Christoph Beer</author>
+          <title>Mercks Baur, das ist: Heilsame, geistliche Lehren, und Ermahnungen, An die
+            Christliche Baurschafft etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290145-9</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595792-1</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_engl_ius_canonici">
+          <author ref="http://d-nb.info/gnd/121032299" cert="medium">Ludwig Engel</author>
+          <title cert="medium">Collegium Universi Juris Canonici etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10508455-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="tobias_lohner">
+          <author ref="http://d-nb.info/gnd/123623987" cert="low">Tobias Lohner</author>
+          <title/>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="justus_joseph_meditationes">
+          <author ref="http://d-nb.info/gnd/132050161">Stanisław Sokołowski</author>
+          <title>Justus Joseph sive in Jesu Christi Domini nostri mortem et passionem [...]
+            Meditationes etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10152099-4</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_padu_von_den_vier_lezten_dingen">
+          <author cert="unknown">[Pater] Padu</author>
+          <title cert="unknown">Von Den Vier Letzten Dingen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="claus_gasstproediger">
+          <author ref="http://d-nb.info/gnd/118051156">Joseph Ignaz Claus</author>
+          <title>Der an vilen Orthen eingeladene Gast-Prediger, das ist: Unterschiedliche Predigen
+            etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329541-8</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="kiesewerter_proedigen">
+          <author cert="unknown">Kiesewetter</author>
+          <title cert="unknown">Ex Ordinari Predigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="fosa_juvavium">
+          <author ref="http://d-nb.info/gnd/124859577">Felix Fossa</author>
+          <title>Juvavium Animarum In Purgatorio, das ist: Helffenburg Der Armen Seelen in dem
+            Fegfeuer etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364205-0</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="lavitan_fastenproedigen">
+          <author cert="unknown">Lavitan</author>
+          <title cert="unknown">Fastenpredigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_stainmayr_lauretaenischen_voglgarthen">
+          <author ref="http://d-nb.info/gnd/128609354">Michael Stainmayr</author>
+          <title>Lauretanus Volucrum Hortus oder: Lauretanischer Vogel-Garten etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330277-3</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="brevier">
+          <title cert="unknown">Brevier</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_graditensis_concianes">
+          <author cert="unknown">[Pater] Gradicensis</author>
+          <title cert="unknown">Conciones</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="sacerdotale_brixinense">
+          <author ref="http://d-nb.info/gnd/119500809">Christoph Andreas von Spaur</author>
+          <author cert="unknown" ref="http://d-nb.info/gnd/115772251">Wilhelm von Welsberg</author>
+          <title>Sacerdotale Brixinense continens modum administrandi sacramenta, exequias
+            defunctorum, item benedictiones sacerdotales per totum annum ad ritum Romanum, et usum
+            Dioecesis Brixinensis etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11069246-0</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_hueber_proedigen">
+          <author ref="http://d-nb.info/gnd/129823422" cert="high">Ferdinand Hueber</author>
+          <title cert="high">Der [...] zur Himmels-Weyd ruffende Seelen-Hirt etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11056766-8</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329781-0</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11056764-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_miel_proedigen">
+          <author ref="http://d-nb.info/gnd/100310451" cert="medium">Peter Miell</author>
+          <title cert="medium">Geistreiches Dominicale und Festivale, oder: Christliche
+            Vollkommenheit [...] durch erbauliche Predigen an denen Sonn- und Feyer-Tägen
+            etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330027-6</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_sender_domo_christiani">
+          <author ref="http://d-nb.info/gnd/115533869" cert="unknown">[Pater] Sender</author>
+          <title cert="unknown">Domo Christiani</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_neumayr_vier_apostolicus">
+          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+          <title>Vir Apostolicus Sive Doctrina Methodica De Utili Et Facili Praxi Functionum
+            Sacerdotalium etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291462-4</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10610433-5</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="neuburger_conciodes_moralis">
+          <author ref="http://d-nb.info/gnd/123197473">Christoph Ulrich Neuburger</author>
+          <title>Conciones Rurales, oder: Gantze doch Kurtze Predigen etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365239-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="oberleiter_simplicium_legis">
+          <author ref="http://d-nb.info/gnd/1053182848">Franz Anton Oberleitner</author>
+          <title>Simplicium Leges, das ist: Geistliche und unfehlbare Bauren-Reglen etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365447-7</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365448-2</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060198-5</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_prugger_christien_lehr">
+          <author ref="http://d-nb.info/gnd/119516306" cert="high">Martin Prugger</author>
+          <title cert="high">Lehr- und Exempelbuch, worinnen nicht allein, zwar einfältig, jedoch
+            klar und gründlich, vorgetragen der völlige Katechismus oder christ-catholische Lehr,
+            sondern auch etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10347731-5</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="scuppuli_geistlicher_streit">
+          <author ref="http://d-nb.info/gnd/123377145">Lorenzo Scupoli</author>
+          <title>Geistlicher Streit</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267595-9</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270507-6</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267599-5</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_vogl_veritates_et_terne">
+          <author ref="http://d-nb.info/gnd/123546710">Matthäus Vogel</author>
+          <title cert="unknown">Veritates aeternae ex prima hebdomade etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268839-8</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268838-8</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_johanneser_proedigen">
+          <author cert="unknown">[Pater] Johanneser</author>
+          <title cert="unknown">Predigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_steinhies_aphorismus_juris">
+          <author ref="http://d-nb.info/gnd/115596887">Anton Steinsiess</author>
+          <title>Aphorismi iuris praxeos seu resolutiones theologico-iuridico-morales etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11100182-6</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_ruef_proedigen">
+          <author ref="http://d-nb.info/gnd/11546493X" cert="medium">Jakob Rueff</author>
+          <title cert="unknown">Von Feier- und Festtäglichen Predigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="teutsche_bibl">
+          <title>Bibel (deutsch)</title>
+          <textLang>deutsch</textLang>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="freythamer_proedigen">
+          <author cert="unknown">Freythamer</author>
+          <title cert="unknown">Sonn- und Feyrtägliche Feyrtag-Predigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_waldner_handt_bethbuech">
+          <author ref="http://d-nb.info/gnd/1013595335">Joseph Waldner</author>
+          <title>Hand- und Bett-Buch Der Jungfrauen etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11304512-0</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="pater_raphael_sanct_joseph">
+          <author cert="unknown">[Pater] Raphael</author>
+          <title cert="unknown">Sanct Joseph</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="paetivil_proedigen">
+          <author cert="unknown">Paetivil</author>
+          <title cert="unknown">Predigen</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="undefined6">
+          <title>undefiniert: 32 weitere unterschiedliche kleine Bücher</title>
+          <extent cert="low">Oktav</extent>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_cyrilus_riga_horti_plantation">
+          <author ref="http://d-nb.info/gnd/100391516">Cyrillus Riga</author>
+          <title cert="unknown">Horti Plantationum Irrigatio</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365797-4</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365780-6</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292754-0</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365783-2</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="libra_appolipticas">
+          <title cert="unknown">Libra Apocalyptica</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="vollkhommene_closter_frau">
+          <author ref="http://d-nb.info/gnd/100025005">Carlo Andrea Basso</author>
+          <title>Vollkommene Closter-Frau, das ist: Wahre Tugent-Form für alle der geistlichen
+            Vollkommenheit begirig- und beflissene Seelen etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222753-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="peer_die_angelica_wurzen">
+          <author ref="http://d-nb.info/gnd/119470500">Johann Christoph Beer</author>
+          <title cert="unknown">[Die] Angelica-Wurz etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082914-2</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293163-4</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_neumayr_idea_rethoricae">
+          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+          <title>Idea Rhetoricae Sive Methodica Institutio etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11081440-0</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_neumayr_idea_poesios">
+          <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+          <title>Idea Poeseos Sive Methodica Institutio etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574369-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_zillis">
+          <author cert="unknown">[Pater] Zillis</author>
+          <title/>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_franz_bojerus">
+          <author ref="http://d-nb.info/gnd/104323469">Poiré François</author>
+          <title>Der übergebenedeytisten Mutter Gottes Mariae Dreyfache Cron etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223434-1</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="hoechlschmit_der_buessende_zaecheus">
+          <author ref="http://d-nb.info/gnd/123825415">Georg Hechelschmid</author>
+          <title>Der büssende Zachäus, das ist: Hundert Buß-Predigen etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364477-7</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="cathecismus_romanus">
+          <publisher ref="http://d-nb.info/gnd/118792423">Pius V.</publisher>
+          <title>Catechismus ex decreto Concilii Tridentini ad parochos etc.</title>
+          <idno>https://nbn-resolving.org/urn:nbn:de:urmel-0bdfdf70-a395-461c-adbf-8c35edc1d0671</idno>
+          <extent>Oktav</extent>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="p_hetti_heiliger_ehestandt">
+          <author ref="http://d-nb.info/gnd/1067655263">Joseph Cetti</author>
+          <title>Heiliger Ehestand, das ist: Gründliche Unterweisungen für diejenige, welche von
+            Gott zu dem Ehestand berufen sind etc.</title>
+          <idno>https://books.google.at/books?id=RthkAAAAcAAJ</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="geschribenes_recept_buech">
+          <title cert="unknown">Geschriebenes Rezeptbuch</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="dolog_moralis">
+          <title cert="medium">Theologia Moralis</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="barcia_seelen_weckher">
+          <author ref="http://d-nb.info/gnd/123733111">José de Barcia y Zambrana</author>
+          <title>Christ-eyfriger Seelen-wecker, oder: Lehrreiche Predigen über absonderliche Stellen
+            der Heiligen Schrifft etc.</title>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11205005-5</idno>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event></listEvent></bibl>
+        </listBibl></back></text>
 </TEI>

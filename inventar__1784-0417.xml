@@ -549,152 +549,7 @@
 
          </div>
       </body>
-   <back><listPerson><person xml:id="von_aschauer_maria_agnes">
-               <persName>
-                  <forename>Maria Agnes</forename>
-                  <surname type="birth">Gassmayrin</surname>
-                  <surname>von Aschauer von Achenrain</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#von_aschauer_franz_carl">Franz Karl von Aschauer von Achenrain</rs>
-                    </note>
-               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="steinburger_johann_stephann">
-               <persName>
-                  <forename>Johann Stefan</forename>
-                  <surname>Steinberger</surname>
-               </persName>
-               <note type="function">Candidatus beider Rechte</note>
-               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gassmayr_antoni_ignati">
-               <persName>
-                  <forename>Anton Ignaz</forename>
-                  <surname>Gassmayr</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs> und <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs>
-                    </note>
-               <note type="function">Erblasser</note>
-               <note type="function">Priester in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-               <note type="placing">wohnhaft bei <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="klinger_maria_veronica">
-               <persName>
-                  <forename>Maria Veronika</forename>
-                  <surname type="birth">von Erlach</surname>
-                  <surname>Klinglerin</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="family">Ehefrau von <rs type="person" ref="#klinger_johann_niclaus">Johann Nikolaus Klingler</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_eiberg_maria_anna">
-               <persName>
-                  <forename>Maria Anna</forename>
-                  <surname type="birth">von Eiberg</surname>
-                  <surname>Gassmayrin</surname>
-               </persName>
-               <note type="family">dritte Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="erlacher_maria_catharina">
-               <persName>
-                  <forename>Maria Katharina</forename>
-                  <surname>von Erlach</surname>
-                  <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                        </note>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="klammer_josef">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Klammer</surname>
-               </persName>
-               <note type="function">Kaplan [Presbyter] in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_lutz_zu_gwelfenstein_kaspar_sebastian">
-               <persName>
-                  <forename>Kaspar Sebastian</forename>
-                  <surname>von Luz zu Gwelfenstein</surname>
-               </persName>
-               <note type="function">Apostolischer Protonotarius</note>
-               <note type="function">Ratsherr in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-               <note type="function">Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="durregger_jacob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Duregger</surname>
-                  <addName>Oberlinder</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="taxis_felix">
-               <persName>
-                  <forename>Felix</forename>
-                  <surname>Taxis</surname>
-               </persName>
-               <note type="function">Vorsitzender [Präsident] des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_elzenbaum_christoph">
-               <persName>
-                  <forename>Christoph</forename>
-                  <surname>von Elzenbaum</surname>
-               </persName>
-               <note type="function">Verraiter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs> (1710)</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="erlacher_johann_martin">
-               <persName>
-                  <forename>Johann Martin</forename>
-                  <surname>von Erlach</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="function">k.k. Waldamtpraktikant</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_elzenbaum_johann_rudolph">
-               <persName>
-                  <forename>Johann Rudolf</forename>
-                  <surname>von Elzenbaum</surname>
-               </persName>
-               <note type="function">Expeditor (1781)</note>
-               <note type="function">Anweiser von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> (1784)</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="niederkofler_josef">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Niederkofler</surname>
-                  <addName>Brugger</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="anrather_franz">
-               <persName>
-                  <forename>Franz</forename>
-                  <surname>Anrather</surname>
-               </persName>
-               <occupation>Chirurg</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gassmayr_antoni_senior">
+   <back><listPerson><person xml:id="gassmayr_antoni_senior">
                <persName>
                   <forename>Johann Anton</forename>
                   <surname>Gassmayr</surname>
@@ -710,43 +565,28 @@
                <note type="function">Faktor des Kupferbergwerks im <rs type="place" ref="#aehrn">Ahrntal</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="aichholzer_wirt">
+            <person xml:id="erlacher_johann_martin">
                <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Aichholzer</addName>
+                  <forename>Johann Martin</forename>
+                  <surname>von Erlach</surname>
                </persName>
-               <occupation>Wirt "Aichholzer"</occupation>
+               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+               <note type="function">k.k. Waldamtpraktikant</note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="zaecher_elisabeth">
+            <person xml:id="prokosch_michael">
                <persName>
-                  <forename>Elisabeth</forename>
-                  <surname type="birth">Zächerin</surname>
-                  <surname>Gassmayrin</surname>
+                  <forename>Michael</forename>
+                  <surname>Prokosch</surname>
                </persName>
-               <note type="family">erste Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pirchstaller_johann_baptist">
+               <idno type="URL">VIAF | OCRID</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_aschauer_franz_carl">
                <persName>
-                  <forename>Johann Baptista</forename>
-                  <surname>Pirchstaller</surname>
+                  <forename>Franz Karl</forename>
+                  <surname>von Aschauer von Achenrain</surname>
                </persName>
-               <note type="function">Sekretär des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="klinger_johann_niclaus">
-               <persName>
-                  <forename>Johann Nikolaus</forename>
-                  <surname>Klingler</surname>
-               </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs>
-                    </note>
-               <note type="function">k. k. Bergschreiber in <rs type="place" ref="#schwaz">Schwaz</rs>
-                    </note>
-               <note type="function">Anweiser von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs>
+               <note type="family">Ehemann von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="von_wagner_maria_ursula">
@@ -773,13 +613,86 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="prokosch_michael">
+            <person xml:id="klammer_josef">
                <persName>
-                  <forename>Michael</forename>
-                  <surname>Prokosch</surname>
+                  <forename>Joseph</forename>
+                  <surname>Klammer</surname>
                </persName>
-               <idno type="URL">VIAF | OCRID</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+               <note type="function">Kaplan [Presbyter] in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="salcher_jakob_vallentin">
+               <persName>
+                  <forename>Jakob Valentin</forename>
+                  <surname>Salcher</surname>
+               </persName>
+               <note type="function">Amtschreiber in <rs type="place" ref="#soneburg">Sonnenburg</rs>
+                    </note>
+               <note type="function">Gewalthaber von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs> und ihren Kindern (1784)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="zaecher_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname type="birth">Zächerin</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">erste Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="erlacher_maria_catharina">
+               <persName>
+                  <forename>Maria Katharina</forename>
+                  <surname>von Erlach</surname>
+                  <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                        </note>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="aichholzer_wirt">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Aichholzer</addName>
+               </persName>
+               <occupation>Wirt "Aichholzer"</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="anrather_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Anrather</surname>
+               </persName>
+               <occupation>Chirurg</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="taxis_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Taxis</surname>
+               </persName>
+               <note type="function">Vorsitzender [Präsident] des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="eysankh_von_marienfels_ignati_benedict">
+               <persName>
+                  <forename>Ignaz Benedikt</forename>
+                  <surname>Eysank von Marienfels</surname>
+               </persName>
+               <note type="function">Anweiser im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="durregger_jacob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Duregger</surname>
+                  <addName>Oberlinder</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="wachtler_johann_antoni">
                <persName>
                   <forename>Johann Anton</forename>
@@ -794,12 +707,59 @@
                <note type="function">Zeuge bei der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_aschauer_franz_carl">
+            <person xml:id="von_aschauer_maria_agnes">
                <persName>
-                  <forename>Franz Karl</forename>
+                  <forename>Maria Agnes</forename>
+                  <surname type="birth">Gassmayrin</surname>
                   <surname>von Aschauer von Achenrain</surname>
                </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
+               <note type="family">Ehefrau von <rs type="person" ref="#von_aschauer_franz_carl">Franz Karl von Aschauer von Achenrain</rs>
+                    </note>
+               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="klinger_johann_niclaus">
+               <persName>
+                  <forename>Johann Nikolaus</forename>
+                  <surname>Klingler</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs>
+                    </note>
+               <note type="function">k. k. Bergschreiber in <rs type="place" ref="#schwaz">Schwaz</rs>
+                    </note>
+               <note type="function">Anweiser von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_sonvicis_joseph_ignaz">
+               <persName>
+                  <forename>Joseph Ignaz</forename>
+                  <surname>von Sonvicis</surname>
+               </persName>
+               <note type="function">Kurator der <rs type="person" ref="#erlacher_notburga">Notburga Erlachin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gassmayr_antoni_ignati">
+               <persName>
+                  <forename>Anton Ignaz</forename>
+                  <surname>Gassmayr</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs> und <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs>
+                    </note>
+               <note type="function">Erblasser</note>
+               <note type="function">Priester in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="placing">wohnhaft bei <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="klinger_maria_veronica">
+               <persName>
+                  <forename>Maria Veronika</forename>
+                  <surname type="birth">von Erlach</surname>
+                  <surname>Klinglerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+               <note type="family">Ehefrau von <rs type="person" ref="#klinger_johann_niclaus">Johann Nikolaus Klingler</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="erlacher_maria_theresia">
@@ -813,23 +773,53 @@
                <note type="family">Ehefrau von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="eysankh_von_marienfels_ignati_benedict">
+            <person xml:id="steinburger_johann_stephann">
                <persName>
-                  <forename>Ignaz Benedikt</forename>
-                  <surname>Eysank von Marienfels</surname>
+                  <forename>Johann Stefan</forename>
+                  <surname>Steinberger</surname>
                </persName>
-               <note type="function">Anweiser im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+               <note type="function">Candidatus beider Rechte</note>
+               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="erlacher_notburga">
+               <persName>
+                  <forename>Notburga</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+               <note type="placing">wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_elzenbaum_christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+               <note type="function">Verraiter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs> (1710)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="von_lutz_zu_gwelfenstein_kaspar_sebastian">
+               <persName>
+                  <forename>Kaspar Sebastian</forename>
+                  <surname>von Luz zu Gwelfenstein</surname>
+               </persName>
+               <note type="function">Apostolischer Protonotarius</note>
+               <note type="function">Ratsherr in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="salcher_jakob_vallentin">
+            <person xml:id="niederkofler_josef">
                <persName>
-                  <forename>Jakob Valentin</forename>
-                  <surname>Salcher</surname>
+                  <forename>Joseph</forename>
+                  <surname>Niederkofler</surname>
+                  <addName>Brugger</addName>
                </persName>
-               <note type="function">Amtschreiber in <rs type="place" ref="#soneburg">Sonnenburg</rs>
+               <note type="placing">
+                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
                     </note>
-               <note type="function">Gewalthaber von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs> und ihren Kindern (1784)</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="von_erlach_franz_bernhart">
                <persName>
                   <forename>Franz Bernhard</forename>
@@ -839,23 +829,6 @@
                     </note>
                <note type="family">Ehemann von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_sonvicis_joseph_ignaz">
-               <persName>
-                  <forename>Joseph Ignaz</forename>
-                  <surname>von Sonvicis</surname>
-               </persName>
-               <note type="function">Kurator der <rs type="person" ref="#erlacher_notburga">Notburga Erlachin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="erlacher_notburga">
-               <persName>
-                  <forename>Notburga</forename>
-                  <surname>von Erlach</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="placing">wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)</note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="erlacher_leopold">
                <persName>
@@ -870,14 +843,6 @@
                         <rs type="place" ref="#brixen">Brixen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gassmayr_maria_notburga">
-               <persName>
-                  <forename>Maria Notburga</forename>
-                  <surname>Gassmayrin</surname>
-               </persName>
-               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="erlacher_anna_theresia">
                <persName>
                   <forename>Anna Theresia</forename>
@@ -886,15 +851,42 @@
                <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
-            </listPerson><listPlace><place xml:id="soneburg">
-               <placeName>Sonnenburg</placeName>
-               <placeName type="italiano">Castelbadia</placeName>
-               <location>
-                        <geo decls="#LatLng">46.78644 11.89123</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brunegg">
+            <person xml:id="pirchstaller_johann_baptist">
+               <persName>
+                  <forename>Johann Baptista</forename>
+                  <surname>Pirchstaller</surname>
+               </persName>
+               <note type="function">Sekretär des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gassmayr_maria_notburga">
+               <persName>
+                  <forename>Maria Notburga</forename>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_eiberg_maria_anna">
+               <persName>
+                  <forename>Maria Anna</forename>
+                  <surname type="birth">von Eiberg</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">dritte Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_elzenbaum_johann_rudolph">
+               <persName>
+                  <forename>Johann Rudolf</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+               <note type="function">Expeditor (1781)</note>
+               <note type="function">Anweiser von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> (1784)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></person>
+            </listPerson><listPlace><place xml:id="brunegg">
                <placeName>Bruneck</placeName>
                <placeName type="italiano">Brunico</placeName>
                <location>
@@ -902,6 +894,23 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="brixen_neustift">
+               <placeName>Neustift (Kloster)</placeName>
+               <placeName type="italiano">Abbazia Di Novacella</placeName>
+               <district ref="#brixen">Brixen</district>
+               <location>
+                        <geo decls="#LatLng">46.74247 11.6489</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/11789813</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_lorenzen_kirche">
+               <placeName>St. Lorenzen (Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
+               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.783527 11.902577</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="st_lorenzen">
                <placeName>St. Lorenzen</placeName>
                <placeName type="italiano">San Lorenzo di Sebato</placeName>
@@ -911,22 +920,14 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="aehrn">
-               <placeName>Ahrntal</placeName>
-               <placeName type="italiano">Valle Aurina</placeName>
-               <district ref="#taufers">Taufers</district>
+            <place xml:id="taufers">
+               <placeName>Taufers</placeName>
+               <placeName type="italiano">Tures</placeName>
                <location>
-                        <geo decls="#LatLng">46.99623 11.97988</geo>
+                        <geo decls="#LatLng">46.9112 11.94835</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/6536019</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="lemberg">
-               <placeName>Lemberg / Lviv</placeName>
-               <location>
-                        <geo decls="#LatLng">49.83826 24.02324</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/702550</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
+               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="schwaz">
                <placeName>Schwaz</placeName>
                <district>Freundsberg</district>
@@ -943,45 +944,30 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="taufers">
-               <placeName>Taufers</placeName>
-               <placeName type="italiano">Tures</placeName>
+            <place xml:id="lemberg">
+               <placeName>Lemberg / Lviv</placeName>
                <location>
-                        <geo decls="#LatLng">46.9112 11.94835</geo>
+                        <geo decls="#LatLng">49.83826 24.02324</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brixen_neustift">
-               <placeName>Neustift (Kloster)</placeName>
-               <placeName type="italiano">Abbazia Di Novacella</placeName>
-               <district ref="#brixen">Brixen</district>
-               <location>
-                        <geo decls="#LatLng">46.74247 11.6489</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/11789813</idno>
+               <idno type="GEONAMES">https://www.geonames.org/702550</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="innsbruck">
-               <placeName>Innsbruck</placeName>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <placeName type="italiano">Castelbadia</placeName>
                <location>
-                        <geo decls="#LatLng">47.26266 11.39454</geo>
+                        <geo decls="#LatLng">46.78644 11.89123</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="italiano">San Michele</placeName>
+               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="aehrn">
+               <placeName>Ahrntal</placeName>
+               <placeName type="italiano">Valle Aurina</placeName>
+               <district ref="#taufers">Taufers</district>
                <location>
-                        <geo decls="#LatLng">46.772172 11.892502</geo>
+                        <geo decls="#LatLng">46.99623 11.97988</geo>
                     </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_lorenzen_kirche">
-               <placeName>St. Lorenzen (Kirche)</placeName>
-               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
-               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.783527 11.902577</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+               <idno type="GEONAMES">https://www.geonames.org/6536019</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="stainhaus">
                <placeName>Steinhaus</placeName>
                <placeName type="italiano">Cadipietra</placeName>
@@ -991,6 +977,20 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/8950556</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeName>
+               <location>
+                        <geo decls="#LatLng">46.772172 11.892502</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
+               <location>
+                        <geo decls="#LatLng">47.26266 11.39454</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></place>
             </listPlace><listBibl><bibl xml:id="undefined14">
           <title>undefiniert: (sämtliche) mehrere Bücher</title>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event></listEvent></bibl>

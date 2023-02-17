@@ -4651,155 +4651,7 @@
             </table>
          </div>
       </body>
-   <back><listPerson><person xml:id="hueber_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Hueber</surname>
-                  <addName>Jorgl-Müller</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="rautter_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Rautter</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="haeuslerische">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="family">Eheleute am Köfelegut in <rs type="place" ref="#st_martin">St. Martin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_hebenstreit_johann_nepomuck">
-               <persName>
-                  <forename>Johann Nepomuk</forename>
-                  <surname>von Hebenstreit</surname>
-               </persName>
-               <note type="function">Priester</note>
-               <note type="function">Abgeordneter des <rs type="person" ref="#dechant_bruneck">Dechants</rs> von <rs type="place" ref="#brunegg">Bruneck</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="weingartner_helena_maria">
-               <persName>
-                  <forename>Helena Maria</forename>
-                  <surname>Weingartnerin</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="person" ref="#weingartner">[N.] Weingartner</rs>
-                    </note>
-               <note type="family">Cousine von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="thaler_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Taler</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="stadtrichter">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Stadtrichter</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="kirchegger_">
-               <persName>
-                  <forename/>
-                  <surname>Kirchegger</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="ziglauer_">
-               <persName>
-                  <forename/>
-                  <surname>Zieglauer</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pruggnaller_anton">
-               <persName>
-                  <forename>Anton</forename>
-                  <surname>Pruggnaller</surname>
-               </persName>
-               <note type="function">Amtsdiener in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-               <note type="function">Vertreter von <rs type="person" ref="#steger_maria">Maria Steegerin</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_hebenstreit_johan_aloys">
-               <persName>
-                  <forename>Johann Alois</forename>
-                  <surname>von Hebenstreit</surname>
-               </persName>
-               <note type="function">Zeuge und Siegler am Testament von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="schenach_franz">
-               <persName>
-                  <forename>Franz</forename>
-                  <surname>Schenach</surname>
-               </persName>
-               <note type="function">Oberschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tschan_miller">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Tschan-Müller</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="wenser_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Wenserin</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mutschlechner_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Mutschlechner</surname>
-                  <addName>Kirchsteiger</addName>
-               </persName>
-               <note type="function">Bestandsmann (1781)</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_zaun">
-               <persName>
-                  <forename>[Stefan/Sebastian]</forename>
-                  <surname>von Zaun</surname>
-               </persName>
-              <note type="function">Hofrichter und Rentamtmann des <rs type="place" ref="#stift_sonnenburg">Stifts Sonnenburg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="aschbacher_andre">
-               <persName>
-                  <forename>Andreas</forename>
-                  <surname>Aschbacher</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gardleferein_anna">
-               <persName>
-                  <forename>Anna</forename>
-                  <surname>Gardleferein</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_hoeberstreith_partlmae">
-               <persName>
-                  <forename>Bartlme</forename>
-                  <surname>von Hebenstreit</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="vogl_">
+   <back><listPerson><person xml:id="vogl_">
                <persName>
                   <forename/>
                   <surname>Vogl</surname>
@@ -4809,14 +4661,6 @@
                         <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="rogen_johann_michael">
-               <persName>
-                  <forename>Johann Michael</forename>
-                  <surname>Rogen</surname>
-               </persName>
-               <note type="function">Gerichtsausschuss in <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="prokosch_michael">
                <persName>
                   <forename>Michael</forename>
@@ -4824,26 +4668,6 @@
                </persName>
                <idno type="URL">VIAF | OCRID</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="seyer_bartlme">
-               <persName>
-                  <forename>Bartlme</forename>
-                  <surname>Seyer</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="niedermayr_agnes">
-               <persName>
-                  <forename>Agnes</forename>
-                  <surname>Niedermayrin</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_gall_">
-               <persName>
-                  <forename/>
-                  <surname>von Gall</surname>
-               </persName>
-               <note type="placing">wohnhaft in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="lechner_johann">
                <persName>
                   <forename>Johann</forename>
@@ -4854,20 +4678,114 @@
                         <rs type="place" ref="#moos">Moos</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pergmann_">
-              <persName>
-                 <forename/>
-                 <surname>Bergmann</surname>
-              </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfleger_gais">
+            <person xml:id="hausstetter_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Hausstätter</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="mutschlechner_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Mutschlechner</surname>
+                  <addName>Kirchsteiger</addName>
+               </persName>
+               <note type="function">Bestandsmann (1781)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="dechant_bruneck">
                <persName>
                   <forename/>
                   <surname/>
                </persName>
-               <note type="function">Pfleger in <rs type="place" ref="#gais">Gais</rs>
+               <note type="function">Dechant von <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_hoeberstreith_partlmae">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>von Hebenstreit</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="niedermayr_agnes">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>Niedermayrin</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_zu_grasstein">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Mayr zu Grasstein zu Gasteig</addName>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="lammwirt">
+              <persName>
+                 <forename/>
+                 <surname/>
+                 <addName>Lämb-Wirt</addName>
+              </persName>
+              <occupation>Wirt "zum Lamm"</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_hebenstreit_johann_nepomuck">
+               <persName>
+                  <forename>Johann Nepomuk</forename>
+                  <surname>von Hebenstreit</surname>
+               </persName>
+               <note type="function">Priester</note>
+               <note type="function">Abgeordneter des <rs type="person" ref="#dechant_bruneck">Dechants</rs> von <rs type="place" ref="#brunegg">Bruneck</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gasteiger_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Gasteiger</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="schenach_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Schenach</surname>
+               </persName>
+               <note type="function">Oberschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="mayr_von_gasteig_inhaber">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pächter des Hofes Mayr zu Gasteig in <rs type="place" ref="#st_martin">St. Martin</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#st_martin">St. Martin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="engl_">
+               <persName>
+                  <forename/>
+                  <surname>Engel</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="falkensteiner">
+               <persName>
+                  <forename/>
+                  <surname>Falkensteiner</surname>
+               </persName>
+               <note type="function">Geistlicher</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="lechner_johan_babtist">
+               <persName>
+                  <forename>Johann Baptista</forename>
+                  <surname>Lechner</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="pallauf_gottlieb_johann">
                <persName>
                   <forename>Gottlieb Johann</forename>
@@ -4880,108 +4798,83 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="weingartner">
+               <persName>
+                  <forename/>
+                  <surname>Weingartner</surname>
+               </persName>
+               <note type="family">Vater von <rs type="person" ref="#weingartner_helena_maria">Helena Maria Weingartnerin</rs>
+                    </note>
+               <note type="family">Onkel von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="strasser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Strasser</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hueber_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hueber</surname>
+                  <addName>Jorgl-Müller</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pruggnaller_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Pruggnaller</surname>
+               </persName>
+               <note type="function">Amtsdiener in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="function">Vertreter von <rs type="person" ref="#steger_maria">Maria Steegerin</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pergmann_anton">
+              <persName>
+                 <forename>Anton</forename>
+                 <surname>Bergmann</surname>
+              </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="luser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Luser</surname>
+               </persName>
+               <occupation>Tischler</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="kirchegger_">
+               <persName>
+                  <forename/>
+                  <surname>Kirchegger</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="told_">
                <persName>
                   <forename/>
                   <surname>Told</surname>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="muz_arm">
+            <person xml:id="rautter_johann">
                <persName>
-                  <forename/>
-                  <surname>Muz</surname>
+                  <forename>Johann</forename>
+                  <surname>Rautter</surname>
                </persName>
-               <note type="placing">
-                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="dechant_bruneck">
+            <person xml:id="mayr_am_anger">
                <persName>
                   <forename/>
                   <surname/>
-               </persName>
-               <note type="function">Dechant von <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="niderbacher_hans">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Niederbacher</surname>
-                  <addName>Kröll</addName>
+                  <addName>Mayr am Anger</addName>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gasteiger_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Gasteiger</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="lammwirt">
-              <persName>
-                 <forename/>
-                 <surname/>
-                 <addName>Lämb-Wirt</addName>
-              </persName>
-              <occupation>Wirt "zum Lamm"</occupation>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="gruber_anton">
-               <persName>
-                  <forename>Anton</forename>
-                  <surname>Gruber</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hofmann_">
-               <persName>
-                  <forename/>
-                  <surname>Hofmann</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="weisel_mutter">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="family">Mutter von dem Waisenkind <rs type="person" ref="#weisel_vincenz">Vinzenz</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="fruhmesser_">
-               <persName>
-                  <forename/>
-                  <surname>Fruhmesser</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_von_gasteig_inhaber">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Pächter des Hofes Mayr zu Gasteig in <rs type="place" ref="#st_martin">St. Martin</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#st_martin">St. Martin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hauptmann_">
-               <persName>
-                  <forename/>
-                  <surname>Hauptmann</surname>
-               </persName>
-               <note type="function">Kaplan in <rs type="place" ref="#soneburg">Sonnenburg</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="weisel_vincenz">
-               <persName>
-                  <forename>Vinzenz</forename>
-                  <surname/>
-               </persName>
-               <note type="family">Waise, wurde von <rs type="person" ref="#lechner_georg">Georg Lechner</rs> aufgenommen</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="lechner_georg">
                <persName>
                   <forename>Georg</forename>
@@ -4998,156 +4891,63 @@
                         <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="tinkhauser_theresia">
+            <person xml:id="niderbacher_hans">
                <persName>
-                  <forename>Theresia</forename>
-                  <surname>von Tinkhauserin</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pergmann_jakob">
-              <persName>
-                 <forename>Jakob</forename>
-                 <surname>Bergmann</surname>
-              </persName>
-              <occupation>Wirt "zum Adler"</occupation>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="luser_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Luser</surname>
-               </persName>
-               <occupation>Tischler</occupation>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="renzler_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname type="birth">Renzlerin</surname>
-                  <surname>Mitterhoferin</surname>
-                  <addName>Mayrin zu Grasstein</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#st_martin">St. Martin</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="falkensteiner">
-               <persName>
-                  <forename/>
-                  <surname>Falkensteiner</surname>
-               </persName>
-               <note type="function">Geistlicher</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="niedermayr_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Niedermayr</surname>
-                  <addName>Pichler</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#stephansdorf">Stefansdorf</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hausstetter_anton">
-               <persName>
-                  <forename>Anton</forename>
-                  <surname>Hausstätter</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-
-<person xml:id="mayr_am_anger">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Mayr am Anger</addName>
+                  <forename>Johann</forename>
+                  <surname>Niederbacher</surname>
+                  <addName>Kröll</addName>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_groebner_joseph_anton">
-               <persName>
-                  <forename>Joseph Anton</forename>
-                  <forename type="alt">Joseph Maria Anton</forename>
-                  <surname>von Grebner zu Wolfsthurn</surname>
-               </persName>
-               <note type="function">Gubernialrat</note>
-               <note type="function">Kreishauptmann im Pustertal und Eisacktal</note>
-               <note type="function">Vertreter und Kurator von <rs type="person" ref="#lechner_johan_babtist">Johann Baptista Lechner</rs> (1797)</note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pergmann_anton">
-              <persName>
-                 <forename>Anton</forename>
-                 <surname>Bergmann</surname>
-              </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="engl_">
+            <person xml:id="hauptmann_">
                <persName>
                   <forename/>
-                  <surname>Engel</surname>
+                  <surname>Hauptmann</surname>
                </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="hoelzl_">
-               <persName>
-                  <forename/>
-                  <surname>Hölzl</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="pfarrer_taufers">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <note type="function">Pfarrer in <rs type="place" ref="#taufers">Taufers</rs>
+               <note type="function">Kaplan in <rs type="place" ref="#soneburg">Sonnenburg</rs>
                     </note>
-               <note type="placing">
-                        <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="oberhammerer_andrae">
-               <persName>
-                  <forename>Andreas</forename>
-                  <surname>Oberhammerer</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="oberkirchsteiger">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Oberkirchsteiger</addName>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#moos">Moos</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="lechner_johan_babtist">
-               <persName>
-                  <forename>Johann Baptista</forename>
-                  <surname>Lechner</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="primus_jakob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Primus</surname>
-               </persName>
-               <occupation>Schuhmacher</occupation>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="christinell_michael">
+            <person xml:id="strasser_johan">
                <persName>
-                  <forename>Michael</forename>
-                  <surname>Christinell</surname>
+                  <forename>Johann</forename>
+                  <surname>Strasser</surname>
                </persName>
-               <note type="function">Bürgermeister in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+               <occupation>Schneidermeister</occupation>
+               <note type="function">Mesner in <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
-               <note type="function">Taxator (1798)</note>
+               <note type="function">Testamentsvollstrecker von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
                <note type="placing">
-                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="schenach_joseph">
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="haeuslerische">
                <persName>
-                  <forename>Joseph</forename>
-                  <surname>Schenach</surname>
+                  <forename/>
+                  <surname/>
                </persName>
-               <note type="function">beschäftigt in der Kanzlei in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+               <note type="family">Eheleute am Köfelegut in <rs type="place" ref="#st_martin">St. Martin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="stadtrichter">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Stadtrichter</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="seyer_bartlme">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>Seyer</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="muz_arm">
+               <persName>
+                  <forename/>
+                  <surname>Muz</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="planer_johann">
@@ -5160,22 +4960,112 @@
                         <rs type="place" ref="#muehlbach">Mühlbach</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="strasser_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Strasser</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="primus_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Primus</surname>
-               </persName>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_groebner_freulein">
+            <person xml:id="pfarrer_taufers">
                <persName>
                   <forename/>
-                  <surname>von Grebner zu Wolfsthurn</surname>
+                  <surname/>
+               </persName>
+               <note type="function">Pfarrer in <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#taufers">Taufers</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="rogen_johann_michael">
+               <persName>
+                  <forename>Johann Michael</forename>
+                  <surname>Rogen</surname>
+               </persName>
+               <note type="function">Gerichtsausschuss in <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hoelzl_">
+               <persName>
+                  <forename/>
+                  <surname>Hölzl</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="christinell_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Christinell</surname>
+               </persName>
+               <note type="function">Bürgermeister in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="function">Taxator (1798)</note>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_batig_">
+               <persName>
+                  <forename/>
+                  <surname>von Batig</surname>
+               </persName>
+               <note type="function">Kreisschulkommissar</note>
+               <note type="placing">
+                        <rs type="place" ref="#st_martin">St. Martin</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="weisel_mutter">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="family">Mutter von dem Waisenkind <rs type="person" ref="#weisel_vincenz">Vinzenz</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="schenach_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Schenach</surname>
+               </persName>
+               <note type="function">beschäftigt in der Kanzlei in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="weingartner_helena_maria">
+               <persName>
+                  <forename>Helena Maria</forename>
+                  <surname>Weingartnerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#weingartner">[N.] Weingartner</rs>
+                    </note>
+               <note type="family">Cousine von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pfleger_gais">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pfleger in <rs type="place" ref="#gais">Gais</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="aschbacher_andre">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Aschbacher</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="wenser_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Wenserin</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="ziglauer_">
+               <persName>
+                  <forename/>
+                  <surname>Zieglauer</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="hofmann_">
+               <persName>
+                  <forename/>
+                  <surname>Hofmann</surname>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="von_leys_ignatz_josef">
@@ -5199,48 +5089,100 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="strasser_johan">
+            <person xml:id="thaler_michael">
                <persName>
-                  <forename>Johann</forename>
-                  <surname>Strasser</surname>
+                  <forename>Michael</forename>
+                  <surname>Taler</surname>
                </persName>
-               <occupation>Schneidermeister</occupation>
-               <note type="function">Mesner in <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
-               <note type="function">Testamentsvollstrecker von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mutschlechner_joseph">
+            <person xml:id="von_gall_">
                <persName>
-                  <forename>Joseph</forename>
-                  <surname>Mutschlechner</surname>
+                  <forename/>
+                  <surname>von Gall</surname>
                </persName>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
+               <note type="placing">wohnhaft in <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="primus_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Primus</surname>
+               </persName>
+               <occupation>Schuhmacher</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="kirchbergerin_">
                <persName>
                   <forename/>
                   <surname>Kirchbergerin</surname>
                </persName>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="weingartner">
+            <person xml:id="von_hebenstreit_johan_aloys">
                <persName>
-                  <forename/>
-                  <surname>Weingartner</surname>
+                  <forename>Johann Alois</forename>
+                  <surname>von Hebenstreit</surname>
                </persName>
-               <note type="family">Vater von <rs type="person" ref="#weingartner_helena_maria">Helena Maria Weingartnerin</rs>
-                    </note>
-               <note type="family">Onkel von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#muehlbach">Mühlbach</rs>
+               <note type="function">Zeuge und Siegler am Testament von <rs type="person" ref="#lechner_georg">Georg Lechner</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_groebner_freulein">
+               <persName>
+                  <forename/>
+                  <surname>von Grebner zu Wolfsthurn</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_zaun">
+               <persName>
+                  <forename>[Stefan/Sebastian]</forename>
+                  <surname>von Zaun</surname>
+               </persName>
+              <note type="function">Hofrichter und Rentamtmann des <rs type="place" ref="#stift_sonnenburg">Stifts Sonnenburg</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+
+<person xml:id="oberkirchsteiger">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <addName>Oberkirchsteiger</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#moos">Moos</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gruber_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Gruber</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="fruhmesser_">
+               <persName>
+                  <forename/>
+                  <surname>Fruhmesser</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="primus_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Primus</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="weisel_vincenz">
+               <persName>
+                  <forename>Vinzenz</forename>
+                  <surname/>
+               </persName>
+               <note type="family">Waise, wurde von <rs type="person" ref="#lechner_georg">Georg Lechner</rs> aufgenommen</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tinkhauser_theresia">
+               <persName>
+                  <forename>Theresia</forename>
+                  <surname>von Tinkhauserin</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
             <person xml:id="burger_gertraud">
                <persName>
                   <forename>Gertraud</forename>
@@ -5252,22 +5194,80 @@
                         <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="von_batig_">
+            <person xml:id="pergmann_jakob">
+              <persName>
+                 <forename>Jakob</forename>
+                 <surname>Bergmann</surname>
+              </persName>
+              <occupation>Wirt "zum Adler"</occupation>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="von_groebner_joseph_anton">
+               <persName>
+                  <forename>Joseph Anton</forename>
+                  <forename type="alt">Joseph Maria Anton</forename>
+                  <surname>von Grebner zu Wolfsthurn</surname>
+               </persName>
+               <note type="function">Gubernialrat</note>
+               <note type="function">Kreishauptmann im Pustertal und Eisacktal</note>
+               <note type="function">Vertreter und Kurator von <rs type="person" ref="#lechner_johan_babtist">Johann Baptista Lechner</rs> (1797)</note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="tschan_miller">
                <persName>
                   <forename/>
-                  <surname>von Batig</surname>
+                  <surname/>
+                  <addName>Tschan-Müller</addName>
                </persName>
-               <note type="function">Kreisschulkommissar</note>
+               <note type="placing">
+                        <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="pergmann_">
+              <persName>
+                 <forename/>
+                 <surname>Bergmann</surname>
+              </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="oberhammerer_andrae">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Oberhammerer</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="niedermayr_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Niedermayr</surname>
+                  <addName>Pichler</addName>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#stephansdorf">Stefansdorf</rs>
+                    </note>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="gardleferein_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Gardleferein</surname>
+               </persName>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
+            <person xml:id="renzler_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname type="birth">Renzlerin</surname>
+                  <surname>Mitterhoferin</surname>
+                  <addName>Mayrin zu Grasstein</addName>
+               </persName>
                <note type="placing">
                         <rs type="place" ref="#st_martin">St. Martin</rs>
                     </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
-            <person xml:id="mayr_zu_grasstein">
+            <person xml:id="mutschlechner_joseph">
                <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Mayr zu Grasstein zu Gasteig</addName>
+                  <forename>Joseph</forename>
+                  <surname>Mutschlechner</surname>
                </persName>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></person>
             </listPerson><listPlace><place xml:id="stift_sonnenburg">
                <placeName>Stift Sonnenburg</placeName>
@@ -5278,32 +5278,13 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brunegg_kappuziner">
-               <placeName>Bruneck (Kapuzinerkirche)</placeName>
-               <placeName type="italiano">Chiesa di Cappuccini</placeName>
-	             <settlement ref="#brunegg">Bruneck</settlement>
-               <location>
-                        <geo decls="#LatLng">46.797182 11.940627</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="muehlbach">
-               <placeName>Mühlbach</placeName>
-               <placeName type="italiano">Rio di Pusteria</placeName>
-               <district ref="#gericht_rodenegg">Rodeneck</district>
-               <location>
-                        <geo decls="#LatLng">46.79658 11.66754</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3169345</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="moos">
-               <placeName>Moos</placeName>
-               <placeName type="italiano">Moja</placeName>
+            <place xml:id="st_martin_kaplanei">
+               <placeName>St. Martin (Kirche)</placeName>
 	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location>
-                        <geo decls="#LatLng">46.76931 11.89759</geo>
+                        <geo decls="#LatLng">46.776636 11.895204</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/8964455</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="dietenheim">
                <placeName>Dietenheim</placeName>
                <placeName type="italiano">Teodone</placeName>
@@ -5313,15 +5294,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/8949779</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="stephansdorf">
-               <placeName>Stefansdorf</placeName>
-               <placeName type="italiano">Santo Stefano</placeName>
-	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.7702 11.92189</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8951978</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="ennenberg">
                <placeName>Enneberg</placeName>
                <placeName type="italiano">Marebbe</placeName>
@@ -5330,21 +5302,21 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3173977</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="taufers">
-               <placeName>Taufers</placeName>
-               <placeName type="italiano">Tures</placeName>
+            <place xml:id="brunegg_kappuziner">
+               <placeName>Bruneck (Kapuzinerkirche)</placeName>
+               <placeName type="italiano">Chiesa di Cappuccini</placeName>
+	             <settlement ref="#brunegg">Bruneck</settlement>
                <location>
-                        <geo decls="#LatLng">46.9112 11.94835</geo>
+                        <geo decls="#LatLng">46.797182 11.940627</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_martin_kaplanei">
-               <placeName>St. Martin (Kirche)</placeName>
-	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeName>
                <location>
-                        <geo decls="#LatLng">46.776636 11.895204</geo>
+                        <geo decls="#LatLng">46.772172 11.892502</geo>
                     </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="pflaurenz">
                <placeName>Pflaurenz</placeName>
                <placeName type="italiano">Floronzo</placeName>
@@ -5354,39 +5326,6 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/3176902</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brunegg_ursulinen">
-               <placeName>Bruneck (Ursulinenkirche)</placeName>
-               <placeName type="italiano">Chiesa di Orsoline</placeName>
-	             <settlement ref="#brunegg">Bruneck</settlement>
-               <location>
-                        <geo decls="#LatLng">46.795207 11.936215</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="soneburg">
-               <placeName>Sonnenburg</placeName>
-               <placeName type="italiano">Castelbadia</placeName>
-               <location>
-                        <geo decls="#LatLng">46.78644 11.89123</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="brunegg">
-               <placeName>Bruneck</placeName>
-               <placeName type="italiano">Brunico</placeName>
-               <location>
-                        <geo decls="#LatLng">46.79942 11.93429</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
-               <placeName type="italiano">San Lorenzo di Sebato</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.78514 11.90812</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="dietenheim_jakob">
                <placeName>St. Jakob (Kirche)</placeName>
                <settlement ref="#dietenheim">Dietenheim</settlement>
@@ -5395,40 +5334,22 @@
                         <geo decls="#LatLng">46.802437 11.950299</geo>
                     </location>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="gais">
-               <placeName>Gais</placeName>
-               <placeName type="italiano">Gais</placeName>
-               <district ref="#uttenheim">Uttenheim</district>
+            <place xml:id="brunegg">
+               <placeName>Bruneck</placeName>
+               <placeName type="italiano">Brunico</placeName>
                <location>
-                        <geo decls="#LatLng">46.83658 11.94931</geo>
+                        <geo decls="#LatLng">46.79942 11.93429</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="st_martin">
-               <placeName>St. Martin</placeName>
-               <placeName type="italiano">San Martino</placeName>
-	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <placeName type="italiano">Castelbadia</placeName>
                <location>
-                        <geo decls="#LatLng">46.77714 11.89806</geo>
+                        <geo decls="#LatLng">46.78644 11.89123</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/8950151</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="luns">
-               <placeName>Luns</placeName>
-               <placeName type="italiano">Lunes</placeName>
-               <district ref="#saenct_michaelsburg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.79643 11.96948</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8961704</idno>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="italiano">San Michele</placeName>
-               <location>
-                        <geo decls="#LatLng">46.772172 11.892502</geo>
-                    </location>
-            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Pichler Joseph (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-08-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event></listEvent></place>
             <place xml:id="st_vigili">
                <placeName>St. Vigil</placeName>
                <placeName type="italiano">San Vigilio di Marebbe</placeName>
@@ -5438,7 +5359,92 @@
                     </location>
                <idno type="GEONAMES">https://www.geonames.org/8643247</idno>
             <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
-            </listPlace><listBibl><bibl xml:id="kalender">
+            <place xml:id="moos">
+               <placeName>Moos</placeName>
+               <placeName type="italiano">Moja</placeName>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.76931 11.89759</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8964455</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.78514 11.90812</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Stockherin Maria Ursula (Terziarschwester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1750-07-08.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stainer Sebastian Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1756-03-15.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mitterdorfer Jakob Christoph (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1762-01-28.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Sigmayr Andreas (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1766-06-30.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Jais Coelestin Johann (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1771-04-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stocker Franz (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-05-07.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Manucredo Anton Sebastian (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-03-16.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-08-12.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="brunegg_ursulinen">
+               <placeName>Bruneck (Ursulinenkirche)</placeName>
+               <placeName type="italiano">Chiesa di Orsoline</placeName>
+	             <settlement ref="#brunegg">Bruneck</settlement>
+               <location>
+                        <geo decls="#LatLng">46.795207 11.936215</geo>
+                    </location>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="st_martin">
+               <placeName>St. Martin</placeName>
+               <placeName type="italiano">San Martino</placeName>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.77714 11.89806</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8950151</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="muehlbach">
+               <placeName>Mühlbach</placeName>
+               <placeName type="italiano">Rio di Pusteria</placeName>
+               <district ref="#gericht_rodenegg">Rodeneck</district>
+               <location>
+                        <geo decls="#LatLng">46.79658 11.66754</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3169345</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Manucredo Marcus Aurelius (Kooperator)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1752-10-11.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="gais">
+               <placeName>Gais</placeName>
+               <placeName type="italiano">Gais</placeName>
+               <district ref="#uttenheim">Uttenheim</district>
+               <location>
+                        <geo decls="#LatLng">46.83658 11.94931</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Fezl Christoph Sebastian (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1761-07-23.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gasser Joseph (Benefiziat)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1773-12-17.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tratter Josef (Kaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1792-11-13.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="luns">
+               <placeName>Luns</placeName>
+               <placeName type="italiano">Lunes</placeName>
+               <district ref="#saenct_michaelsburg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.79643 11.96948</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8961704</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="taufers">
+               <placeName>Taufers</placeName>
+               <placeName type="italiano">Tures</placeName>
+               <location>
+                        <geo decls="#LatLng">46.9112 11.94835</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Gassmayr Anton Ignaz (Priester)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1784-0417.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hueber Jakob (Benefiziat in Saalen)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1798-09-01.xml"/></linkGrp></event></listEvent></place>
+            <place xml:id="stephansdorf">
+               <placeName>Stefansdorf</placeName>
+               <placeName type="italiano">Santo Stefano</placeName>
+	             <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.7702 11.92189</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8951978</idno>
+            <listEvent><event type="mentioned"><p>erwähnt in <title>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1781-03-06.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></place>
+            </listPlace><listBibl><bibl xml:id="aufschreibbuecher">
+          <title>Aufschreibbücher</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="undefined16">
+          <title>undefiniert: mehrere Schriftstücke</title>
+        <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
+        <bibl xml:id="kalender">
           <title>Kalender des Jahres 1797</title>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
         <bibl xml:id="paket_schriften">
@@ -5447,14 +5453,8 @@
         <bibl xml:id="taufbuch">
           <title>Taufbuch (Manuskript)</title>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="undefined16">
-          <title>undefiniert: mehrere Schriftstücke</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
         <bibl xml:id="undefined17">
           <title>undefiniert: mehrere Bücher</title>
-        <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
-        <bibl xml:id="aufschreibbuecher">
-          <title>Aufschreibbücher</title>
         <listEvent><event type="mentioned"><p>erwähnt in <title>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/rita/editions/inventar__1797-12-01.xml"/></linkGrp></event></listEvent></bibl>
         </listBibl></back></text>
 </TEI>
