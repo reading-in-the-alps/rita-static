@@ -25,6 +25,11 @@
                         <div class="card">
                             <div class="card-header">
                                 <h1>Inventare aus dem Pustertal <small>RITA 2</small></h1>
+                                <h3>
+                                    <a href="about.html">
+                                        <i class="fas fa-info" title="Info zu diesen Inventaren"/>
+                                    </a>
+                                </h3>
                             </div>
                             <div class="card-body">
                                 <table class="table table-striped display" id="tocTable" style="width:100%">

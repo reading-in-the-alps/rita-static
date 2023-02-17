@@ -33,6 +33,9 @@
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:title[@type='label'][1]/text()"/>
     </xsl:variable>
+    <xsl:variable name="signatur">
+        <xsl:value-of select="string-join(.//tei:msIdentifier/(tei:repository|tei:collection|tei:idno)/text(), ', ')"/>
+    </xsl:variable>
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -91,9 +94,9 @@
                             <div class="card-body">                                
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                             </div>
-                            <div class="card-footer">
-                                <p style="text-align:center;">
-                                    <xsl:for-each select=".//tei:note[not(./tei:p)]">
+                            <div class="card-footer" style="text-align:justify">
+                                <p>
+                                    <xsl:for-each select=".//tei:body//tei:note">
                                         <div class="footnotes" id="{local:makeId(.)}">
                                             <xsl:element name="a">
                                                 <xsl:attribute name="name">
@@ -113,6 +116,14 @@
                                             <xsl:apply-templates/>
                                         </div>
                                     </xsl:for-each>
+                                </p>
+                                <p>
+                                    <hr/>
+                                    <h3>Zitierhinweis</h3>
+                                    <blockquote class="blockquote">
+                                        <cite title="Source Title">
+                                            <xsl:value-of select="$signatur"/>, hg. v. Michael Span und Michael Prokosch, In: Reading in the Alps, https://rita.acdh.oeaw.ac.at</cite>
+                                    </blockquote>
                                 </p>
                             </div>
                         </div>                       
@@ -218,4 +229,5 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
+    <xsl:template match="tei:rs[@type='skos']"/>
 </xsl:stylesheet>

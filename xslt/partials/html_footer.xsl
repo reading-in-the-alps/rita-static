@@ -36,7 +36,7 @@
             </div>
             <div class="footer-imprint-bar">
                 <a href="imprint.html">Impressum/Imprint</a> | <small>
-                    <a href="https://hdl.handle.net/21.11115/0000-000C-D8D9-C">21.11115/0000-000C-D8D9-C</a>
+                    <a href="https://hdl.handle.net/21.11115/0000-000C-D8D9-C">21.11115/0000-000C-D8D9-C</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a>
                 </small>
                 <div class="row" style="padding-top: 20px;">
                     <div class="col-sm">
