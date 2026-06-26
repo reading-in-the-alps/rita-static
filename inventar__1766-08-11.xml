@@ -456,7 +456,27 @@
             <p>Testes die geist- und weltliche Herrn Actuary und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="kerschpaember_johan">
+   <back><listPerson><person xml:id="dietenheim_maurer">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <occupation>Maurer</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
+            <person xml:id="apotheker_bruneck">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <occupation>Apotheker</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note></noteGrp></person>
+            <person xml:id="kerschpaember_johan">
                <persName>
                   <forename>Johann</forename>
                   <surname>von Kerschbaumer</surname>
@@ -479,56 +499,40 @@
                         <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note></noteGrp></person>
-            <person xml:id="bruneck_mesner">
+            <person xml:id="oberthaller_thomas">
+               <persName>
+                  <forename>Thomas</forename>
+                  <surname>Obertaler</surname>
+               </persName>
+               <note type="function">Stadtgerichtsdiener in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="vogl_">
                <persName>
                   <forename/>
-                  <surname/>
+                  <surname>Vogl</surname>
                </persName>
-               <note type="function">Pfarrmesner in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="ingramb_joseph_mathias">
-               <persName>
-                  <forename>Joseph Matthias</forename>
-                  <surname>Ingram von Liebenrain und Fragsburg</surname>
-               </persName>
-               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-               <note type="function">geistlicher Kommissär</note>
-            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note></noteGrp></person>
-            <person xml:id="prokosch_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Prokosch</surname>
-               </persName>
-               <idno type="URL">VIAF | OCRID</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></person>
-            <person xml:id="laehner_franz">
-               <persName>
-                  <forename>Franz</forename>
-                  <surname>Lehner</surname>
-               </persName>
-               <occupation>Schneider</occupation>
+               <occupation>Arzt</occupation>
                <note type="placing">
-                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note></noteGrp></person>
+            <person xml:id="haberstroo_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Haberstroh</surname>
+               </persName>
+               <occupation>Seilermeister</occupation>
+               <note type="family">Vetter von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>
+                    </note>
+               <note type="function">Anweiser von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs> (1766)</note>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
             <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="von_sternpach_andree">
-               <persName>
-                  <forename>Andreas</forename>
-                  <surname>Freiherr von Sternbach</surname>
-               </persName>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="marchner_franz_michael">
-               <persName>
-                  <forename>Franz Michael</forename>
-                  <surname>Marchner</surname>
-               </persName>
-               <note type="function">Kommissionsschreiber und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
             <person xml:id="englmohr_joseph_ignaeti">
                <persName>
                   <forename>Joseph Ignaz</forename>
@@ -539,55 +543,6 @@
                <note type="function">Pfleger und Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
                     </note>
             <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
-            <person xml:id="obermayr_maria">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Obermayrin</surname>
-               </persName>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-
-<person xml:id="vogl_">
-               <persName>
-                  <forename/>
-                  <surname>Vogl</surname>
-               </persName>
-               <occupation>Arzt</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note></noteGrp></person>
-            <person xml:id="pichler_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Pichler</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>
-                    </note>
-               <note type="function">Kaplan der <rs type="place" ref="#himmelfahrt_kirche">Maria-Himmelfahrt-Kirche</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
-               <note type="function">Erblasser</note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="apotheker_bruneck">
-               <persName>
-                  <forename/>
-                  <surname/>
-               </persName>
-               <occupation>Apotheker</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note></noteGrp></person>
-            <person xml:id="wenzl_johann_joseph_martin">
-               <persName>
-                  <forename>Johann Joseph Martin</forename>
-                  <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
-               </persName>
-               <note type="function">Inhaber des Ansitzes <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
-                    </note>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
             <person xml:id="pichler_theresia">
                <persName>
                   <forename>Theresia</forename>
@@ -607,16 +562,75 @@
                   <surname>Seyr</surname>
                </persName>
             <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="dietenheim_maurer">
+            <person xml:id="wenzl_johann_joseph_martin">
+               <persName>
+                  <forename>Johann Joseph Martin</forename>
+                  <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
+               </persName>
+               <note type="function">Inhaber des Ansitzes <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="pichler_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Pichler</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>
+                    </note>
+               <note type="function">Kaplan der <rs type="place" ref="#himmelfahrt_kirche">Maria-Himmelfahrt-Kirche</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+               <note type="function">Erblasser</note>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="laehner_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Lehner</surname>
+               </persName>
+               <occupation>Schneider</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
+                    </note>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="ingramb_joseph_mathias">
+               <persName>
+                  <forename>Joseph Matthias</forename>
+                  <surname>Ingram von Liebenrain und Fragsburg</surname>
+               </persName>
+               <note type="function">Konsistorialrat in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Pfarrer und Dechant in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+               <note type="function">geistlicher Kommissär</note>
+            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note></noteGrp></person>
+            <person xml:id="bruneck_mesner">
                <persName>
                   <forename/>
                   <surname/>
                </persName>
-               <occupation>Maurer</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#dietenheim">Dietenheim</rs>
+               <note type="function">Pfarrmesner in <rs type="place" ref="#brunegg">Bruneck</rs>
                     </note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="von_sternpach_andree">
+               <persName>
+                  <forename>Andreas</forename>
+                  <surname>Freiherr von Sternbach</surname>
+               </persName>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+            <person xml:id="prokosch_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Prokosch</surname>
+               </persName>
+               <idno type="URL">VIAF | OCRID</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></person>
+            <person xml:id="marchner_franz_michael">
+               <persName>
+                  <forename>Franz Michael</forename>
+                  <surname>Marchner</surname>
+               </persName>
+               <note type="function">Kommissionsschreiber und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
             <person xml:id="steeger_joseph">
                <persName>
                   <forename>Joseph</forename>
@@ -630,7 +644,17 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <noteGrp><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note></noteGrp></person>
-            <person xml:id="graetscher_maria">
+            <person xml:id="obermayr_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Obermayrin</surname>
+               </persName>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
+
+<person xml:id="graetscher_maria">
                <persName>
                   <forename>Maria</forename>
                   <surname type="birth">Grätscherin</surname>
@@ -650,37 +674,14 @@
                <note type="function">Mesner in <rs type="place" ref="#dietenheim">Dietenheim</rs>
                     </note>
             <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="oberthaller_thomas">
-               <persName>
-                  <forename>Thomas</forename>
-                  <surname>Obertaler</surname>
-               </persName>
-               <note type="function">Stadtgerichtsdiener in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            <person xml:id="haberstroo_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Haberstroh</surname>
-               </persName>
-               <occupation>Seilermeister</occupation>
-               <note type="family">Vetter von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs>
-                    </note>
-               <note type="function">Anweiser von <rs type="person" ref="#pichler_theresia">Theresia Pichlerin</rs> (1766)</note>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note></noteGrp></person>
-            </listPerson><listPlace><place xml:id="innsbruck">
-               <placeName>Innsbruck</placeName>
+            </listPerson><listPlace><place xml:id="brunegg_kappuziner">
+               <placeName>Bruneck (Kapuzinerkirche)</placeName>
+               <placeName type="italiano">Chiesa di Cappuccini</placeName>
+	             <settlement ref="#brunegg">Bruneck</settlement>
                <location>
-                        <geo decls="#LatLng">47.26266 11.39454</geo>
+                        <geo decls="#LatLng">46.797182 11.940627</geo>
                     </location>
-               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <noteGrp><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note></noteGrp></place>
             <place xml:id="brunegg">
                <placeName>Bruneck</placeName>
                <placeName type="italiano">Brunico</placeName>
@@ -696,14 +697,13 @@
                         <geo decls="#LatLng">46.772172 11.892502</geo>
                     </location>
             <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
-            <place xml:id="brunegg_kappuziner">
-               <placeName>Bruneck (Kapuzinerkirche)</placeName>
-               <placeName type="italiano">Chiesa di Cappuccini</placeName>
-	             <settlement ref="#brunegg">Bruneck</settlement>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
                <location>
-                        <geo decls="#LatLng">46.797182 11.940627</geo>
+                        <geo decls="#LatLng">47.26266 11.39454</geo>
                     </location>
-            <noteGrp><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note></noteGrp></place>
+               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
             <place xml:id="himmelfahrt_kirche">
                <placeName>Dietenheim (Maria-Himmelfahrt-Kirche)</placeName>
                <placeName type="italiano">Santa Maria Assunta</placeName>

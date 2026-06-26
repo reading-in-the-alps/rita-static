@@ -550,41 +550,146 @@
 
          </div>
       </body>
-   <back><listPerson><person xml:id="steinburger_johann_stephann">
+   <back><listPlace><place xml:id="taufers">
+               <placeName>Taufers</placeName>
+               <placeName type="italiano">Tures</placeName>
+               <location>
+                        <geo decls="#LatLng">46.9112 11.94835</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
+            <place xml:id="st_lorenzen_kirche">
+               <placeName>St. Lorenzen (Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
+               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
+               <location>
+                        <geo decls="#LatLng">46.783527 11.902577</geo>
+                    </location>
+            <noteGrp><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <placeName type="italiano">Castelbadia</placeName>
+               <location>
+                        <geo decls="#LatLng">46.78644 11.89123</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
+            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeName>
+               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
+               <location>
+                        <geo decls="#LatLng">46.78514 11.90812</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
+            <place xml:id="lemberg">
+               <placeName>Lemberg / Lviv</placeName>
+               <location>
+                        <geo decls="#LatLng">49.83826 24.02324</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/702550</idno>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <place xml:id="brunegg">
+               <placeName>Bruneck</placeName>
+               <placeName type="italiano">Brunico</placeName>
+               <location>
+                        <geo decls="#LatLng">46.79942 11.93429</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
+            <place xml:id="aehrn">
+               <placeName>Ahrntal</placeName>
+               <placeName type="italiano">Valle Aurina</placeName>
+               <district ref="#taufers">Taufers</district>
+               <location>
+                        <geo decls="#LatLng">46.99623 11.97988</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/6536019</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeName>
+               <location>
+                        <geo decls="#LatLng">46.772172 11.892502</geo>
+                    </location>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
+               <location>
+                        <geo decls="#LatLng">47.26266 11.39454</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <place xml:id="schwaz">
+               <placeName>Schwaz</placeName>
+               <district>Freundsberg</district>
+               <location>
+                        <geo decls="#LatLng">47.35169 11.71014</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/2765390</idno>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <place xml:id="stainhaus">
+               <placeName>Steinhaus</placeName>
+               <placeName type="italiano">Cadipietra</placeName>
+	             <settlement ref="#aehrn">Ahrntal</settlement>
+               <location>
+                        <geo decls="#LatLng">46.995 11.98</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/8950556</idno>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            <place xml:id="brixen">
+               <placeName>Brixen</placeName>
+               <placeName type="italiano">Bressanone</placeName>
+               <location>
+                        <geo decls="#LatLng">46.71503 11.65598</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
+            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
+            <place xml:id="brixen_neustift">
+               <placeName>Neustift (Kloster)</placeName>
+               <placeName type="italiano">Abbazia Di Novacella</placeName>
+               <district ref="#brixen">Brixen</district>
+               <location>
+                        <geo decls="#LatLng">46.74247 11.6489</geo>
+                    </location>
+               <idno type="GEONAMES">https://www.geonames.org/11789813</idno>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
+            </listPlace><listPerson><person xml:id="erlacher_leopold">
                <persName>
-                  <forename>Johann Stefan</forename>
-                  <surname>Steinberger</surname>
+                  <forename>Leopold</forename>
+                  <surname>von Erlach</surname>
                </persName>
-               <note type="function">Candidatus beider Rechte</note>
-               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
+               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
                     </note>
-            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="aichholzer_wirt">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <addName>Aichholzer</addName>
-               </persName>
-               <occupation>Wirt "Aichholzer"</occupation>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="taxis_felix">
-               <persName>
-                  <forename>Felix</forename>
-                  <surname>Taxis</surname>
-               </persName>
-               <note type="function">Vorsitzender [Präsident] des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+               <note type="function">Professe im <rs type="place" ref="#brixen_neustift">Kloster Neustift</rs>
                     </note>
-            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="durregger_jacob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Duregger</surname>
-                  <addName>Oberlinder</addName>
-               </persName>
                <note type="placing">
-                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
+                        <rs type="place" ref="#brixen">Brixen</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="pirchstaller_johann_baptist">
+               <persName>
+                  <forename>Johann Baptista</forename>
+                  <surname>Pirchstaller</surname>
+               </persName>
+               <note type="function">Sekretär des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="wachtler_johann_antoni">
+               <persName>
+                  <forename>Johann Anton</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+               <occupation>Wirt "an der Rose" in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </occupation>
+               <note type="family">Bruder von <rs type="person" ref="#wachtler_joseph_antany">Joseph Anton Wachtler</rs>
+                    </note>
+               <note type="function">Schuldner von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs>
+                    </note>
+               <note type="function">Zeuge bei der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+                    </note>
+            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="niederkofler_josef">
                <persName>
                   <forename>Joseph</forename>
@@ -595,30 +700,22 @@
                         <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_erlach_franz_bernhart">
+            <person xml:id="aichholzer_wirt">
                <persName>
-                  <forename>Franz Bernhard</forename>
-                  <surname>von Erlach</surname>
+                  <forename/>
+                  <surname/>
+                  <addName>Aichholzer</addName>
                </persName>
-               <note type="function">Vizefaktor des k. k. Berg- und Schmelzwerkhandels in <rs type="place" ref="#schwaz">Schwaz</rs>
-                    </note>
-               <note type="family">Ehemann von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
+               <occupation>Wirt "Aichholzer"</occupation>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="prokosch_michael">
+            <person xml:id="erlacher_notburga">
                <persName>
-                  <forename>Michael</forename>
-                  <surname>Prokosch</surname>
-               </persName>
-               <idno type="URL">VIAF | OCRID</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></person>
-            <person xml:id="erlacher_maria_catharina">
-               <persName>
-                  <forename>Maria Katharina</forename>
+                  <forename>Notburga</forename>
                   <surname>von Erlach</surname>
-                  <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                        </note>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+               <note type="placing">wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)</note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="klinger_johann_niclaus">
                <persName>
@@ -632,6 +729,30 @@
                <note type="function">Anweiser von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_lutz_zu_gwelfenstein_kaspar_sebastian">
+               <persName>
+                  <forename>Kaspar Sebastian</forename>
+                  <surname>von Luz zu Gwelfenstein</surname>
+               </persName>
+               <note type="function">Apostolischer Protonotarius</note>
+               <note type="function">Ratsherr in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+               <note type="function">Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="gassmayr_antoni_ignati">
+               <persName>
+                  <forename>Anton Ignaz</forename>
+                  <surname>Gassmayr</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs> und <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs>
+                    </note>
+               <note type="function">Erblasser</note>
+               <note type="function">Priester in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+               <note type="placing">wohnhaft bei <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="salcher_jakob_vallentin">
                <persName>
                   <forename>Jakob Valentin</forename>
@@ -641,28 +762,6 @@
                     </note>
                <note type="function">Gewalthaber von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs> und ihren Kindern (1784)</note>
             <noteGrp><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="erlacher_johann_martin">
-               <persName>
-                  <forename>Johann Martin</forename>
-                  <surname>von Erlach</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="function">k.k. Waldamtpraktikant</note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="erlacher_leopold">
-               <persName>
-                  <forename>Leopold</forename>
-                  <surname>von Erlach</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="function">Professe im <rs type="place" ref="#brixen_neustift">Kloster Neustift</rs>
-                    </note>
-               <note type="placing">
-                        <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="erlacher_anna_theresia">
                <persName>
                   <forename>Anna Theresia</forename>
@@ -682,15 +781,12 @@
                <note type="family">Mutter von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_wagner_maria_ursula">
+            <person xml:id="eysankh_von_marienfels_ignati_benedict">
                <persName>
-                  <forename>Maria Ursula</forename>
-                  <surname type="birth">von Wagner</surname>
-                  <surname>Gassmayrin</surname>
+                  <forename>Ignaz Benedikt</forename>
+                  <surname>Eysank von Marienfels</surname>
                </persName>
-               <note type="family">zweite Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
+               <note type="function">Anweiser im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="klammer_josef">
@@ -699,6 +795,42 @@
                   <surname>Klammer</surname>
                </persName>
                <note type="function">Kaplan [Presbyter] in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_erlach_franz_bernhart">
+               <persName>
+                  <forename>Franz Bernhard</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="function">Vizefaktor des k. k. Berg- und Schmelzwerkhandels in <rs type="place" ref="#schwaz">Schwaz</rs>
+                    </note>
+               <note type="family">Ehemann von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="anrather_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Anrather</surname>
+               </persName>
+               <occupation>Chirurg</occupation>
+               <note type="placing">
+                        <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </note>
+            <noteGrp><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_elzenbaum_johann_rudolph">
+               <persName>
+                  <forename>Johann Rudolf</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+               <note type="function">Expeditor (1781)</note>
+               <note type="function">Anweiser von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> (1784)</note>
+            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_sonvicis_joseph_ignaz">
+               <persName>
+                  <forename>Joseph Ignaz</forename>
+                  <surname>von Sonvicis</surname>
+               </persName>
+               <note type="function">Kurator der <rs type="person" ref="#erlacher_notburga">Notburga Erlachin</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="erlacher_maria_theresia">
@@ -710,65 +842,6 @@
                <note type="family">Schwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
                     </note>
                <note type="family">Ehefrau von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="gassmayr_antoni_ignati">
-               <persName>
-                  <forename>Anton Ignaz</forename>
-                  <surname>Gassmayr</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs> und <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs>
-                    </note>
-               <note type="function">Erblasser</note>
-               <note type="function">Priester in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-               <note type="placing">wohnhaft bei <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_lutz_zu_gwelfenstein_kaspar_sebastian">
-               <persName>
-                  <forename>Kaspar Sebastian</forename>
-                  <surname>von Luz zu Gwelfenstein</surname>
-               </persName>
-               <note type="function">Apostolischer Protonotarius</note>
-               <note type="function">Ratsherr in <rs type="place" ref="#brixen">Brixen</rs>
-                    </note>
-               <note type="function">Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_sonvicis_joseph_ignaz">
-               <persName>
-                  <forename>Joseph Ignaz</forename>
-                  <surname>von Sonvicis</surname>
-               </persName>
-               <note type="function">Kurator der <rs type="person" ref="#erlacher_notburga">Notburga Erlachin</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_aschauer_franz_carl">
-               <persName>
-                  <forename>Franz Karl</forename>
-                  <surname>von Aschauer von Achenrain</surname>
-               </persName>
-               <note type="family">Ehemann von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
-                    </note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_elzenbaum_christoph">
-               <persName>
-                  <forename>Christoph</forename>
-                  <surname>von Elzenbaum</surname>
-               </persName>
-               <note type="function">Verraiter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs> (1710)</note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-
-<person xml:id="von_eiberg_maria_anna">
-               <persName>
-                  <forename>Maria Anna</forename>
-                  <surname type="birth">von Eiberg</surname>
-                  <surname>Gassmayrin</surname>
-               </persName>
-               <note type="family">dritte Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
-                    </note>
-               <note type="family">Mutter von <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="gassmayr_joseph">
@@ -784,37 +857,32 @@
                         <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="gassmayr_maria_notburga">
+            <person xml:id="durregger_jacob">
                <persName>
-                  <forename>Maria Notburga</forename>
-                  <surname>Gassmayrin</surname>
+                  <forename>Jakob</forename>
+                  <surname>Duregger</surname>
+                  <addName>Oberlinder</addName>
                </persName>
-               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
+               <note type="placing">
+                        <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="pirchstaller_johann_baptist">
+            <person xml:id="erlacher_johann_martin">
                <persName>
-                  <forename>Johann Baptista</forename>
-                  <surname>Pirchstaller</surname>
+                  <forename>Johann Martin</forename>
+                  <surname>von Erlach</surname>
                </persName>
-               <note type="function">Sekretär des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
                     </note>
+               <note type="function">k.k. Waldamtpraktikant</note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="von_elzenbaum_johann_rudolph">
+            <person xml:id="erlacher_maria_catharina">
                <persName>
-                  <forename>Johann Rudolf</forename>
-                  <surname>von Elzenbaum</surname>
+                  <forename>Maria Katharina</forename>
+                  <surname>von Erlach</surname>
+                  <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
+                        </note>
                </persName>
-               <note type="function">Expeditor (1781)</note>
-               <note type="function">Anweiser von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> (1784)</note>
-            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="eysankh_von_marienfels_ignati_benedict">
-               <persName>
-                  <forename>Ignaz Benedikt</forename>
-                  <surname>Eysank von Marienfels</surname>
-               </persName>
-               <note type="function">Anweiser im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
-                    </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="klinger_maria_veronica">
                <persName>
@@ -827,16 +895,68 @@
                <note type="family">Ehefrau von <rs type="person" ref="#klinger_johann_niclaus">Johann Nikolaus Klingler</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="anrather_franz">
+            <person xml:id="von_eiberg_maria_anna">
                <persName>
-                  <forename>Franz</forename>
-                  <surname>Anrather</surname>
+                  <forename>Maria Anna</forename>
+                  <surname type="birth">von Eiberg</surname>
+                  <surname>Gassmayrin</surname>
                </persName>
-               <occupation>Chirurg</occupation>
-               <note type="placing">
-                        <rs type="place" ref="#brunegg">Bruneck</rs>
+               <note type="family">dritte Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
                     </note>
-            <noteGrp><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+               <note type="family">Mutter von <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_aschauer_franz_carl">
+               <persName>
+                  <forename>Franz Karl</forename>
+                  <surname>von Aschauer von Achenrain</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="steinburger_johann_stephann">
+               <persName>
+                  <forename>Johann Stefan</forename>
+                  <surname>Steinberger</surname>
+               </persName>
+               <note type="function">Candidatus beider Rechte</note>
+               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
+                    </note>
+            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_wagner_maria_ursula">
+               <persName>
+                  <forename>Maria Ursula</forename>
+                  <surname type="birth">von Wagner</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">zweite Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs>
+                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>
+                    </note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <person xml:id="von_elzenbaum_christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+               <note type="function">Verraiter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs> (1710)</note>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+
+<person xml:id="prokosch_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Prokosch</surname>
+               </persName>
+               <idno type="URL">VIAF | OCRID</idno>
+            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></person>
+            <person xml:id="taxis_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Taxis</surname>
+               </persName>
+               <note type="function">Vorsitzender [Präsident] des Konsistoriums in <rs type="place" ref="#brixen">Brixen</rs>
+                    </note>
+            <noteGrp><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="von_aschauer_maria_agnes">
                <persName>
                   <forename>Maria Agnes</forename>
@@ -848,20 +968,14 @@
                <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="wachtler_johann_antoni">
+            <person xml:id="gassmayr_maria_notburga">
                <persName>
-                  <forename>Johann Anton</forename>
-                  <surname>Wachtler</surname>
+                  <forename>Maria Notburga</forename>
+                  <surname>Gassmayrin</surname>
                </persName>
-               <occupation>Wirt "an der Rose" in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </occupation>
-               <note type="family">Bruder von <rs type="person" ref="#wachtler_joseph_antany">Joseph Anton Wachtler</rs>
+               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
                     </note>
-               <note type="function">Schuldner von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs>
-                    </note>
-               <note type="function">Zeuge bei der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>
-                    </note>
-            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
+            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
             <person xml:id="gassmayr_antoni_senior">
                <persName>
                   <forename>Johann Anton</forename>
@@ -878,121 +992,7 @@
                <note type="function">Faktor des Kupferbergwerks im <rs type="place" ref="#aehrn">Ahrntal</rs>
                     </note>
             <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            <person xml:id="erlacher_notburga">
-               <persName>
-                  <forename>Notburga</forename>
-                  <surname>von Erlach</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>
-                    </note>
-               <note type="placing">wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)</note>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></person>
-            </listPerson><listPlace><place xml:id="taufers">
-               <placeName>Taufers</placeName>
-               <placeName type="italiano">Tures</placeName>
-               <location>
-                        <geo decls="#LatLng">46.9112 11.94835</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
-            <place xml:id="innsbruck">
-               <placeName>Innsbruck</placeName>
-               <location>
-                        <geo decls="#LatLng">47.26266 11.39454</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            <place xml:id="schwaz">
-               <placeName>Schwaz</placeName>
-               <district>Freundsberg</district>
-               <location>
-                        <geo decls="#LatLng">47.35169 11.71014</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/2765390</idno>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="italiano">San Michele</placeName>
-               <location>
-                        <geo decls="#LatLng">46.772172 11.892502</geo>
-                    </location>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
-            <place xml:id="brunegg">
-               <placeName>Bruneck</placeName>
-               <placeName type="italiano">Brunico</placeName>
-               <location>
-                        <geo decls="#LatLng">46.79942 11.93429</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1766-08-11.xml" type="mentions">Pichler Joseph (Kaplan)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
-            <place xml:id="stainhaus">
-               <placeName>Steinhaus</placeName>
-               <placeName type="italiano">Cadipietra</placeName>
-	             <settlement ref="#aehrn">Ahrntal</settlement>
-               <location>
-                        <geo decls="#LatLng">46.995 11.98</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8950556</idno>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
-               <placeName type="italiano">San Lorenzo di Sebato</placeName>
-               <district ref="#saenct_michaelspurg">St. Michaelsburg</district>
-               <location>
-                        <geo decls="#LatLng">46.78514 11.90812</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note><note target="inventar__1798-09-01.xml" type="mentions">Hueber Jakob (Benefiziat in Saalen)</note></noteGrp></place>
-            <place xml:id="st_lorenzen_kirche">
-               <placeName>St. Lorenzen (Kirche)</placeName>
-               <placeName type="italiano">Chiesa di S. Lorenzo</placeName>
-               <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
-               <location>
-                        <geo decls="#LatLng">46.783527 11.902577</geo>
-                    </location>
-            <noteGrp><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1766-06-30.xml" type="mentions">Sigmayr Andreas (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
-            <place xml:id="lemberg">
-               <placeName>Lemberg / Lviv</placeName>
-               <location>
-                        <geo decls="#LatLng">49.83826 24.02324</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/702550</idno>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            <place xml:id="aehrn">
-               <placeName>Ahrntal</placeName>
-               <placeName type="italiano">Valle Aurina</placeName>
-               <district ref="#taufers">Taufers</district>
-               <location>
-                        <geo decls="#LatLng">46.99623 11.97988</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/6536019</idno>
-            <noteGrp><note target="inventar__1750-07-08.xml" type="mentions">Stockherin Maria Ursula (Terziarschwester)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            <place xml:id="soneburg">
-               <placeName>Sonnenburg</placeName>
-               <placeName type="italiano">Castelbadia</placeName>
-               <location>
-                        <geo decls="#LatLng">46.78644 11.89123</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
-            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1792-11-13.xml" type="mentions">Tratter Josef (Kaplan)</note><note target="inventar__1797-12-01.xml" type="mentions">Lechner Georg (Beneficiat / Priester und Lokalkaplan)</note><note target="inventar__1798-03-16.xml" type="mentions">Manucredo Anton Sebastian (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
-            <place xml:id="brixen">
-               <placeName>Brixen</placeName>
-               <placeName type="italiano">Bressanone</placeName>
-               <location>
-                        <geo decls="#LatLng">46.71503 11.65598</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
-            <noteGrp><note target="inventar__1752-10-11.xml" type="mentions">Manucredo Marcus Aurelius (Kooperator)</note><note target="inventar__1756-03-15.xml" type="mentions">Stainer Sebastian Joseph (Benefiziat)</note><note target="inventar__1761-07-23.xml" type="mentions">Fezl Christoph Sebastian (Benefiziat)</note><note target="inventar__1762-01-28.xml" type="mentions">Mitterdorfer Jakob Christoph (Kooperator)</note><note target="inventar__1771-04-17.xml" type="mentions">Jais Coelestin Johann (Kooperator)</note><note target="inventar__1773-12-17.xml" type="mentions">Gasser Joseph (Benefiziat)</note><note target="inventar__1781-03-06.xml" type="mentions">Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</note><note target="inventar__1781-05-07.xml" type="mentions">Stocker Franz (Benefiziat)</note><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note><note target="inventar__1798-08-12.xml" type="mentions">Steger Leopold Nikolaus (Beneficiat in der Heiligkreuzkirche)</note></noteGrp></place>
-            <place xml:id="brixen_neustift">
-               <placeName>Neustift (Kloster)</placeName>
-               <placeName type="italiano">Abbazia Di Novacella</placeName>
-               <district ref="#brixen">Brixen</district>
-               <location>
-                        <geo decls="#LatLng">46.74247 11.6489</geo>
-                    </location>
-               <idno type="GEONAMES">https://www.geonames.org/11789813</idno>
-            <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></place>
-            </listPlace><listBibl><bibl xml:id="undefined14">
+            </listPerson><listBibl><bibl xml:id="undefined14">
           <title>undefiniert: (sämtliche) mehrere Bücher</title>
         <noteGrp><note target="inventar__1784-0417.xml" type="mentions">Gassmayr Anton Ignaz (Priester)</note></noteGrp></bibl>
         </listBibl></back></text>
