@@ -21,6 +21,11 @@ except ObjectNotFound:
 
 current_schema = {
     "name": "rita",
+    "metadata": {
+        "owners": ["Peter Andorfer"],
+        "description": "https://github.com/acdh-oeaw/daacda-static",
+        "service_ids": [6930],
+    },
     "fields": [
         {"name": "id", "type": "string"},
         {"name": "rec_id", "type": "string"},
